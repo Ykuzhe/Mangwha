@@ -8,9 +8,81 @@
     "1": {
       "title": "Shinmen Takezo",
       "volume": "1",
-      "last_updated": "1668667408",
+      "last_updated": "1017989008",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/XGfLcJh"
+      }
+    },
+    "2": {
+      "title": "Akemi ",
+      "volume": "1",
+      "last_updated": "1017990433",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/RYr0vKU"
+      }
+    },
+    "3": {
+      "title": "Oko",
+      "volume": "1",
+      "last_updated": "1017990525",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Yh8jPgf"
+      }
+    },
+    "4": {
+      "title": "The Brigand Tsujikaze",
+      "volume": "1",
+      "last_updated": "1017990624",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/PtyfWmF"
+      }
+    },
+    "5": {
+      "title": "Blood Game",
+      "volume": "1",
+      "last_updated": "1017990794",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/nLQBUum"
+      }
+    },
+    "6": {
+      "title": "The Troubles of Hon'iden Matahachi at Seventeen",
+      "volume": "1",
+      "last_updated": "1017990992",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/pLNSd1z"
+      }
+    },
+    "7": {
+      "title": "Farewell Takezo",
+      "volume": "1",
+      "last_updated": "1017991059",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/MgN0ZXG"
+      }
+    },
+    "8": {
+      "title": "Miyamoto Village",
+      "volume": "1",
+      "last_updated": "1017991192",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/WsscKSA"
+      }
+    },
+    "9": {
+      "title": "Fiancee",
+      "volume": "1",
+      "last_updated": "1017991380",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/3RizfEf"
+      }
+    },
+    "10": {
+      "title": "Left Behind",
+      "volume": "1",
+      "last_updated": "1017991459",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/XYE4qG5"
       }
     }
   }
