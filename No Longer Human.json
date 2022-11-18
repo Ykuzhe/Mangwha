@@ -74,7 +74,7 @@
       "volume": "2",
       "last_updated": "1668761256",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/gzEFKCj"
+        "VIZ Media": "/proxy/api/imgur/chapter/UL5WO0va"
       }
     },
     "10": {
@@ -82,7 +82,7 @@
       "volume": "2",
       "last_updated": "1668761407",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/kaxaJEN"
+        "VIZ Media": "/proxy/api/imgur/chapter/Ig4j68O"
       }
     },
     "11": {
@@ -106,7 +106,7 @@
       "volume": "2",
       "last_updated": "1668761937",
       "groups": {
-        "VIZ Media": "Tragicomic"
+        "VIZ Media": "/proxy/api/imgur/chapter/e31XuOU"
       }
     },
     "14": {
@@ -115,6 +115,22 @@
       "last_updated": "1668762083",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/RsfUwDK"
+      }
+    },
+    "15": {
+      "title": "The Deepest Hell",
+      "volume": "2",
+      "last_updated": "1668763269",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/beCERA4"
+      }
+    },
+    "16": {
+      "title": "Spellbound",
+      "volume": "2",
+      "last_updated": "1668763448",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/K7y16WP"
       }
     }
   }
