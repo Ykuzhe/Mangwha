@@ -4,5 +4,62 @@
   "artist": "Junji Ito ",
   "author": "Osamu Dazai",
   "cover": "https://mangadex.org/covers/48563de8-7669-4cd3-9dc0-7cbc945e8a8a/d860edae-be60-4cfc-a01f-50286fd1b6c9.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Yozo Oba",
+      "volume": "1",
+      "last_updated": "1668752629",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/moMZgXh"
+      }
+    },
+    "2": {
+      "title": "Clown",
+      "volume": "1",
+      "last_updated": "1668752649",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/QmSh1Ig"
+      }
+    },
+    "3": {
+      "title": "The Human Female",
+      "volume": "1",
+      "last_updated": "1668753173",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/l81ZE0Z"
+      }
+    },
+    "4": {
+      "title": "Good for Nothing",
+      "volume": "1",
+      "last_updated": "1668753312",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/NWcaLyz"
+      }
+    },
+    "5": {
+      "title": "Outcast",
+      "volume": "1",
+      "last_updated": "1668753425",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/oTmsCFt"
+      }
+    },
+    "6": {
+      "title": "Tsuneko",
+      "volume": "1",
+      "last_updated": "1668753551",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/9sLOsJ0"
+      }
+    },
+    "7": {
+      "title": "Paradise",
+      "volume": "1",
+      "last_updated": "1668753660",
+      "groups": {
+        "VIZ Media": ""
+      }
+    }
+  }
 }
