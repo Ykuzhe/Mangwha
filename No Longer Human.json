@@ -1,5 +1,5 @@
 {
-  "title": "No Longer Human (Not finished.)",
+  "title": "No Longer Human",
   "description": "Macabre manga master Junji Ito applys his singularly anxious touch to a manga adaptation based on No Longer Human (Ningen Shikkaku in the original Japanese), a classic of modern Japanese literature written by Osamu Dazai. The poignant and fascinating story of a young man who is caught between the breakup of the traditions of a northern Japanese aristocratic family and the impact of Western ideas. Portraying himself as a failure, the protagonist of Osamu Dazai's No Longer Human narrates a seemingly normal life even while he feels himself incapable of understanding human beings. Oba Yozo's attempts to reconcile himself to the world around him begin in early childhood, continue through high school, where he becomes a \"clown\" to mask his alienation, and eventually lead to a failed suicide attempt as an adult. Without sentimentality, he records the casual cruelties of life and its fleeting moments of human connection and tenderness.\n\nThanks to LuCaz for uploading this to Nyaa.si!\nNyaa.si link: https://nyaa.si/view/1204501",
   "artist": "Junji Ito ",
   "author": "Osamu Dazai",
@@ -147,6 +147,54 @@
       "last_updated": "1668765289",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/lkTA0fb"
+      }
+    },
+    "19": {
+      "title": "Doubt",
+      "volume": "3",
+      "last_updated": "1668765440",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Ggybn8u"
+      }
+    },
+    "20": {
+      "title": "Obsession",
+      "volume": "3",
+      "last_updated": "1668765565",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/7HSWwQ9"
+      }
+    },
+    "21": {
+      "title": "No Longer Human",
+      "volume": "3",
+      "last_updated": "1668765707",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/TIdsW1w"
+      }
+    },
+    "22": {
+      "title": "Real Name",
+      "volume": "3",
+      "last_updated": "1668765986",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/fYgPB2j"
+      }
+    },
+    "23": {
+      "title": "Comedy",
+      "volume": "3",
+      "last_updated": "1668766157",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/DAK9Z4L"
+      }
+    },
+    "24": {
+      "title": "Everything Passes",
+      "volume": "3",
+      "last_updated": "1668766310",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/HBYpdsn"
       }
     }
   }
