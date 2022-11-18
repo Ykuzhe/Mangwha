@@ -132,6 +132,22 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/K7y16WP"
       }
+    },
+    "17": {
+      "title": "Hiroko",
+      "volume": "3",
+      "last_updated": "1668764995",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/db4ecd9"
+      }
+    },
+    "18": {
+      "title": "Heaven and Hell",
+      "volume": "3",
+      "last_updated": "1668765289",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/lkTA0fb"
+      }
     }
   }
 }
