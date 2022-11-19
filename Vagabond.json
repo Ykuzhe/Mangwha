@@ -90,7 +90,7 @@
       "volume": "2",
       "last_updated": "1025914749",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/c1R5alt"
+        "VIZ Media": "/proxy/api/imgur/chapter/XyzgMUy"
       }
     },
     "12": {
@@ -104,7 +104,7 @@
     "13": {
       "title": "Life",
       "volume": "2",
-      "last_updated": "1668817635",
+      "last_updated": "1025915235",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/gP0JvIY"
       }
@@ -178,7 +178,23 @@
       "volume": "3",
       "last_updated": "1033866213",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/C9LCt6z"
+        "VIZ Media": "/proxy/api/imgur/chapter/SLKKaER"
+      }
+    },
+    "23": {
+      "title": "The FIrst Step",
+      "volume": "3",
+      "last_updated": "1033867080",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/doQ2OI7"
+      }
+    },
+    "24": {
+      "title": "24",
+      "volume": "3",
+      "last_updated": "1668820769",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/doQ2OI7"
       }
     }
   }
