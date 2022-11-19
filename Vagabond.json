@@ -262,13 +262,67 @@
       }
     },
     "33": {
-      "title": "33",
+      "title": "Departures",
       "volume": "4",
-      "last_updated": "1668821671",
+      "last_updated": "1043199271",
       "groups": {
-        "VIZ Media": [
-          ""
-        ]
+        "VIZ Media": "/proxy/api/imgur/chapter/BmDoXba"
+      }
+    },
+    "34": {
+      "title": "Departures II",
+      "volume": "4",
+      "last_updated": "1043199410",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/K1ZrIfZ"
+      }
+    },
+    "35": {
+      "title": "Distraction",
+      "volume": "4",
+      "last_updated": "1043199515",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/X0qXRNN"
+      }
+    },
+    "36": {
+      "title": "Hozoin",
+      "volume": "4",
+      "last_updated": "1043199552",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/8tWGDN0"
+      }
+    },
+    "37": {
+      "title": "Bloodthirst",
+      "volume": "4",
+      "last_updated": "1043199598",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/4Db3Fej"
+      }
+    },
+    "38": {
+      "title": "Graceless",
+      "volume": "4",
+      "last_updated": "1043199972",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/g2ZYL5U"
+      }
+    },
+    "39": {
+      "title": "Inshun",
+      "volume": "4",
+      "last_updated": "1043200045",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/oC4fUbE"
+      }
+    },
+    "40": {
+      "title": "Agon",
+      "volume": "4",
+      "last_updated": "1043200078",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/XASujeE"
       }
     }
   }
