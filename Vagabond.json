@@ -190,11 +190,85 @@
       }
     },
     "24": {
-      "title": "24",
+      "title": "The Challenge",
       "volume": "3",
-      "last_updated": "1668820769",
+      "last_updated": "1033867169",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/doQ2OI7"
+        "VIZ Media": "/proxy/api/imgur/chapter/6x0URKX"
+      }
+    },
+    "25": {
+      "title": "Chaos at the Yoshioka School",
+      "volume": "3",
+      "last_updated": "1033867722",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/5xUO7X8"
+      }
+    },
+    "26": {
+      "title": "Patriarch",
+      "volume": "3",
+      "last_updated": "1033867776",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/nRTWzPx"
+      }
+    },
+    "27": {
+      "title": "Instinct",
+      "volume": "3",
+      "last_updated": "1033867807",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/bIwhdLo"
+      }
+    },
+    "28": {
+      "title": "Demon II",
+      "volume": "3",
+      "last_updated": "1033867847",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/5i2b1pG"
+      }
+    },
+    "29": {
+      "title": "Ignorance",
+      "volume": "3",
+      "last_updated": "1033867892",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/SsegR3f"
+      }
+    },
+    "30": {
+      "title": "A Single Stroke",
+      "volume": "3",
+      "last_updated": "1033867921",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/m3GNTIt"
+      }
+    },
+    "31": {
+      "title": "Inferno",
+      "volume": "3",
+      "last_updated": "1033867956",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/y6sYwyX"
+      }
+    },
+    "32": {
+      "title": "Wanderers",
+      "volume": "4",
+      "last_updated": "1043199185",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/gwD7P6J"
+      }
+    },
+    "33": {
+      "title": "33",
+      "volume": "4",
+      "last_updated": "1668821671",
+      "groups": {
+        "VIZ Media": [
+          ""
+        ]
       }
     }
   }
