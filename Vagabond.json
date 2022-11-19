@@ -544,9 +544,161 @@
     "68": {
       "title": "No Sword",
       "volume": "7",
-      "last_updated": "1668866813",
+      "last_updated": "1066226813",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/VLitWxn"
+      }
+    },
+    "69": {
+      "title": "Life II",
+      "volume": "8",
+      "last_updated": "1072879795",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/YieZOjJ"
+      }
+    },
+    "70": {
+      "title": "Life III",
+      "volume": "8",
+      "last_updated": "1072879899",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/StwaRqr"
+      }
+    },
+    "71": {
+      "title": "Inshun",
+      "volume": "8",
+      "last_updated": "1072879973",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/vOQ5JVf"
+      }
+    },
+    "72": {
+      "title": "Shinnosuke",
+      "volume": "8",
+      "last_updated": "1072880007",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/vOQ5JVf"
+      }
+    },
+    "73": {
+      "title": "Playing in the Sand",
+      "volume": "8",
+      "last_updated": "1072880065",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/1xhqd6T"
+      }
+    },
+    "74": {
+      "title": "Sudden Storm",
+      "volume": "8",
+      "last_updated": "1072880109",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Nk56sgJ"
+      }
+    },
+    "75": {
+      "title": "Survivors",
+      "volume": "8",
+      "last_updated": "1072880158",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/gJDaKiP"
+      }
+    },
+    "76": {
+      "title": "Don't Put Your Life on the Line",
+      "volume": "8",
+      "last_updated": "1072880189",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/MRW34gD"
+      }
+    },
+    "77": {
+      "title": "They Call Me Sensei",
+      "volume": "8",
+      "last_updated": "1072880262",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/6lgFygh"
+      }
+    },
+    "78": {
+      "title": "Ascending Dragon",
+      "volume": "8",
+      "last_updated": "1072880322",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/WYmF58L"
+      }
+    },
+    "79": {
+      "title": "The Yagyu",
+      "volume": "9",
+      "last_updated": "1080742766",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/MTOyZzn"
+      }
+    },
+    "80": {
+      "title": "Coming Home",
+      "volume": "9",
+      "last_updated": "1080742840",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/RbQiGsf"
+      }
+    },
+    "81": {
+      "title": "The Peony Message",
+      "volume": "9",
+      "last_updated": "1080742938",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/1lnpuZK"
+      }
+    },
+    "82": {
+      "title": "Successor to the Invincible",
+      "volume": "9",
+      "last_updated": "1080743039",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/CmSZY1C"
+      }
+    },
+    "83": {
+      "title": "Legacy",
+      "volume": "9",
+      "last_updated": "1080743094",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/R0EMAnN"
+      }
+    },
+    "84": {
+      "title": "Promise",
+      "volume": "9",
+      "last_updated": "1080743132",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/CtIPgxS"
+      }
+    },
+    "85": {
+      "title": "Ship of Stone",
+      "volume": "9",
+      "last_updated": "1080743165",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/9b5c3OS"
+      }
+    },
+    "86": {
+      "title": "A Round of Discussion",
+      "volume": "9",
+      "last_updated": "1080743205",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Juv7fJc"
+      }
+    },
+    "87": {
+      "title": "Provocateur",
+      "volume": "9",
+      "last_updated": "1080743294",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/I7SCnZF"
       }
     }
   }
