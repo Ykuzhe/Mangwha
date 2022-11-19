@@ -324,6 +324,78 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/XASujeE"
       }
+    },
+    "41": {
+      "title": "The Assassin",
+      "volume": "5",
+      "last_updated": "1048212806",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/R4fWHSM"
+      }
+    },
+    "42": {
+      "title": "Howl",
+      "volume": "5",
+      "last_updated": "1048212944",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/I1ZxyV2"
+      }
+    },
+    "43": {
+      "title": "\"Inshun's Spear",
+      "volume": "5",
+      "last_updated": "1048212992",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/bSYgVtB"
+      }
+    },
+    "44": {
+      "title": "Life",
+      "volume": "5",
+      "last_updated": "1048213047",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/3BVibRm"
+      }
+    },
+    "45": {
+      "title": "Unease",
+      "volume": "5",
+      "last_updated": "1048213118",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/uWsamAE"
+      }
+    },
+    "46": {
+      "title": "The Demon Within",
+      "volume": "5",
+      "last_updated": "1048213148",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/2PNE4Gd"
+      }
+    },
+    "47": {
+      "title": "Fear",
+      "volume": "5",
+      "last_updated": "1048213188",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/AfFo0qM"
+      }
+    },
+    "48": {
+      "title": "Fear II",
+      "volume": "5",
+      "last_updated": "1048213222",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/d2yFBl1"
+      }
+    },
+    "49": {
+      "title": "Fear III",
+      "volume": "5",
+      "last_updated": "1048213382",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/PA3Bz9y"
+      }
     }
   }
 }
