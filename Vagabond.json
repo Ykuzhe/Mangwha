@@ -400,9 +400,81 @@
     "50": {
       "title": "Surviving",
       "volume": "6",
-      "last_updated": "1668858823",
+      "last_updated": "1058788423",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/pXXJrAY"
+        "VIZ Media": "/proxy/api/imgur/chapter/B4CibhS"
+      }
+    },
+    "51": {
+      "title": "Lying Low",
+      "volume": "6",
+      "last_updated": "1058789561",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zTH7HDJ"
+      }
+    },
+    "52": {
+      "title": "Lying Low II",
+      "volume": "6",
+      "last_updated": "1058789599",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/KBCDBUS"
+      }
+    },
+    "53": {
+      "title": "Journey",
+      "volume": "6",
+      "last_updated": "1058789638",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ykIx08i"
+      }
+    },
+    "54": {
+      "title": "54",
+      "volume": "6",
+      "last_updated": "1058789943",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ZZQoAf4"
+      }
+    },
+    "55": {
+      "title": "The Decision of a Formerly Kept Man",
+      "volume": "6",
+      "last_updated": "1058790042",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/wYQr09E"
+      }
+    },
+    "56": {
+      "title": "Osaka",
+      "volume": "6",
+      "last_updated": "1058790157",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/8f7XJEA"
+      }
+    },
+    "57": {
+      "title": "Vermin",
+      "volume": "6",
+      "last_updated": "1058790196",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/bHFBt8z"
+      }
+    },
+    "58": {
+      "title": "Sasaki Kojiro",
+      "volume": "6",
+      "last_updated": "1058790225",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/uegbIWo"
+      }
+    },
+    "59": {
+      "title": "Hozoin Pickles",
+      "volume": "6",
+      "last_updated": "1668860678",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/2MXPbV9"
       }
     }
   }
