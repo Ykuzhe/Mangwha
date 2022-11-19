@@ -108,6 +108,78 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/gP0JvIY"
       }
+    },
+    "14": {
+      "title": "Cut Down",
+      "volume": "2",
+      "last_updated": "1025916911",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/VqWk7by"
+      }
+    },
+    "15": {
+      "title": "No Fear",
+      "volume": "2",
+      "last_updated": "1025916953",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Y7coul3"
+      }
+    },
+    "16": {
+      "title": "Captured",
+      "volume": "2",
+      "last_updated": "1025917034",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/WRPhdKb"
+      }
+    },
+    "17": {
+      "title": "Invincible Under the Sun",
+      "volume": "2",
+      "last_updated": "1025917072",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/kAfqnbf"
+      }
+    },
+    "18": {
+      "title": "Tree of Shame",
+      "volume": "2",
+      "last_updated": "1025917157",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/kAfqnbf"
+      }
+    },
+    "19": {
+      "title": "The Demon's Child",
+      "volume": "2",
+      "last_updated": "1025917200",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/7uI0PNq"
+      }
+    },
+    "20": {
+      "title": "Death",
+      "volume": "2",
+      "last_updated": "1025917232",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/QlFTxFQ"
+      }
+    },
+    "21": {
+      "title": "A Place in the Sun",
+      "volume": "2",
+      "last_updated": "1025917260",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/q8NSBTH"
+      }
+    },
+    "22": {
+      "title": "Miyamoto Musashi",
+      "volume": "3",
+      "last_updated": "1033866213",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/C9LCt6z"
+      }
     }
   }
 }
