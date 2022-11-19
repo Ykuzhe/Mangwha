@@ -476,6 +476,78 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/2MXPbV9"
       }
+    },
+    "60": {
+      "title": "Duel's Eve",
+      "volume": "7",
+      "last_updated": "1066226108",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/iIAyqrw"
+      }
+    },
+    "61": {
+      "title": "Duel's Eve II",
+      "volume": "7",
+      "last_updated": "1066226164",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Rz31evL"
+      }
+    },
+    "62": {
+      "title": "Dawn",
+      "volume": "7",
+      "last_updated": "1066226209",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/2RwvsMN"
+      }
+    },
+    "63": {
+      "title": "Spider's Thread",
+      "volume": "7",
+      "last_updated": "1066226262",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/mc1cm8t"
+      }
+    },
+    "64": {
+      "title": "Heaven and Earth",
+      "volume": "7",
+      "last_updated": "1066226282",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/KLcMexL"
+      }
+    },
+    "65": {
+      "title": "Legacy",
+      "volume": "7",
+      "last_updated": "1066226325",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/2PItYuu"
+      }
+    },
+    "66": {
+      "title": "The Master",
+      "volume": "7",
+      "last_updated": "1066226629",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/8QYHdTp"
+      }
+    },
+    "67": {
+      "title": "Kami'izumi Ise no Kami Hidetsuna",
+      "volume": "7",
+      "last_updated": "1066226750",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/VfiWbBe"
+      }
+    },
+    "68": {
+      "title": "No Sword",
+      "volume": "7",
+      "last_updated": "1668866813",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/VLitWxn"
+      }
     }
   }
 }
