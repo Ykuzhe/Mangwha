@@ -1020,6 +1020,134 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/FEDnrR5"
       }
+    },
+    "128": {
+      "title": "The Letter",
+      "volume": "14",
+      "last_updated": "1094486400",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/lb9XerX"
+      }
+    },
+    "129": {
+      "title": "Hands",
+      "volume": "14",
+      "last_updated": "1094522944",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/4N4q69L"
+      }
+    },
+    "130": {
+      "title": "Glimmering Waves",
+      "volume": "14",
+      "last_updated": "1094522979",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/lWAtRvC"
+      }
+    },
+    "131": {
+      "title": "Seaweed",
+      "volume": "14",
+      "last_updated": "1094523027",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/nk4ncDV"
+      }
+    },
+    "132": {
+      "title": "Fate",
+      "volume": "14",
+      "last_updated": "1094523084",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/PiemtnF"
+      }
+    },
+    "133": {
+      "title": "To Live by the Sword",
+      "volume": "14",
+      "last_updated": "1094523107",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/FvVXwj6"
+      }
+    },
+    "134": {
+      "title": "Driftwood",
+      "volume": "14",
+      "last_updated": "1094523151",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/rKrPjlO"
+      }
+    },
+    "135": {
+      "title": "The Plan",
+      "volume": "14",
+      "last_updated": "1094523184",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Vg6Zrvk"
+      }
+    },
+    "136": {
+      "title": "Kojiro and Tenki",
+      "volume": "14",
+      "last_updated": "1094523217",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/NPCKtAW"
+      }
+    },
+    "137": {
+      "title": "A Gift From the Sea",
+      "volume": "15",
+      "last_updated": "1097547293",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/lcn3CGx"
+      }
+    },
+    "138": {
+      "title": "Farewell, Kojiro",
+      "volume": "15",
+      "last_updated": "1097547364",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/2rDnrZC"
+      }
+    },
+    "139": {
+      "title": "Butterfly",
+      "volume": "15",
+      "last_updated": "1097547399",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/yL1uWgi"
+      }
+    },
+    "140": {
+      "title": "Flames",
+      "volume": "15",
+      "last_updated": "1097547450",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/0h1sGrr"
+      }
+    },
+    "141": {
+      "title": "Sword Against Sword",
+      "volume": "15",
+      "last_updated": "1097547548",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/uUQV83Z"
+      }
+    },
+    "142": {
+      "title": "Savior",
+      "volume": "15",
+      "last_updated": "1097547648",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/E5F3ZVJ"
+      }
+    },
+    "143": {
+      "title": "The Kanemaki Dojo",
+      "volume": "15",
+      "last_updated": "1097547722",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/VTLQ4tn"
+      }
     }
   }
 }
