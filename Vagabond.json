@@ -776,9 +776,97 @@
     "97": {
       "title": "Sliding Door",
       "volume": "10",
-      "last_updated": "1668905687",
+      "last_updated": "1083718487",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/Qo1CEQ8"
+      }
+    },
+    "98": {
+      "title": "Unrivaled",
+      "volume": "11",
+      "last_updated": "1087347528",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/HpxjnIU"
+      }
+    },
+    "99": {
+      "title": "Son of the Invincible",
+      "volume": "11",
+      "last_updated": "1087347587",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Fiwl21X"
+      }
+    },
+    "100": {
+      "title": "The Real Thing",
+      "volume": "11",
+      "last_updated": "1087347629",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ukdm4Se"
+      }
+    },
+    "101": {
+      "title": "The Blue Sky",
+      "volume": "11",
+      "last_updated": "1087347657",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Vvbf1QK"
+      }
+    },
+    "102": {
+      "title": "The Infinite Universe",
+      "volume": "11",
+      "last_updated": "1087347752",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/h8CQ15i"
+      }
+    },
+    "103": {
+      "title": "Farewell at Dawn",
+      "volume": "11",
+      "last_updated": "1087347799",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/tv91hwW"
+      }
+    },
+    "104": {
+      "title": "Autumn Sky",
+      "volume": "11",
+      "last_updated": "1087347951",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/RwFyltF"
+      }
+    },
+    "105": {
+      "title": "Journey",
+      "volume": "11",
+      "last_updated": "1087347979",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/NMiwvzI"
+      }
+    },
+    "106": {
+      "title": "Footprints",
+      "volume": "11",
+      "last_updated": "1087348037",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/FEvn0Tk"
+      }
+    },
+    "107": {
+      "title": "The Road to Ise",
+      "volume": "11",
+      "last_updated": "1087348081",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/A5VolwY"
+      }
+    },
+    "108": {
+      "title": "Summit",
+      "volume": "12",
+      "last_updated": "1089162624",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Nusck2F"
       }
     }
   }
