@@ -972,6 +972,54 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/CGwVQcs"
       }
+    },
+    "122": {
+      "title": "Moths",
+      "volume": "13",
+      "last_updated": "1092103050",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zB99Vxl"
+      }
+    },
+    "123": {
+      "title": "Akebi Fruit",
+      "volume": "13",
+      "last_updated": "1092103086",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/tIrezbQ"
+      }
+    },
+    "124": {
+      "title": "Connections",
+      "volume": "13",
+      "last_updated": "1668909558",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/fOYiXtA"
+      }
+    },
+    "125": {
+      "title": "Spiral",
+      "volume": "13",
+      "last_updated": "1092103208",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/3FYcHh5"
+      }
+    },
+    "126": {
+      "title": "Special Chapter: \"Tsujikaze Kohei\" (Part One)",
+      "volume": "13",
+      "last_updated": "1092103311",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/bXbztqw"
+      }
+    },
+    "127": {
+      "title": "Special Chapter: \"Tsujikaze Kohei\" (Part Two)",
+      "volume": "13",
+      "last_updated": "1092103352",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/FEDnrR5"
+      }
     }
   }
 }
