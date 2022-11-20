@@ -1148,6 +1148,62 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/VTLQ4tn"
       }
+    },
+    "144": {
+      "title": "Master and Pupil",
+      "volume": "16",
+      "last_updated": "1100054244",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/PMtK9Zy"
+      }
+    },
+    "145": {
+      "title": "The Fifth Year of Keicho (1600 C.E.)",
+      "volume": "16",
+      "last_updated": "1100054850",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/rWUr5rB"
+      }
+    },
+    "146": {
+      "title": "Senior Disciple",
+      "volume": "16",
+      "last_updated": "1100054954",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/9Az45Q6"
+      }
+    },
+    "147": {
+      "title": "Jisai's Cocoon",
+      "volume": "16",
+      "last_updated": "1100054998",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/jcB1W4N"
+      }
+    },
+    "148": {
+      "title": "Tiger",
+      "volume": "16",
+      "last_updated": "1100055107",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/LkV6Adw"
+      }
+    },
+    "149": {
+      "title": "Blood Bath",
+      "volume": "16",
+      "last_updated": "1100055213",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/1GjLspR"
+      }
+    },
+    "150": {
+      "title": "Mad Tiger",
+      "volume": "16",
+      "last_updated": "1668912902",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/OzcXiS6"
+      }
     }
   }
 }
