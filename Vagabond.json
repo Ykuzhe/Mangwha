@@ -928,9 +928,49 @@
     "116": {
       "title": "Baiken",
       "volume": "12",
-      "last_updated": "1668908216",
+      "last_updated": "1089164216",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/PuYXBpf"
+      }
+    },
+    "117": {
+      "title": "Chain and Sickle",
+      "volume": "12",
+      "last_updated": "1089164671",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Uax7Gxi"
+      }
+    },
+    "118": {
+      "title": "Rindo",
+      "volume": "13",
+      "last_updated": "1092102307",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Fjy2jlr"
+      }
+    },
+    "119": {
+      "title": "The Girl and the God of Death",
+      "volume": "13",
+      "last_updated": "1092102419",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/mWlV0i5"
+      }
+    },
+    "120": {
+      "title": "The Resurrection of the God of Death",
+      "volume": "13",
+      "last_updated": "1092102478",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/OExn1FS"
+      }
+    },
+    "121": {
+      "title": "Two Swords",
+      "volume": "13",
+      "last_updated": "1092102816",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/CGwVQcs"
       }
     }
   }
