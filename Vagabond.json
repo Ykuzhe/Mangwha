@@ -1748,6 +1748,54 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/EmR5i9v"
       }
+    },
+    "219": {
+      "title": "Unbreakable Bonds",
+      "volume": "25",
+      "last_updated": "1179218440",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/N8RYe3J"
+      }
+    },
+    "220": {
+      "title": "Admiration and Hate",
+      "volume": "25",
+      "last_updated": "1179218775",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/R660Fnt"
+      }
+    },
+    "221": {
+      "title": "Old Friends",
+      "volume": "25",
+      "last_updated": "1179218996",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/mmWsNOq"
+      }
+    },
+    "222": {
+      "title": "Friends",
+      "volume": "25",
+      "last_updated": "1179219032",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/wyx8nsb"
+      }
+    },
+    "223": {
+      "title": "From the Treetop",
+      "volume": "25",
+      "last_updated": "1179219076",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/UDO1uIz"
+      }
+    },
+    "224": {
+      "title": "Ichijoji Sagarimatsu",
+      "volume": "25",
+      "last_updated": "1179219148",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/45nOA9D"
+      }
     }
   }
 }
