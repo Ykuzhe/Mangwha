@@ -1700,6 +1700,30 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/DFWBLBY"
       }
+    },
+    "213": {
+      "title": "Worthless Junk",
+      "volume": "24",
+      "last_updated": "1171949091",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/3yav5Xw"
+      }
+    },
+    "214": {
+      "title": "Rengeoin",
+      "volume": "24",
+      "last_updated": "1171949148",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/rHXKMur"
+      }
+    },
+    "215": {
+      "title": "It's Already Begun",
+      "volume": "24",
+      "last_updated": "1171949202",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/YMs5cD6"
+      }
     }
   }
 }
