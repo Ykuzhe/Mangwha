@@ -1940,6 +1940,78 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/bXWSMrs"
       }
+    },
+    "243": {
+      "title": "Frogs",
+      "volume": "28",
+      "last_updated": "1198663669",
+      "groups": {
+        "Strays": "/proxy/api/imgur/chapter/AmBSSi4"
+      }
+    },
+    "244": {
+      "title": "The Solitary Ways",
+      "volume": "28",
+      "last_updated": "1202552023",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/4aa7c9d7-c4fa-43f8-a459-d1e41a218c2c"
+      }
+    },
+    "245": {
+      "title": "Reunion",
+      "volume": "28",
+      "last_updated": "1202897766",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/e4215fdc-68de-471f-900f-6f4a70fd1982"
+      }
+    },
+    "246": {
+      "title": "Nothing's Changed",
+      "volume": "28",
+      "last_updated": "1203416296",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/2082baca-85db-47bb-8cfe-69f1196fd4a3"
+      }
+    },
+    "247": {
+      "title": "While You Sleep",
+      "volume": "28",
+      "last_updated": "1204107565",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/b2d65e0b-5d55-4430-8273-0b019dd5ebed"
+      }
+    },
+    "248": {
+      "title": "Pulse",
+      "volume": "28",
+      "last_updated": "1206526800",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/09ad937a-f627-43a9-8f7e-4bc96bbe71ec"
+      }
+    },
+    "249": {
+      "title": "The Man in the Rumors",
+      "volume": "28",
+      "last_updated": "1212056485",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/125574c6-afab-42f7-bb7d-aaf8f6eb1dfd"
+      }
+    },
+    "250": {
+      "title": "An End to Fighting",
+      "volume": "28",
+      "last_updated": "1218277330",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/a95dfb3c-e7e7-4a9b-8119-a6a08ebb6680"
+      }
+    },
+    "251": {
+      "title": "Prayer",
+      "volume": "28",
+      "last_updated": "1218277381",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/c50f6398-8986-4263-b4c3-d0326b4c44ae"
+      }
     }
   }
 }
