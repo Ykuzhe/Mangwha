@@ -1652,6 +1652,54 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/Rml9wzD"
       }
+    },
+    "207": {
+      "title": "Afternoon Nap",
+      "volume": "24",
+      "last_updated": "1171946262",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/tU05WXP"
+      }
+    },
+    "208": {
+      "title": "Chance Encounter",
+      "volume": "24",
+      "last_updated": "1171946350",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/kqrqdjX"
+      }
+    },
+    "209": {
+      "title": "A Long Detour",
+      "volume": "24",
+      "last_updated": "1171946385",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/9IDc8nn"
+      }
+    },
+    "210": {
+      "title": "Rivals at Play",
+      "volume": "24",
+      "last_updated": "1171946447",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/xyRlFvL"
+      }
+    },
+    "211": {
+      "title": "On the Eve of Battle",
+      "volume": "24",
+      "last_updated": "1171946521",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/5ZPuyst"
+      }
+    },
+    "212": {
+      "title": "Bright New Morning",
+      "volume": "24",
+      "last_updated": "1171946958",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/DFWBLBY"
+      }
     }
   }
 }
