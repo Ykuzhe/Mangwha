@@ -2084,6 +2084,78 @@
       "groups": {
         "DMXX": "/proxy/api/mangadex/chapter/16bca11b-02a5-4aaa-b26d-cddcd643795b"
       }
+    },
+    "261": {
+      "title": "Moonlight",
+      "volume": "30",
+      "last_updated": "1235471844",
+      "groups": {
+        "Hyena-Scans": "/proxy/api/mangadex/chapter/b78e2a03-e0a4-4f30-ad87-4353f3fc722b"
+      }
+    },
+    "262": {
+      "title": "Seperation",
+      "volume": "30",
+      "last_updated": "1235903909",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/8a94270e-4664-47f0-a515-5acccac4ae2a"
+      }
+    },
+    "263": {
+      "title": "The Facts of a Dream",
+      "volume": "30",
+      "last_updated": "1236249617",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/0c2489f7-0058-4be6-abe2-c533b49402f3"
+      }
+    },
+    "264": {
+      "title": "Heat Haze",
+      "volume": "30",
+      "last_updated": "1236508943",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/15dcce62-5f79-43eb-952e-fb8651707020"
+      }
+    },
+    "265": {
+      "title": "Just that Much",
+      "volume": "30",
+      "last_updated": "1236854589",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/6f258575-d892-4671-85c9-65491cb0a8fc"
+      }
+    },
+    "266": {
+      "title": "Fragments",
+      "volume": "30",
+      "last_updated": "1237545824",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/a80125f3-ced7-4a7b-b4c9-2fbc5ae7e097"
+      }
+    },
+    "267": {
+      "title": "Crossroads",
+      "volume": "30",
+      "last_updated": "1237718654",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/0d95dcf9-f7f7-4b5d-b952-02b2bb5259b9"
+      }
+    },
+    "268": {
+      "title": "On the Edge of the Sword",
+      "volume": "30",
+      "last_updated": "1238496274",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/a2fd2a6f-eaa8-4137-a25a-78030f457c5c"
+      }
+    },
+    "269": {
+      "title": "Light",
+      "volume": "30",
+      "last_updated": "1238928307",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/c6f20aaa-817d-492c-82fd-db7d6a7a0d5d"
+      }
     }
   }
 }
