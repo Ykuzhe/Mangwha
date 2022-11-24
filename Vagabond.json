@@ -2372,6 +2372,38 @@
       "groups": {
         "NSN": "/proxy/api/mangadex/chapter/02696f3a-da65-4050-afbb-c8674357faf4"
       }
+    },
+    "297": {
+      "title": "Too Flashy",
+      "volume": "34",
+      "last_updated": "1285595087",
+      "groups": {
+        "NSN & VagaProject": "/proxy/api/mangadex/chapter/04588cc8-2436-4a1b-9fdb-c2d2269bc814"
+      }
+    },
+    "298": {
+      "title": "Instructor",
+      "volume": "34",
+      "last_updated": "1285940823",
+      "groups": {
+        "NSN & VagaProject": "/proxy/api/mangadex/chapter/7af2ca7d-3e9c-4139-8ec0-42ca8431ad84"
+      }
+    },
+    "299": {
+      "title": "Mogura",
+      "volume": "34",
+      "last_updated": "1286632062",
+      "groups": {
+        "NSN & VagaProject": "/proxy/api/mangadex/chapter/fb3a08e4-f7cc-43d3-93f8-ec1574db845c"
+      }
+    },
+    "300": {
+      "title": "The Future of our Freedom",
+      "volume": "34",
+      "last_updated": "1289224237",
+      "groups": {
+        "NSN & VagaProject": "/proxy/api/mangadex/chapter/5f1ec5fd-97ca-4d16-a140-13aff40e6a10"
+      }
     }
   }
 }
