@@ -1724,6 +1724,30 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/YMs5cD6"
       }
+    },
+    "216": {
+      "title": "A Year After",
+      "volume": "25",
+      "last_updated": "1179216575",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Z1uxrub"
+      }
+    },
+    "217": {
+      "title": "Denshichiro Advances",
+      "volume": "25",
+      "last_updated": "1179216750",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/1Jf1e6a"
+      }
+    },
+    "218": {
+      "title": "Demise",
+      "volume": "25",
+      "last_updated": "1179216881",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/EmR5i9v"
+      }
     }
   }
 }
