@@ -2428,6 +2428,54 @@
       "groups": {
         "Mangastream": "/proxy/api/mangadex/chapter/dde72257-bcc9-44f5-915a-a94aa3b7b1e2"
       }
+    },
+    "304": {
+      "title": "Overflowing Water",
+      "volume": "35",
+      "last_updated": "1364047675",
+      "groups": {
+        "Imperial Scans": "/proxy/api/mangadex/chapter/da812103-25c5-40ab-85cb-49038bfd35db"
+      }
+    },
+    "305": {
+      "title": "The Water Path",
+      "volume": "35",
+      "last_updated": "1362406481",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/f6af3934-9dec-44e1-83c7-c0199d380bfe"
+      }
+    },
+    "306": {
+      "title": "Infinite Smiles",
+      "volume": "35",
+      "last_updated": "1362752161",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/2c580bdd-0b72-4734-8c11-8a47d7525c7f"
+      }
+    },
+    "307": {
+      "title": "The Tip",
+      "volume": "35",
+      "last_updated": "1363529820",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/76477ba6-6e9b-4f95-b502-e77999d56a35"
+      }
+    },
+    "308": {
+      "title": "Locusts",
+      "volume": "35",
+      "last_updated": "1364307500",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/86e77df4-b287-4d17-ab24-5b37cc9c6aa9"
+      }
+    },
+    "309": {
+      "title": "Earth",
+      "volume": "35",
+      "last_updated": "1365344343",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/d757d104-1b75-49df-ba5f-b71c318f565a"
+      }
     }
   }
 }
