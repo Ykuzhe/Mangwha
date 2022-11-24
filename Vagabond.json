@@ -2404,6 +2404,30 @@
       "groups": {
         "NSN & VagaProject": "/proxy/api/mangadex/chapter/5f1ec5fd-97ca-4d16-a140-13aff40e6a10"
       }
+    },
+    "301": {
+      "title": "At the End of the Rainbow",
+      "volume": "34",
+      "last_updated": "1331819790",
+      "groups": {
+        "Mangastream": "/proxy/api/mangadex/chapter/30d84d66-3fa5-4368-ab88-75bef0e57238"
+      }
+    },
+    "302": {
+      "title": "Children of the Earth",
+      "volume": "34",
+      "last_updated": "1335103058",
+      "groups": {
+        "Mangastream": "/proxy/api/mangadex/chapter/a8a3451e-c995-4683-9f25-a937c60d09ce"
+      }
+    },
+    "303": {
+      "title": "Rainy Soil",
+      "volume": "34",
+      "last_updated": "1338213657",
+      "groups": {
+        "Mangastream": "/proxy/api/mangadex/chapter/dde72257-bcc9-44f5-915a-a94aa3b7b1e2"
+      }
     }
   }
 }
