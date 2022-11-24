@@ -2036,6 +2036,54 @@
       "groups": {
         "DMXX": "/proxy/api/mangadex/chapter/ba693539-0711-41d0-b914-45eb3ca6c834"
       }
+    },
+    "255": {
+      "title": "Questions",
+      "volume": "29",
+      "last_updated": "1228473104",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/ba693539-0711-41d0-b914-45eb3ca6c834"
+      }
+    },
+    "256": {
+      "title": "Voices",
+      "volume": "29",
+      "last_updated": "1228559537",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/009b3240-c7cf-468b-bb46-eb570083900a"
+      }
+    },
+    "257": {
+      "title": "Contradictions",
+      "volume": "29",
+      "last_updated": "1228559561",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/844d6295-7bf2-41b1-99a4-81d19a899676"
+      }
+    },
+    "258": {
+      "title": "The Glowing Light in the Depths",
+      "volume": "29",
+      "last_updated": "1228559582",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/84d4af6d-352c-4553-857e-4a11d92e4deb"
+      }
+    },
+    "259": {
+      "title": "Still the Stick",
+      "volume": "29",
+      "last_updated": "1228559625",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/d623d8b7-2383-4a27-bfdd-264bb54e9bb0"
+      }
+    },
+    "260": {
+      "title": "The Flames of Hatred",
+      "volume": "29",
+      "last_updated": "1228559677",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/16bca11b-02a5-4aaa-b26d-cddcd643795b"
+      }
     }
   }
 }
