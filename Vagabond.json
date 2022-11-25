@@ -2410,7 +2410,7 @@
       "volume": "34",
       "last_updated": "1331819790",
       "groups": {
-        "Mangastream": "/proxy/api/mangadex/chapter/30d84d66-3fa5-4368-ab88-75bef0e57238"
+        "MangaStream": "/proxy/api/mangadex/chapter/30d84d66-3fa5-4368-ab88-75bef0e57238"
       }
     },
     "302": {
@@ -2418,7 +2418,7 @@
       "volume": "34",
       "last_updated": "1335103058",
       "groups": {
-        "Mangastream": "/proxy/api/mangadex/chapter/a8a3451e-c995-4683-9f25-a937c60d09ce"
+        "MangaStream": "/proxy/api/mangadex/chapter/a8a3451e-c995-4683-9f25-a937c60d09ce"
       }
     },
     "303": {
@@ -2426,7 +2426,7 @@
       "volume": "34",
       "last_updated": "1338213657",
       "groups": {
-        "Mangastream": "/proxy/api/mangadex/chapter/dde72257-bcc9-44f5-915a-a94aa3b7b1e2"
+        "MangaStream": "/proxy/api/mangadex/chapter/dde72257-bcc9-44f5-915a-a94aa3b7b1e2"
       }
     },
     "304": {
