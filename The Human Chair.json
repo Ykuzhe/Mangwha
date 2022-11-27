@@ -3,6 +3,15 @@
   "description": "This is one of the oneshot that is in the Junji Ito Best of Best: Story Story Collection.\n\n↓ NOTES ↓\nHuge thanks to LuCaz for uploading this to Nyaa.si!\nNyaa,si link: https://nyaa.si/view/1272311",
   "artist": "Junji Ito",
   "author": "Edogawa Ranpo",
-  "cover": "https://imgur.com/wAVlVBL",
-  "chapters": {}
+  "cover": "https://i.imgur.com/wAVlVBL.jpg",
+  "chapters": {
+    "1": {
+      "title": "The Human Chair (Oneshot)",
+      "volume": "1",
+      "last_updated": "1178934127",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/LPNA1yB"
+      }
+    }
+  }
 }
