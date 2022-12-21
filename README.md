@@ -7,4 +7,4 @@ Automatically created repository for cubari.moe
 
 | [Benus In the Blind Spot](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVmVudXMlMjBpbiUyMHRoZSUyMEJsaW5kJTIwU3BvdC5qc29u/)  |
 | ------------- |
-| <img src="https://user-images.githubusercontent.com/118425258/208892442-51e5109a-0bfb-4e24-9fa7-8895c11396dc.png" width="185" height="300"> |
+| <img src="https://user-images.githubusercontent.com/118425258/208892442-51e5109a-0bfb-4e24-9fa7-8895c11396dc.png" width="150" height="300"> |
