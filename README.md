@@ -1,5 +1,5 @@
 # Manga
-Automatically created repository for cubari.moe
+Automatically created repository for cubari.moe using [Faciccamo.](https://stirante.com/facaccimo/)
 
 | [Goodbye, Eri](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvR29vZGJ5ZSwlMjBFcmkuanNvbg/)  | [Just Listen to the Song](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvSnVzdCUyMExpc3RlbiUyMHRvJTIwdGhlJTIwU29uZy5qc29u/) | [Look Back](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvTG9vayUyMEJhY2suanNvbg/) | [No Longer Human (junji Ito)](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvTm8lMjBMb25nZXIlMjBIdW1hbi5qc29u/) | [Vagabond](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVmFnYWJvbmQuanNvbg/)
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
