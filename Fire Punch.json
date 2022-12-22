@@ -8,7 +8,7 @@
     "1": {
       "title": "Prologue: The Flame-covered Man",
       "volume": "1",
-      "last_updated": "1452935605",
+      "last_updated": "1516094005",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/jROoYmd"
       }
@@ -16,7 +16,7 @@
     "2": {
       "title": "",
       "volume": "1",
-      "last_updated": "1452935805",
+      "last_updated": "1516094205",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/4Zk58xY"
       }
@@ -24,7 +24,7 @@
     "3": {
       "title": "",
       "volume": "1",
-      "last_updated": "1452936558",
+      "last_updated": "1516094958",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/zIXkvlr"
       }
@@ -32,7 +32,7 @@
     "4": {
       "title": "",
       "volume": "1",
-      "last_updated": "1452938075",
+      "last_updated": "1516096475",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/6JPsGuA"
       }
@@ -40,7 +40,7 @@
     "5": {
       "title": "",
       "volume": "1",
-      "last_updated": "1671702984",
+      "last_updated": "1516096584",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/0cOCNes"
       }
@@ -48,7 +48,7 @@
     "6": {
       "title": "",
       "volume": "1",
-      "last_updated": "1452940272",
+      "last_updated": "1516098672",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/TqmoblX"
       }
@@ -56,7 +56,7 @@
     "7": {
       "title": "",
       "volume": "1",
-      "last_updated": "1452940366",
+      "last_updated": "1516098766",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/G1H3Egx"
       }
@@ -64,9 +64,25 @@
     "8": {
       "title": "",
       "volume": "1",
-      "last_updated": "1452940458",
+      "last_updated": "1516098858",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/EEoA3Vn"
+      }
+    },
+    "9": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1523961582",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zfvdNqj"
+      }
+    },
+    "10": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1523961741",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/3NlHLRD"
       }
     }
   }
