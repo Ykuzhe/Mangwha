@@ -1,0 +1,65 @@
+{
+  "title": "The Hunters Guild - Red Hood",
+  "description": "The winner of the 14th Gold Future Cup rookie manga competition now launches as a full series! Unique art captures the unfolding battle between hunters and werewolves. Who will win this battle to the death, man or beast?",
+  "artist": "Yuki Kawaguchi",
+  "author": "Yuki Kawaguchi",
+  "cover": "https://mangadex.org/covers/7ce4a6a6-6e57-41fa-a8b2-d54f901dc6a6/5c38985d-4cc1-47c1-9f44-08eb8651eb34.jpg",
+  "chapters": {
+    "1": {
+      "title": "The Red Huntress",
+      "volume": "1",
+      "last_updated": "1670908150",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/jTsvHN3"
+      }
+    },
+    "2": {
+      "title": "Dodou & Naraoia",
+      "volume": "1",
+      "last_updated": "1670909079",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/GfqwFv2"
+      }
+    },
+    "3": {
+      "title": "Of Werewolves and Hunters",
+      "volume": "1",
+      "last_updated": "1670909300",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/imrrq3l"
+      }
+    },
+    "4": {
+      "title": "Plans",
+      "volume": "1",
+      "last_updated": "1670909379",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/QDzZrYj"
+      }
+    },
+    "5": {
+      "title": "Smoke Signal",
+      "volume": "1",
+      "last_updated": "1670909467",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/IMy7Abh"
+      }
+    },
+    "6": {
+      "title": "Beginning of Part 2: The Outside World",
+      "volume": "1",
+      "last_updated": "1670909526",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/5pOyasZ"
+      }
+    },
+    "7": {
+      "title": "The Ironworks",
+      "volume": "1",
+      "last_updated": "1670909620",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/pfbszWr"
+      }
+    }
+  }
+}
