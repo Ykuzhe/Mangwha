@@ -5,12 +5,20 @@
   "author": "Tatsuki Fujimoto",
   "cover": "https://mangadex.org/covers/6fef1f74-a0ad-4f0d-99db-d32a7cd24098/b437f317-6f1e-48ae-a8a0-54cdd2abfd2f.jpg",
   "chapters": {
-    "0": {
+    "1": {
       "title": "Prologue: The Flame-covered Man",
       "volume": "1",
-      "last_updated": "1455610126",
+      "last_updated": "1452935605",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/n4vMJk1"
+      }
+    },
+    "2": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1452935805",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Prp5l3z"
       }
     }
   }
