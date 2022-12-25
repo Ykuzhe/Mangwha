@@ -134,9 +134,17 @@
       }
     },
     "17": {
-      "title": "The Battle Is...",
+      "title": "Holograms",
       "volume": "3",
       "last_updated": "1646364074",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/e7ADZtW"
+      }
+    },
+    "18": {
+      "title": "The Battle Is...",
+      "volume": "3",
+      "last_updated": "1646364191",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/xmh3kd7"
       }
