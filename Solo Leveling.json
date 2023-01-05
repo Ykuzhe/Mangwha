@@ -18,7 +18,7 @@
       "volume": "1",
       "last_updated": "1544371200",
       "groups": {
-        "Tappytoon": "/proxy/api/imgur/chapter/Jauukph"
+        "Tappytoon": "/proxy/api/imgur/chapter/I5B1z0a"
       }
     },
     "2": {
@@ -26,7 +26,7 @@
       "volume": "1",
       "last_updated": "1544431778",
       "groups": {
-        "Tappytoon": "/proxy/api/imgur/chapter/B7jOqII"
+        "Tappytoon": "/proxy/api/imgur/chapter/CFKPGKM"
       }
     },
     "3": {
@@ -99,6 +99,78 @@
       "last_updated": "1544433603",
       "groups": {
         "Tappytoon": "/proxy/api/imgur/chapter/HOWldGS"
+      }
+    },
+    "12": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1544450807",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/qT1JA4P"
+      }
+    },
+    "13": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1544450973",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/SS59kDd"
+      }
+    },
+    "14": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1544451189",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/k6CJBPy"
+      }
+    },
+    "15": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1544451403",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/tmqbNq2"
+      }
+    },
+    "16": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1544451722",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/2gLIIje"
+      }
+    },
+    "17": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1544451884",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/OJvPZnV"
+      }
+    },
+    "18": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1544452050",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/1cXc8sU"
+      }
+    },
+    "19": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1544452202",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/1J4kH6N"
+      }
+    },
+    "20": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1544452376",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/XMl8Fcu"
       }
     }
   }
