@@ -580,6 +580,22 @@
       "groups": {
         "Tappytoon": "/proxy/api/imgur/chapter/1z40Y1Y"
       }
+    },
+    "72": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1558527350",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/mxGOmkN"
+      }
+    },
+    "73": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1559132326",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/Q3WEZRJ"
+      }
     }
   }
 }
