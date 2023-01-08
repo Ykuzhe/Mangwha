@@ -884,6 +884,46 @@
       "groups": {
         "Tappytoon": "/proxy/api/imgur/chapter/ZVo1zfy"
       }
+    },
+    "110": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1584511004",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/hfYbyBc"
+      }
+    },
+    "111": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1596175102",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/bodlD4n"
+      }
+    },
+    "112": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1596175322",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/VbbIryP"
+      }
+    },
+    "113": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1596607822",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/21jPUTu"
+      }
+    },
+    "114": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1597213013",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/FCKtvnL"
+      }
     }
   }
 }
