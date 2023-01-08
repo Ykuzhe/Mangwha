@@ -1020,6 +1020,14 @@
       "groups": {
         "Tappytoon": "/proxy/api/imgur/chapter/gqs25GN"
       }
+    },
+    "127": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1605090585",
+      "groups": {
+        "Tappytoon": "/proxy/api/imgur/chapter/HoiITHR"
+      }
     }
   }
 }
