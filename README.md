@@ -7,8 +7,3 @@ These manga below are ordered chronologically (when I started adding them to thi
 | [Vagabond](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVmFnYWJvbmQuanNvbg/)  | [Venus in the Blind Spot](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVmVudXMlMjBpbiUyMHRoZSUyMEJsaW5kJTIwU3BvdC5qc29u/) | [Red Hood](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvUmVkJTIwSG9vZC5qc29u/) | [Fire Punch](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvRmlyZSUyMFB1bmNoLmpzb24/)
 | ------------- | ------------- | ------------- | ------------- |
 | <img src="https://user-images.githubusercontent.com/118425258/209029860-b45c5932-156c-468e-ae93-2fb7a3648430.png" width="176" height="276"> | <img src="https://user-images.githubusercontent.com/118425258/208892442-51e5109a-0bfb-4e24-9fa7-8895c11396dc.png" width="176" height="276"> | <img src="https://user-images.githubusercontent.com/118425258/209067630-ed7d5d04-85b1-4786-a5b2-fff46090620b.png" width="176" height="276"> | <img src="https://user-images.githubusercontent.com/118425258/209455664-e8ef7f1b-008b-457a-a496-6ae9ed4e9d3c.png" width="176" height="276">
-
-
-| [Solo Leveling](https://cubari.moe/read/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvU29sbyUyMExldmVsaW5nLmpzb24/)  |
-| ------------- |
-| <img src="https://user-images.githubusercontent.com/118425258/212461981-80e48143-ad0e-48d2-bf92-7fc38f59ee5e.png" width="176" height="276">  |
