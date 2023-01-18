@@ -3,7 +3,7 @@
   "description": "On her way to the station to pick up Shuichi Saito, a high school student from a neighboring town, she finds Shuichi's father sitting in an alley, staring at a wall.\n\nHe seemed oblivious to Kirie's greeting and continued to stare at the snail shell stuck to the wall...\n\nAn out-of-this-world horror depicted by Junji Ito, the genius of new-sensation horror!",
   "artist": "Junji Ito",
   "author": "Junji Ito",
-  "cover": "https://media.discordapp.net/attachments/504227908139876372/1065207548023676998/Uzumaki_-_c001_v01_-_p000_VIZ_Digital_Deluxe_Edition_3-in-1_Kimiko__Teiko.jpg?width=309&height=443",
+  "cover": "https://mangadex.org/covers/f4cfbb1c-766e-49db-ae80-1a5db3cbcc1b/f28610bf-acda-4afb-acd8-3a791d2170cd.jpg",
   "chapters": {
     "1": {
       "title": "The Spiral Obsession: Part 1",
@@ -51,6 +51,54 @@
       "last_updated": "1587464954",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/RNYI7zW"
+      }
+    },
+    "7": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1587465292",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/fRubwVT"
+      }
+    },
+    "8": {
+      "title": "The Snail",
+      "volume": "2",
+      "last_updated": "1587465613",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/R7oicy8"
+      }
+    },
+    "9": {
+      "title": "The Black Lighthouse",
+      "volume": "2",
+      "last_updated": "1587465995",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/YsO5noK"
+      }
+    },
+    "10": {
+      "title": "Mosquitoes",
+      "volume": "2",
+      "last_updated": "1587466247",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/d9sLWJK"
+      }
+    },
+    "11": {
+      "title": "The Umbilical Cord",
+      "volume": "2",
+      "last_updated": "1587466427",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/NM8adYE"
+      }
+    },
+    "12": {
+      "title": "The Storm",
+      "volume": "2",
+      "last_updated": "1587466615",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/xJ5aV0Q"
       }
     }
   }
