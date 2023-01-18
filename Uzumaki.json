@@ -12,6 +12,46 @@
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/1RsgP6F"
       }
+    },
+    "2": {
+      "title": "The Spiral Obsession: Part 2",
+      "volume": "1",
+      "last_updated": "1618999671",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/TTWhkcs"
+      }
+    },
+    "3": {
+      "title": "The Scar",
+      "volume": "1",
+      "last_updated": "1587464223",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/IwOypbD"
+      }
+    },
+    "4": {
+      "title": "The Firing Effect",
+      "volume": "1",
+      "last_updated": "1587464439",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Q2xfDdu"
+      }
+    },
+    "5": {
+      "title": "Twisted Souls",
+      "volume": "1",
+      "last_updated": "1587464667",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/MvateuJ"
+      }
+    },
+    "6": {
+      "title": "Medusa",
+      "volume": "1",
+      "last_updated": "1587464954",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/RNYI7zW"
+      }
     }
   }
 }
