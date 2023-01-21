@@ -1,4 +1,4 @@
-<h2 align="center" style="margin-top: 0px;">Manga</h2>
+<h1 align="center" style="margin-top: 0px;">Manga</h1>
 <h2 align="center" style="margin-top: 0px; font-size: 20px;">Subtext here</h2>
 <p align="center" style="margin-bottom: 0px !important;">
 
