@@ -1,6 +1,6 @@
-<h2 align="center" style="margin-top: 0px; border: none;">Manga</h2>
-<h2 align="center" style="margin-top: 0px; font-size: 20px;">Subtext here</h2>
+<h2 align="center" style="margin-top: 0px; border: none !important;">Manga</h2>
 <p align="center" style="margin-bottom: 0px !important;">
+<h2 align="center" style="margin-top: 0px; font-size: 20px !important;">Subtext here</h2>
 
 | [Look Back](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvTG9vayUyMEJhY2suanNvbg/)                                          | [Goodbye, Eri](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvR29vZGJ5ZSwlMjBFcmkuanNvbg/)                                   | [Just Listen to the Song](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvSnVzdCUyMExpc3RlbiUyMHRvJTIwdGhlJTIwU29uZy5qc29u/)  | [No Longer Human](https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvTm8lMjBMb25nZXIlMjBIdW1hbi5qc29u/)                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
