@@ -1,10 +1,13 @@
 <div align="center">
   
 ## Notice
-  
-Due to an occuring issue with Imgur, all manga chapters are unaccessible. I am not very sure what's causing this. The images are still there being hosted on Imgur but cubari cannot load them, this issue only seems to effect old uploads so the only solution I could think of is to just reupload the chapters individually and change the url (which is a pain :>). I'll try to see if I can fix it but due to my lack of free time, it won't be fast. Apologies. If you'd like, you can contribute. I would very much appreciate that!
+
 </div>
 
+<div align="justify">
+Due to an occuring issue with Imgur, all manga chapters are unaccessible. I am not very sure what's causing this, the images are still there being hosted on Imgur but cubari cannot load them, this issue only seems to effect old uploads so the only solution I could think of is to just reupload the chapters individually and change the url (which is a pain :>). I'll try to see if I can fix it but due to my lack of free time, it won't be fast. Apologies. If you'd like, you can contribute. I would very much appreciate that!
+
+</div>
 
 <div align="center">
 
@@ -30,16 +33,23 @@ Due to an occuring issue with Imgur, all manga chapters are unaccessible. I am n
 
 </div>
 
+<div align="justify">
+  
 ## Credits
 
 - [Alexis Vielma](https://github.com/aelxxs) for helping me out with the table. Check out his [website](https://alexis.kr/) and [discord bot](https://top.gg/bot/713362546920259645) that he's currently working on!
 - [Algoinde](https://github.com/Algoinde) for creating [cubari.moe](https://cubari.moe) and if you're interested in showing off your Genshin builds, check out [enka.network.](https://enka.network/) They also have a [discord server](https://discord.gg/wwD2xTbQxe) so if you have any questions about Cubari, Enka or simply just wanna chat then go ahead and join it!
 - [Piotr Brzozowski](https://github.com/stirante) for creating [Facaccimo](https://stirante.com/facaccimo/) and making it easier for people like me, who's not very knowledgeable on coding, to manage their cubari gist.
 
+</div>
+
+<div align="justify">
+
 ## Others' Cubari Gist
 
 - [One Piece](https://cubari.moe/read/gist/cmF3L2VOVjI1L2N1YmFyaS9tYXN0ZXIvb25lcGllY2UuanNvbg/) - [Maintainer](https://github.com/eNV25/) / [Repo](https://github.com/eNV25/cubari)
 - [One Punch Man](https://cubari.moe/read/gist/Z2lzdC9mdW5reWhpcHBvLzFkNDBiZDVkYWUxMWUwM2E2YWYyMGU1YTlhMDMwZDgxL3Jhdy9vcG0uanNvbg/) - [Subreddit](https://www.reddit.com/r/OnePunchMan/) / [Discord](https://discord.gg/onepunchman)
 
+</div>
 
 If there's any issues, contact me at Discord (Rioki#3797).
