@@ -1,0 +1,681 @@
+{
+  "title": "Ajin",
+  "description": "The story follows a high school student named Kei Nagai, who is caught in a traffic accident, dies, but immediately revives and learns he is not human, but an Ajin, a mysterious creature that cannot die. Scared, he runs away from humans but is helped by his friend Kai, who joins him in his flee from civilization. He then becomes involved in a conflict between human and Ajin and must choose a side.\n\n↓ NOTES ↓\nHuge thanks to danke/danke-Empire for providing the content and uploading them to Nyaa.si!\nNyaa.si link: https://nyaa.si/view/1435487\n\nNotice anything missing or incorrect? If so, please contact me on Discord: Rioki#3797",
+  "artist": "Sakurai Gamon",
+  "author": "Miura Tsuina, Sakurai Gamon",
+  "cover": "https://i.imgur.com/led0Il1.jpg",
+  "chapters": {
+    "1": {
+      "title": "Detection and Subsequent Action",
+      "volume": "1",
+      "last_updated": "1413264431",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/gGfYI4B"
+      }
+    },
+    "2": {
+      "title": "Event on the First Night",
+      "volume": "1",
+      "last_updated": "1413266228",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/Bs9gLS2"
+      }
+    },
+    "3": {
+      "title": "Escape and Threat",
+      "volume": "1",
+      "last_updated": "1413267430",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/ytUcfI3"
+      }
+    },
+    "4": {
+      "title": "Interrogation and Aid",
+      "volume": "1",
+      "last_updated": "1413238254",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/J6uVMub"
+      }
+    },
+    "5": {
+      "title": "Appearance and Organization",
+      "volume": "1",
+      "last_updated": "1413238727",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/P4gveHH"
+      }
+    },
+    "6": {
+      "title": "Fresh Start",
+      "volume": "2",
+      "last_updated": "1418077307",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/rGWRn5g"
+      }
+    },
+    "7": {
+      "title": "003",
+      "volume": "2",
+      "last_updated": "1418077455",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/RAWs5ZV"
+      }
+    },
+    "8": {
+      "title": "Blindness",
+      "volume": "2",
+      "last_updated": "1418077613",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/5VSr6eW"
+      }
+    },
+    "9": {
+      "title": "Killtacular",
+      "volume": "2",
+      "last_updated": "1418077835",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/4GW2Ezk"
+      }
+    },
+    "9.5": {
+      "title": "The Shinya Nakamura Incident",
+      "volume": "2",
+      "last_updated": "1418118084",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/pEW1ncS"
+      }
+    },
+    "10": {
+      "title": "The Real Kei Nagai 1",
+      "volume": "3",
+      "last_updated": "1422916687",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/Rxw4xLg"
+      }
+    },
+    "11": {
+      "title": "The Real Kei Nagai 2",
+      "volume": "3",
+      "last_updated": "1422917119",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/4yNmCa9"
+      }
+    },
+    "12": {
+      "title": "The Real Kei Nagai 3",
+      "volume": "3",
+      "last_updated": "1422917280",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/OCEGqcC"
+      }
+    },
+    "13": {
+      "title": "Op A",
+      "volume": "3",
+      "last_updated": "1422917478",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/WYodLTN"
+      }
+    },
+    "14": {
+      "title": "Backstage",
+      "volume": "3",
+      "last_updated": "1422918989",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/IMKwIgU"
+      }
+    },
+    "15": {
+      "title": "Fighter",
+      "volume": "4",
+      "last_updated": "1428373253",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/V9latgK"
+      }
+    },
+    "16": {
+      "title": "The Fugitive",
+      "volume": "4",
+      "last_updated": "1428373994",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/8viT29Y"
+      }
+    },
+    "17": {
+      "title": "Double Team",
+      "volume": "4",
+      "last_updated": "1428374494",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/6zKngEh"
+      }
+    },
+    "18": {
+      "title": "Fringe",
+      "volume": "4",
+      "last_updated": "1428374628",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/IW3PQeZ"
+      }
+    },
+    "19": {
+      "title": "Let's Make It Flashy!",
+      "volume": "4",
+      "last_updated": "1428375194",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/Ju63KS3"
+      }
+    },
+    "20": {
+      "title": "Sucker Punch",
+      "volume": "5",
+      "last_updated": "1433213805",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/DNGsVTA"
+      }
+    },
+    "21": {
+      "title": "Battlefield Bad Company",
+      "volume": "5",
+      "last_updated": "1433213909",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/bT9PzGJ"
+      }
+    },
+    "22": {
+      "title": "Ajin",
+      "volume": "5",
+      "last_updated": "1433214088",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/2UK4HAg"
+      }
+    },
+    "23": {
+      "title": "The Chosen Man",
+      "volume": "5",
+      "last_updated": "1433216192",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/o8WVMU9"
+      }
+    },
+    "24": {
+      "title": "Come with Me!!",
+      "volume": "5",
+      "last_updated": "1433216340",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/96HS2kk"
+      }
+    },
+    "25": {
+      "title": "Day One",
+      "volume": "6",
+      "last_updated": "1440475039",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/BOASzTm"
+      }
+    },
+    "26": {
+      "title": "Genius…?!",
+      "volume": "6",
+      "last_updated": "1440475240",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/3AHzFTd"
+      }
+    },
+    "27": {
+      "title": "Izumi Shimomura",
+      "volume": "6",
+      "last_updated": "1440504628",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/e7vrVm9"
+      }
+    },
+    "28": {
+      "title": "Walls",
+      "volume": "6",
+      "last_updated": "1440505796",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/dEGC9jA"
+      }
+    },
+    "29": {
+      "title": "Listen!!",
+      "volume": "7",
+      "last_updated": "1458909342",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/ZhiUD1h"
+      }
+    },
+    "30": {
+      "title": "Call of Duty",
+      "volume": "7",
+      "last_updated": "1458650455",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/m3NpbMA"
+      }
+    },
+    "31": {
+      "title": "Don't say 'lazy'",
+      "volume": "7",
+      "last_updated": "1458650571",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/YKi9vPV"
+      }
+    },
+    "32": {
+      "title": "The Attack Begins",
+      "volume": "7",
+      "last_updated": "1458637216",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/LgblNoT"
+      }
+    },
+    "33": {
+      "title": "Invincible",
+      "volume": "7",
+      "last_updated": "1458637360",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/bVV2otl"
+      }
+    },
+    "34": {
+      "title": "Splinter Cell",
+      "volume": "8",
+      "last_updated": "1476720000",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/4DAHV5w"
+      }
+    },
+    "35": {
+      "title": "The Man Trap",
+      "volume": "8",
+      "last_updated": "1476781779",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/Bw8GfFG"
+      }
+    },
+    "36": {
+      "title": "D O O M",
+      "volume": "8",
+      "last_updated": "1476781896",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/Okph8ud"
+      }
+    },
+    "37": {
+      "title": "Shadowrun",
+      "volume": "8",
+      "last_updated": "1476781990",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/ywwW1ki"
+      }
+    },
+    "38": {
+      "title": "Battlefield Hardline",
+      "volume": "8",
+      "last_updated": "1476782099",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/ifUmgL8"
+      }
+    },
+    "39": {
+      "title": "Battlefield Hardline (2)",
+      "volume": "9",
+      "last_updated": "1491297567",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/pfO8nQO"
+      }
+    },
+    "40": {
+      "title": "Battlefield Hardline (3)",
+      "volume": "9",
+      "last_updated": "1491297719",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/kegW6L5"
+      }
+    },
+    "41": {
+      "title": "Party's End",
+      "volume": "9",
+      "last_updated": "1491298430",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/Z4ZaEca"
+      }
+    },
+    "42": {
+      "title": "Hirasawa",
+      "volume": "9",
+      "last_updated": "1491298708",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/7MhrcBM"
+      }
+    },
+    "43": {
+      "title": "Fight",
+      "volume": "9",
+      "last_updated": "1491298840",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/qOc06Sn"
+      }
+    },
+    "44": {
+      "title": "Lineage",
+      "volume": "10",
+      "last_updated": "1507628605",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/41vAOS0"
+      }
+    },
+    "45": {
+      "title": "U & I",
+      "volume": "10",
+      "last_updated": "1507636687",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/K7493x9"
+      }
+    },
+    "46": {
+      "title": "Good Morning, See You Tomorrow",
+      "volume": "10",
+      "last_updated": "1507636949",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/K6GrfM2"
+      }
+    },
+    "47": {
+      "title": "Call of Duty: Infinite Warfare",
+      "volume": "10",
+      "last_updated": "1507637048",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/TNq3h1x"
+      }
+    },
+    "48": {
+      "title": "The Losers",
+      "volume": "10",
+      "last_updated": "1507637337",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/xDRcNhK"
+      }
+    },
+    "49": {
+      "title": "Steep Road",
+      "volume": "11",
+      "last_updated": "1525781194",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/dYStIDO"
+      }
+    },
+    "50": {
+      "title": "Promised Land",
+      "volume": "11",
+      "last_updated": "1525782203",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/jpEvvDR"
+      }
+    },
+    "51": {
+      "title": "Fury",
+      "volume": "11",
+      "last_updated": "1525782810",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/9gaozWz"
+      }
+    },
+    "52": {
+      "title": "When, Where, Who",
+      "volume": "11",
+      "last_updated": "1525783549",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/5PSCMhc"
+      }
+    },
+    "53": {
+      "title": "Conviction",
+      "volume": "11",
+      "last_updated": "1525784198",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/5FLrryi"
+      }
+    },
+    "54": {
+      "title": "Greater Cause",
+      "volume": "12",
+      "last_updated": "1539075116",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/I83I8H5"
+      }
+    },
+    "55": {
+      "title": "Paradise",
+      "volume": "12",
+      "last_updated": "1539075668",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/KLXY1ER"
+      }
+    },
+    "56": {
+      "title": "Rolling Star",
+      "volume": "12",
+      "last_updated": "1539075969",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/wjeX1pv"
+      }
+    },
+    "57": {
+      "title": "Beyond Theory",
+      "volume": "12",
+      "last_updated": "1539076214",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/zRg7Q4c"
+      }
+    },
+    "58": {
+      "title": "Everything that has a beginning has an end.",
+      "volume": "13",
+      "last_updated": "1571303676",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/CQvYX5O"
+      }
+    },
+    "59": {
+      "title": "H-hour",
+      "volume": "13",
+      "last_updated": "1568712035",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/EYTET1K"
+      }
+    },
+    "60": {
+      "title": "D-day",
+      "volume": "13",
+      "last_updated": "1568712259",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/ZIjdo7w"
+      }
+    },
+    "61": {
+      "title": "ADGp",
+      "volume": "13",
+      "last_updated": "1568712507",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/bOzrpSY"
+      }
+    },
+    "62": {
+      "title": "Trash Mob",
+      "volume": "13",
+      "last_updated": "1568712730",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/74VH8k0"
+      }
+    },
+    "63": {
+      "title": "STRIKE BACK",
+      "volume": "14",
+      "last_updated": "1584438139",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/FEUy8KM"
+      }
+    },
+    "64": {
+      "title": "Him",
+      "volume": "14",
+      "last_updated": "1584438593",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/wnqVVP9"
+      }
+    },
+    "65": {
+      "title": "The Showdown Comes",
+      "volume": "14",
+      "last_updated": "1584438940",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/ORpjS9l"
+      }
+    },
+    "66": {
+      "title": "Dead Heat",
+      "volume": "14",
+      "last_updated": "1584439167",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/hnCGSvl"
+      }
+    },
+    "67": {
+      "title": "Victory",
+      "volume": "14",
+      "last_updated": "1584439550",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/JANNuTg"
+      }
+    },
+    "68": {
+      "title": "Fresh Slate",
+      "volume": "15",
+      "last_updated": "1597140871",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/r7QgLNd"
+      }
+    },
+    "69": {
+      "title": "Kaito",
+      "volume": "15",
+      "last_updated": "1597141211",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/SEvWpY6"
+      }
+    },
+    "70": {
+      "title": "Dedication",
+      "volume": "15",
+      "last_updated": "1597141441",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/BAp4x5S"
+      }
+    },
+    "71": {
+      "title": "Deliberation",
+      "volume": "15",
+      "last_updated": "1597141687",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/TlryyGw"
+      }
+    },
+    "72": {
+      "title": "Limit",
+      "volume": "15",
+      "last_updated": "1597146411",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/hYbJyhI"
+      }
+    },
+    "73": {
+      "title": "Worst",
+      "volume": "15",
+      "last_updated": "1597146677",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/kCMujV7"
+      }
+    },
+    "74": {
+      "title": "Flood",
+      "volume": "16",
+      "last_updated": "1614081469",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/Mzq9O8l"
+      }
+    },
+    "75": {
+      "title": "Leap into the Unknown",
+      "volume": "16",
+      "last_updated": "1614082282",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/K6wzrGw"
+      }
+    },
+    "76": {
+      "title": "Diehards",
+      "volume": "16",
+      "last_updated": "1614085936",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/wUvVQKe"
+      }
+    },
+    "77": {
+      "title": "Paean",
+      "volume": "16",
+      "last_updated": "1614086126",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/oPbTtKn"
+      }
+    },
+    "78": {
+      "title": "Final Run",
+      "volume": "16",
+      "last_updated": "1614087015",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/YA9vW2L"
+      }
+    },
+    "79": {
+      "title": "Prologue",
+      "volume": "17",
+      "last_updated": "1632231637",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/A0jf3pt"
+      }
+    },
+    "80": {
+      "title": "THE ONE",
+      "volume": "17",
+      "last_updated": "1632231827",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/2hajMx1"
+      }
+    },
+    "81": {
+      "title": "Even if We've Got Nothing",
+      "volume": "17",
+      "last_updated": "1632232038",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/8oAAF56"
+      }
+    },
+    "82": {
+      "title": "At the End of the Journey",
+      "volume": "17",
+      "last_updated": "1632232360",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/9We39AM"
+      }
+    },
+    "83": {
+      "title": "As Long as it Lasts",
+      "volume": "17",
+      "last_updated": "1632232627",
+      "groups": {
+        "Vertical Comics": "/proxy/api/imgur/chapter/uNb75Xx"
+      }
+    }
+  }
+}
