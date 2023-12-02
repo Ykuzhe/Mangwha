@@ -1,6 +1,10 @@
+<div align="center">
+  
 ## Notice
-
+  
 Due to an occuring issue with Imgur, all manga chapters are unaccessible. I am not very sure what's causing this. The images are still there being hosted on Imgur but cubari cannot load them, this issue only seems to effect old uploads so the only solution I could think of is to just reupload the chapters individually and change the url (which is a pain :>). I'll try to see if I can fix it but due to my lack of free time, it won't be fast. Apologies. If you'd like, you can contribute. I would very much appreciate that!
+</div>
+
 
 <div align="center">
 
