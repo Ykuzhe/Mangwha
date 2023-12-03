@@ -10,7 +10,14 @@
       "volume": "1",
       "last_updated": "1646382212",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/KbsXtJX"
+        "VIZ Media": [
+          "https://files.catbox.moe/u3o6sq.png",
+          "https://files.catbox.moe/95sb16.png",
+          "https://files.catbox.moe/7bjqjw.png",
+          "https://files.catbox.moe/29riqe.png",
+          "https://files.catbox.moe/ytrsb2.png",
+          "https://files.catbox.moe/euta71.png"
+        ]
       }
     },
     "2": {
@@ -59,14 +66,6 @@
       "last_updated": "1646398044",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/43zbPkJ"
-      }
-     },
-    "7.5": {
-      "title": "Omake",
-      "volume": "1",
-      "last_updated": "1646743743",
-      "groups": {
-        "〇〇 Scans ": "/proxy/api/imgur/chapter/VZgN4I2"
       }
     },
     "8": {
@@ -139,6 +138,14 @@
       "last_updated": "1649066965",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/cLuIJRC"
+      }
+    },
+    "7.5": {
+      "title": "Omake",
+      "volume": "1",
+      "last_updated": "1646743743",
+      "groups": {
+        "〇〇 Scans ": "/proxy/api/imgur/chapter/VZgN4I2"
       }
     },
     "16.5": {
