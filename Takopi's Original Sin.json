@@ -10,57 +10,7 @@
       "volume": "1",
       "last_updated": "1646382212",
       "groups": {
-        "VIZ Media": [
-          "https://files.catbox.moe/mw0tco.jpg",
-          "https://files.catbox.moe/72cdxf.png",
-          "https://files.catbox.moe/ibk2hg.png",
-          "https://files.catbox.moe/duk3eg.png",
-          "https://files.catbox.moe/rocne4.png",
-          "https://files.catbox.moe/7rdwm3.png",
-          "https://files.catbox.moe/wvbpvg.png",
-          "https://files.catbox.moe/g0jzgi.png",
-          "https://files.catbox.moe/u1aehe.png",
-          "https://files.catbox.moe/h7v5sx.png",
-          "https://files.catbox.moe/1c2ity.png",
-          "https://files.catbox.moe/dg53z2.png",
-          "https://files.catbox.moe/1ul2bq.png",
-          "https://files.catbox.moe/1uik7c.png",
-          "https://files.catbox.moe/vcoou4.png",
-          "https://files.catbox.moe/dum119.png",
-          "https://files.catbox.moe/81wla1.png",
-          "https://files.catbox.moe/o7cbll.png",
-          "https://files.catbox.moe/tqzlmv.png",
-          "https://files.catbox.moe/2s7mbe.png",
-          "https://files.catbox.moe/t99zet.png",
-          "https://files.catbox.moe/okw4xn.png",
-          "https://files.catbox.moe/230d9s.png",
-          "https://files.catbox.moe/k4gjof.png",
-          "https://files.catbox.moe/nfronn.png",
-          "https://files.catbox.moe/tvli7n.png",
-          "https://files.catbox.moe/j6a56s.png",
-          "https://files.catbox.moe/rpvgi5.png",
-          "https://files.catbox.moe/dlh8n9.png",
-          "https://files.catbox.moe/ahc8nw.png",
-          "https://files.catbox.moe/4pk5y8.png",
-          "https://files.catbox.moe/swxwi3.png",
-          "https://files.catbox.moe/rnqltp.png",
-          "https://files.catbox.moe/v8fppo.png",
-          "https://files.catbox.moe/c95m2i.png",
-          "https://files.catbox.moe/od3u6y.png",
-          "https://files.catbox.moe/l8up5n.png",
-          "https://files.catbox.moe/il83z7.png",
-          "https://files.catbox.moe/7e6vos.png",
-          "https://files.catbox.moe/l7mbn8.png",
-          "https://files.catbox.moe/wrw29l.png",
-          "https://files.catbox.moe/lng370.png",
-          "https://files.catbox.moe/u3o6sq.png",
-          "https://files.catbox.moe/95sb16.png",
-          "https://files.catbox.moe/7bjqjw.png",
-          "https://files.catbox.moe/29riqe.png",
-          "https://files.catbox.moe/ytrsb2.png",
-          "https://files.catbox.moe/euta71.png",
-          "https://files.catbox.moe/kjvfd0.png"
-        ]
+        "VIZ Media": "/proxy/api/catbox/chapter/dskbo1"
       }
     },
     "2": {
@@ -68,44 +18,7 @@
       "volume": "1",
       "last_updated": "1646385692",
       "groups": {
-        "VIZ Media": [
-          "https://files.catbox.moe/ilqrd8.png",
-          "https://files.catbox.moe/cmy4ry.png",
-          "https://files.catbox.moe/qnsm7g.png",
-          "https://files.catbox.moe/sb3mxy.png",
-          "https://files.catbox.moe/8oib0q.png",
-          "https://files.catbox.moe/kd9878.png",
-          "https://files.catbox.moe/1df2ux.png",
-          "https://files.catbox.moe/ud3e5k.png",
-          "https://files.catbox.moe/w3eevt.png",
-          "https://files.catbox.moe/epnsxv.png",
-          "https://files.catbox.moe/c761yd.png",
-          "https://files.catbox.moe/zd1ukh.png",
-          "https://files.catbox.moe/lc83pf.png",
-          "https://files.catbox.moe/a3glcr.png",
-          "https://files.catbox.moe/zb9g4p.png",
-          "https://files.catbox.moe/lpydp9.png",
-          "https://files.catbox.moe/3h3mj2.png",
-          "https://files.catbox.moe/s25l4v.png",
-          "https://files.catbox.moe/keu9ji.png",
-          "https://files.catbox.moe/xeo0rf.png",
-          "https://files.catbox.moe/dvj7i7.png",
-          "https://files.catbox.moe/rm4nma.png",
-          "https://files.catbox.moe/wgkeek.png",
-          "https://files.catbox.moe/1a5elc.png",
-          "https://files.catbox.moe/h5iawf.png",
-          "https://files.catbox.moe/2hyyc9.png",
-          "https://files.catbox.moe/o51loc.png",
-          "https://files.catbox.moe/2ddiyz.png",
-          "https://files.catbox.moe/j3f1ra.png",
-          "https://files.catbox.moe/02xwa3.png",
-          "https://files.catbox.moe/7ex8nz.png",
-          "https://files.catbox.moe/bu9vl3.png",
-          "https://files.catbox.moe/et4wtw.png",
-          "https://files.catbox.moe/qllfu8.png",
-          "https://files.catbox.moe/snfwjq.png",
-          "https://files.catbox.moe/hi15k2.png"
-        ]
+        "VIZ Media": "/proxy/api/catbox/chapter/wrtyr7"
       }
     },
     "3": {
@@ -113,42 +26,7 @@
       "volume": "1",
       "last_updated": "1646397280",
       "groups": {
-        "VIZ Media": [
-          "https://files.catbox.moe/dnse5y.png",
-          "https://files.catbox.moe/kujmv0.png",
-          "https://files.catbox.moe/n8pohk.png",
-          "https://files.catbox.moe/60nl62.png",
-          "https://files.catbox.moe/x0quc7.png",
-          "https://files.catbox.moe/726ndl.png",
-          "https://files.catbox.moe/qnsitr.png",
-          "https://files.catbox.moe/ras34h.png",
-          "https://files.catbox.moe/07elid.png",
-          "https://files.catbox.moe/wui3gh.png",
-          "https://files.catbox.moe/6r9wkn.png",
-          "https://files.catbox.moe/ezqleg.png",
-          "https://files.catbox.moe/p4s8qm.png",
-          "https://files.catbox.moe/uq6ssb.png",
-          "https://files.catbox.moe/asvhus.png",
-          "https://files.catbox.moe/1izgic.png",
-          "https://files.catbox.moe/eaqa8u.png",
-          "https://files.catbox.moe/ho6dnd.png",
-          "https://files.catbox.moe/ubi0tw.png",
-          "https://files.catbox.moe/zq63ie.png",
-          "https://files.catbox.moe/2figfk.png",
-          "https://files.catbox.moe/2f7xps.png",
-          "https://files.catbox.moe/n9w34k.png",
-          "https://files.catbox.moe/8diu7p.png",
-          "https://files.catbox.moe/u4am2h.png",
-          "https://files.catbox.moe/c7bex2.png",
-          "https://files.catbox.moe/i7wz4h.png",
-          "https://files.catbox.moe/ha1jo7.png",
-          "https://files.catbox.moe/zn0jye.png",
-          "https://files.catbox.moe/pr4dt9.png",
-          "https://files.catbox.moe/oo31rr.png",
-          "https://files.catbox.moe/fjl1pb.png",
-          "https://files.catbox.moe/8cy3a4.png",
-          "https://files.catbox.moe/qd8s5k.png"
-        ]
+        "VIZ Media": "/proxy/api/catbox/chapter/ua043i"
       }
     },
     "4": {
@@ -156,37 +34,7 @@
       "volume": "1",
       "last_updated": "1646397791",
       "groups": {
-        "VIZ Media": [
-          "https://files.catbox.moe/ncn446.png",
-          "https://files.catbox.moe/x2un7e.png",
-          "https://files.catbox.moe/wyw82r.png",
-          "https://files.catbox.moe/ke7ldx.png",
-          "https://files.catbox.moe/gcada5.png",
-          "https://files.catbox.moe/rlbyw8.png",
-          "https://files.catbox.moe/4sdnu2.png",
-          "https://files.catbox.moe/ufenwx.png",
-          "https://files.catbox.moe/0krbhz.png",
-          "https://files.catbox.moe/wnolgv.png",
-          "https://files.catbox.moe/m58lgq.png",
-          "https://files.catbox.moe/08nesl.png",
-          "https://files.catbox.moe/n4mc7a.png",
-          "https://files.catbox.moe/5inwbn.png",
-          "https://files.catbox.moe/o9s2vx.png",
-          "https://files.catbox.moe/soj2la.png",
-          "https://files.catbox.moe/hvtkfb.png",
-          "https://files.catbox.moe/81fesg.png",
-          "https://files.catbox.moe/t7inwi.png",
-          "https://files.catbox.moe/y5zc9k.png",
-          "https://files.catbox.moe/072acv.png",
-          "https://files.catbox.moe/r6pish.png",
-          "https://files.catbox.moe/ziclbn.png",
-          "https://files.catbox.moe/7sbk2s.png",
-          "https://files.catbox.moe/vz6hjo.png",
-          "https://files.catbox.moe/ie39la.png",
-          "https://files.catbox.moe/qqbdor.png",
-          "https://files.catbox.moe/8o0igt.png",
-          "https://files.catbox.moe/fz5b1z.png"
-        ]
+        "VIZ Media": "/proxy/api/catbox/chapter/bx65b7"
       }
     },
     "5": {
@@ -194,30 +42,7 @@
       "volume": "1",
       "last_updated": "1646397901",
       "groups": {
-        "VIZ Media": [
-          "https://files.catbox.moe/1m4pml.png",
-          "https://files.catbox.moe/yc1vhx.png",
-          "https://files.catbox.moe/izku7f.png",
-          "https://files.catbox.moe/xym3i1.png",
-          "https://files.catbox.moe/8oskme.png",
-          "https://files.catbox.moe/4a0cnl.png",
-          "https://files.catbox.moe/z6voqt.png",
-          "https://files.catbox.moe/rvcby6.png",
-          "https://files.catbox.moe/gn138t.png",
-          "https://files.catbox.moe/b6zx2j.png",
-          "https://files.catbox.moe/vko0z7.png",
-          "https://files.catbox.moe/yaxr9b.png",
-          "https://files.catbox.moe/0ym240.png",
-          "https://files.catbox.moe/h6fh3m.png",
-          "https://files.catbox.moe/b7o25j.png",
-          "https://files.catbox.moe/581x35.png",
-          "https://files.catbox.moe/ppl47f.png",
-          "https://files.catbox.moe/oetqlr.png",
-          "https://files.catbox.moe/vsafqa.png",
-          "https://files.catbox.moe/qgslcd.png",
-          "https://files.catbox.moe/m7bwke.png",
-          "https://files.catbox.moe/qr6v51.png"
-        ]
+        "VIZ Media": "/proxy/api/catbox/chapter/g59scc"
       }
     },
     "6": {
@@ -225,7 +50,7 @@
       "volume": "1",
       "last_updated": "1646397981",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/v91j2Sv"
+        "VIZ Media": "/proxy/api/catbox/chapter/qy0zw9"
       }
     },
     "7": {
@@ -233,7 +58,15 @@
       "volume": "1",
       "last_updated": "1646398044",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/43zbPkJ"
+        "VIZ Media": "/proxy/api/imgur/chapter/ptxlkb"
+      }
+    },
+    "7.5": {
+      "title": "Omake",
+      "volume": "1",
+      "last_updated": "1646743743",
+      "groups": {
+        "〇〇 Scans ": "/proxy/api/mangadex/chapter/4d9ccd62-dcac-4f74-bbdd-b8b2744f391a"
       }
     },
     "8": {
@@ -306,14 +139,6 @@
       "last_updated": "1649066965",
       "groups": {
         "VIZ Media": "/proxy/api/imgur/chapter/cLuIJRC"
-      }
-    },
-    "7.5": {
-      "title": "Omake",
-      "volume": "1",
-      "last_updated": "1646743743",
-      "groups": {
-        "〇〇 Scans ": "/proxy/api/imgur/chapter/VZgN4I2"
       }
     },
     "16.5": {
