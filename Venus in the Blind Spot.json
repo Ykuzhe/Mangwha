@@ -10,7 +10,7 @@
       "volume": "1",
       "last_updated": "1597735312",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/IqnrS70"
+        "VIZ Media": "/proxy/api/catbox/chapter/7apqgv"
       }
     },
     "2": {
@@ -18,7 +18,7 @@
       "volume": "1",
       "last_updated": "1597735377",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/TKnAZYA"
+        "VIZ Media": "/proxy/api/catbox/chapter/hul5d0"
       }
     },
     "3": {
@@ -26,7 +26,7 @@
       "volume": "1",
       "last_updated": "1597735553",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/8SQCUGL"
+        "VIZ Media": "/proxy/api/catbox/chapter/dtvgcp"
       }
     },
     "4": {
@@ -34,7 +34,7 @@
       "volume": "1",
       "last_updated": "1597735900",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/u2nR03Z"
+        "VIZ Media": "/proxy/api/catbox/chapter/jixrxx"
       }
     },
     "5": {
@@ -42,7 +42,7 @@
       "volume": "1",
       "last_updated": "1597736305",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/KjLQdCm"
+        "VIZ Media": "/proxy/api/catbox/chapter/4tb6gt"
       }
     },
     "6": {
@@ -50,7 +50,7 @@
       "volume": "1",
       "last_updated": "1597736353",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/6sCDnls"
+        "VIZ Media": "/proxy/api/catbox/chapter/0rug31"
       }
     },
     "7": {
@@ -58,7 +58,7 @@
       "volume": "1",
       "last_updated": "1597736401",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/D5LCPJq"
+        "VIZ Media": "/proxy/api/catbox/chapter/9a65h5"
       }
     },
     "8": {
@@ -66,7 +66,7 @@
       "volume": "1",
       "last_updated": "1597736452",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/epRMBam"
+        "VIZ Media": "/proxy/api/catbox/chapter/s1lhgt"
       }
     },
     "9": {
@@ -74,7 +74,7 @@
       "volume": "1",
       "last_updated": "1597736503",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/AwiPBnb"
+        "VIZ Media": "/proxy/api/catbox/chapter/xhi4d0"
       }
     },
     "10": {
@@ -82,15 +82,7 @@
       "volume": "1",
       "last_updated": "1597736586",
       "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/mgweMcV"
-      }
-    },
-    "10.5": {
-      "title": "Color Gallery",
-      "volume": "1",
-      "last_updated": "1597737154",
-      "groups": {
-        "VIZ Media": "/proxy/api/imgur/chapter/3eUAsie"
+        "VIZ Media": "/proxy/api/catbox/chapter/3umjou"
       }
     }
   }
