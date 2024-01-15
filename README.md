@@ -16,7 +16,7 @@ if there is no symbol = Fixed
 
 ## Manga
 
-| Ajin × | Ayashimon | Goodbye, Eri | Gyo |
+| Ajin | Ayashimon | Goodbye, Eri | Gyo |
 | ---- | ---- | ---- | ---- |
 | <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvQWppbi5qc29u/"><img src="https://user-images.githubusercontent.com/118425258/224340327-72231c37-37d6-457c-97b6-a03de97c9ea9.png" width="160" height="240"></a> |  <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvQXlhc2hpbW9uLmpzb24/"><img src="https://user-images.githubusercontent.com/118425258/226837664-435784f3-57bb-473e-bc5b-3cbcb0209442.png" width="160" height="240"></a> | <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvR29vZGJ5ZSwlMjBFcmkuanNvbg/"><img src="https://user-images.githubusercontent.com/118425258/209031384-6d64ca87-f0f4-4ad7-8101-afaa1f192b04.png" width="160" height="240"></a> |  <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvR3lvLmpzb24/"><img src="https://user-images.githubusercontent.com/118425258/213948062-76dbab6d-859c-47ee-ade0-38192c223012.png" width="160" height="240"></a> |
 
