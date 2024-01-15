@@ -10,7 +10,7 @@
       "volume": "1",
       "last_updated": "1413264431",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/gGfYI4B"
+        "Vertical Comics": "/proxy/api/catbox/chapter/tg3enn"
       }
     },
     "2": {
@@ -18,7 +18,7 @@
       "volume": "1",
       "last_updated": "1413266228",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/Bs9gLS2"
+        "Vertical Comics": "/proxy/api/catbox/chapter/d2dbzo"
       }
     },
     "3": {
@@ -26,7 +26,7 @@
       "volume": "1",
       "last_updated": "1413267430",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/ytUcfI3"
+        "Vertical Comics": "/proxy/api/catbox/chapter/5yx2qh"
       }
     },
     "4": {
@@ -34,7 +34,7 @@
       "volume": "1",
       "last_updated": "1413238254",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/J6uVMub"
+        "Vertical Comics": "/proxy/api/catbox/chapter/muzmz6"
       }
     },
     "5": {
@@ -42,7 +42,7 @@
       "volume": "1",
       "last_updated": "1413238727",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/P4gveHH"
+        "Vertical Comics": "/proxy/api/catbox/chapter/ov4mte"
       }
     },
     "6": {
@@ -50,7 +50,7 @@
       "volume": "2",
       "last_updated": "1418077307",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/rGWRn5g"
+        "Vertical Comics": "/proxy/api/catbox/chapter/fyw0r3"
       }
     },
     "7": {
@@ -58,7 +58,7 @@
       "volume": "2",
       "last_updated": "1418077455",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/RAWs5ZV"
+        "Vertical Comics": "/proxy/api/catbox/chapter/rrwcve"
       }
     },
     "8": {
@@ -66,7 +66,7 @@
       "volume": "2",
       "last_updated": "1418077613",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/5VSr6eW"
+        "Vertical Comics": "/proxy/api/catbox/chapter/0o5wxe"
       }
     },
     "9": {
@@ -74,7 +74,7 @@
       "volume": "2",
       "last_updated": "1418077835",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/4GW2Ezk"
+        "Vertical Comics": "/proxy/api/catbox/chapter/onls04"
       }
     },
     "9.5": {
@@ -82,7 +82,7 @@
       "volume": "2",
       "last_updated": "1418118084",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/pEW1ncS"
+        "Vertical Comics": "/proxy/api/catbox/chapter/f3sfec"
       }
     },
     "10": {
@@ -90,7 +90,7 @@
       "volume": "3",
       "last_updated": "1422916687",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/Rxw4xLg"
+        "Vertical Comics": "/proxy/api/catbox/chapter/nfh5ge"
       }
     },
     "11": {
@@ -98,7 +98,7 @@
       "volume": "3",
       "last_updated": "1422917119",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/4yNmCa9"
+        "Vertical Comics": "/proxy/api/catbox/chapter/0bgbi5"
       }
     },
     "12": {
@@ -106,7 +106,7 @@
       "volume": "3",
       "last_updated": "1422917280",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/OCEGqcC"
+        "Vertical Comics": "/proxy/api/catbox/chapter/80t09c"
       }
     },
     "13": {
@@ -114,7 +114,7 @@
       "volume": "3",
       "last_updated": "1422917478",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/WYodLTN"
+        "Vertical Comics": "/proxy/api/catbox/chapter/s42zg1"
       }
     },
     "14": {
@@ -122,7 +122,7 @@
       "volume": "3",
       "last_updated": "1422918989",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/IMKwIgU"
+        "Vertical Comics": "/proxy/api/catbox/chapter/wy71y0"
       }
     },
     "15": {
@@ -130,7 +130,7 @@
       "volume": "4",
       "last_updated": "1428373253",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/V9latgK"
+        "Vertical Comics": "/proxy/api/catbox/chapter/s38s56"
       }
     },
     "16": {
@@ -138,7 +138,7 @@
       "volume": "4",
       "last_updated": "1428373994",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/8viT29Y"
+        "Vertical Comics": "/proxy/api/catbox/chapter/su4hke"
       }
     },
     "17": {
@@ -146,7 +146,7 @@
       "volume": "4",
       "last_updated": "1428374494",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/6zKngEh"
+        "Vertical Comics": "/proxy/api/catbox/chapter/vyae4i"
       }
     },
     "18": {
@@ -154,15 +154,15 @@
       "volume": "4",
       "last_updated": "1428374628",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/IW3PQeZ"
+        "Vertical Comics": "/proxy/api/catbox/chapter/xgkp4m"
       }
     },
     "19": {
-      "title": "Let's Make It Flashy!",
+      "title": "Go Big or Go Home",
       "volume": "4",
       "last_updated": "1428375194",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/Ju63KS3"
+        "Vertical Comics": "/proxy/api/catbox/chapter/9sihyo"
       }
     },
     "20": {
@@ -170,7 +170,7 @@
       "volume": "5",
       "last_updated": "1433213805",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/DNGsVTA"
+        "Vertical Comics": "/proxy/api/catbox/chapter/5lmdsc"
       }
     },
     "21": {
@@ -178,7 +178,7 @@
       "volume": "5",
       "last_updated": "1433213909",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/bT9PzGJ"
+        "Vertical Comics": "/proxy/api/catbox/chapter/jj2xvb"
       }
     },
     "22": {
@@ -186,7 +186,7 @@
       "volume": "5",
       "last_updated": "1433214088",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/2UK4HAg"
+        "Vertical Comics": "/proxy/api/catbox/chapter/m1bt7x"
       }
     },
     "23": {
@@ -194,7 +194,7 @@
       "volume": "5",
       "last_updated": "1433216192",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/o8WVMU9"
+        "Vertical Comics": "/proxy/api/catbox/chapter/7sh455"
       }
     },
     "24": {
@@ -202,7 +202,7 @@
       "volume": "5",
       "last_updated": "1433216340",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/96HS2kk"
+        "Vertical Comics": "/proxy/api/catbox/chapter/toawfa"
       }
     },
     "25": {
@@ -210,7 +210,7 @@
       "volume": "6",
       "last_updated": "1440475039",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/BOASzTm"
+        "Vertical Comics": "/proxy/api/catbox/chapter/d58wbe"
       }
     },
     "26": {
@@ -218,7 +218,7 @@
       "volume": "6",
       "last_updated": "1440475240",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/3AHzFTd"
+        "Vertical Comics": "/proxy/api/catbox/chapter/5wiasb"
       }
     },
     "27": {
@@ -226,7 +226,7 @@
       "volume": "6",
       "last_updated": "1440504628",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/e7vrVm9"
+        "Vertical Comics": "/proxy/api/catbox/chapter/pskyvb"
       }
     },
     "28": {
@@ -234,7 +234,7 @@
       "volume": "6",
       "last_updated": "1440505796",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/dEGC9jA"
+        "Vertical Comics": "/proxy/api/catbox/chapter/2nf0dq"
       }
     },
     "29": {
@@ -242,15 +242,15 @@
       "volume": "7",
       "last_updated": "1458909342",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/ZhiUD1h"
+        "Vertical Comics": "/proxy/api/catbox/chapter/xbbkne"
       }
     },
-    "30": {
+     "30": {
       "title": "Call of Duty",
       "volume": "7",
       "last_updated": "1458650455",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/m3NpbMA"
+        "Vertical Comics": "/proxy/api/imgur/chapter/fe6qq3"
       }
     },
     "31": {
@@ -258,7 +258,7 @@
       "volume": "7",
       "last_updated": "1458650571",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/YKi9vPV"
+        "Vertical Comics": "/proxy/api/catbox/chapter/5669td"
       }
     },
     "32": {
@@ -266,7 +266,7 @@
       "volume": "7",
       "last_updated": "1458637216",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/LgblNoT"
+        "Vertical Comics": "/proxy/api/catbox/chapter/sbtc22"
       }
     },
     "33": {
@@ -274,7 +274,7 @@
       "volume": "7",
       "last_updated": "1458637360",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/bVV2otl"
+        "Vertical Comics": "/proxy/api/catbox/chapter/wy4qsc"
       }
     },
     "34": {
@@ -282,7 +282,7 @@
       "volume": "8",
       "last_updated": "1476720000",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/4DAHV5w"
+        "Vertical Comics": "/proxy/api/catbox/chapter/kjvt85"
       }
     },
     "35": {
@@ -290,7 +290,7 @@
       "volume": "8",
       "last_updated": "1476781779",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/Bw8GfFG"
+        "Vertical Comics": "/proxy/api/catbox/chapter/rrs3zi"
       }
     },
     "36": {
@@ -298,7 +298,7 @@
       "volume": "8",
       "last_updated": "1476781896",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/Okph8ud"
+        "Vertical Comics": "/proxy/api/catbox/chapter/b0m4nx"
       }
     },
     "37": {
@@ -306,7 +306,7 @@
       "volume": "8",
       "last_updated": "1476781990",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/ywwW1ki"
+        "Vertical Comics": "/proxy/api/catbox/chapter/dyuh4m"
       }
     },
     "38": {
@@ -314,7 +314,7 @@
       "volume": "8",
       "last_updated": "1476782099",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/ifUmgL8"
+        "Vertical Comics": "/proxy/api/catbox/chapter/lsww86"
       }
     },
     "39": {
@@ -322,7 +322,7 @@
       "volume": "9",
       "last_updated": "1491297567",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/pfO8nQO"
+        "Vertical Comics": "/proxy/api/catbox/chapter/i36hyd"
       }
     },
     "40": {
@@ -330,7 +330,7 @@
       "volume": "9",
       "last_updated": "1491297719",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/kegW6L5"
+        "Vertical Comics": "/proxy/api/catbox/chapter/caz4kt"
       }
     },
     "41": {
@@ -338,7 +338,7 @@
       "volume": "9",
       "last_updated": "1491298430",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/Z4ZaEca"
+        "Vertical Comics": "/proxy/api/catbox/chapter/n78702"
       }
     },
     "42": {
@@ -346,7 +346,7 @@
       "volume": "9",
       "last_updated": "1491298708",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/7MhrcBM"
+        "Vertical Comics": "/proxy/api/catbox/chapter/7dbp9c"
       }
     },
     "43": {
@@ -354,7 +354,7 @@
       "volume": "9",
       "last_updated": "1491298840",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/qOc06Sn"
+        "Vertical Comics": "/proxy/api/catbox/chapter/rweq50"
       }
     },
     "44": {
@@ -362,7 +362,7 @@
       "volume": "10",
       "last_updated": "1507628605",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/41vAOS0"
+        "Vertical Comics": "/proxy/api/catbox/chapter/1oka4e"
       }
     },
     "45": {
@@ -370,7 +370,7 @@
       "volume": "10",
       "last_updated": "1507636687",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/K7493x9"
+        "Vertical Comics": "/proxy/api/catbox/chapter/0k8nda"
       }
     },
     "46": {
@@ -378,7 +378,7 @@
       "volume": "10",
       "last_updated": "1507636949",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/K6GrfM2"
+        "Vertical Comics": "/proxy/api/catbox/chapter/9yr0k9"
       }
     },
     "47": {
@@ -386,7 +386,7 @@
       "volume": "10",
       "last_updated": "1507637048",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/TNq3h1x"
+        "Vertical Comics": "/proxy/api/catbox/chapter/3j7pcu"
       }
     },
     "48": {
@@ -394,7 +394,7 @@
       "volume": "10",
       "last_updated": "1507637337",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/xDRcNhK"
+        "Vertical Comics": "/proxy/api/catbox/chapter/gj0iup"
       }
     },
     "49": {
@@ -402,7 +402,7 @@
       "volume": "11",
       "last_updated": "1525781194",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/dYStIDO"
+        "Vertical Comics": "/proxy/api/catbox/chapter/2gve2p"
       }
     },
     "50": {
@@ -410,7 +410,7 @@
       "volume": "11",
       "last_updated": "1525782203",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/jpEvvDR"
+        "Vertical Comics": "/proxy/api/catbox/chapter/difr9g"
       }
     },
     "51": {
@@ -418,7 +418,7 @@
       "volume": "11",
       "last_updated": "1525782810",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/9gaozWz"
+        "Vertical Comics": "/proxy/api/catbox/chapter/d0jpwv"
       }
     },
     "52": {
@@ -426,7 +426,7 @@
       "volume": "11",
       "last_updated": "1525783549",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/5PSCMhc"
+        "Vertical Comics": "/proxy/api/catbox/chapter/ktaebe"
       }
     },
     "53": {
@@ -434,7 +434,7 @@
       "volume": "11",
       "last_updated": "1525784198",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/5FLrryi"
+        "Vertical Comics": "/proxy/api/catbox/chapter/domlkz"
       }
     },
     "54": {
@@ -442,7 +442,7 @@
       "volume": "12",
       "last_updated": "1539075116",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/I83I8H5"
+        "Vertical Comics": "/proxy/api/catbox/chapter/i0tfq0"
       }
     },
     "55": {
@@ -450,7 +450,7 @@
       "volume": "12",
       "last_updated": "1539075668",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/KLXY1ER"
+        "Vertical Comics": "/proxy/api/catbox/chapter/37wlg2"
       }
     },
     "56": {
@@ -458,7 +458,7 @@
       "volume": "12",
       "last_updated": "1539075969",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/wjeX1pv"
+        "Vertical Comics": "/proxy/api/catbox/chapter/3819oo"
       }
     },
     "57": {
@@ -466,7 +466,7 @@
       "volume": "12",
       "last_updated": "1539076214",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/zRg7Q4c"
+        "Vertical Comics": "/proxy/api/catbox/chapter/e3uewf"
       }
     },
     "58": {
@@ -474,7 +474,7 @@
       "volume": "13",
       "last_updated": "1571303676",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/CQvYX5O"
+        "Vertical Comics": "/proxy/api/catbox/chapter/vaplpw"
       }
     },
     "59": {
@@ -482,7 +482,7 @@
       "volume": "13",
       "last_updated": "1568712035",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/EYTET1K"
+        "Vertical Comics": "/proxy/api/catbox/chapter/unvpto"
       }
     },
     "60": {
@@ -490,7 +490,7 @@
       "volume": "13",
       "last_updated": "1568712259",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/ZIjdo7w"
+        "Vertical Comics": "/proxy/api/catbox/chapter/cnnf04"
       }
     },
     "61": {
@@ -498,7 +498,7 @@
       "volume": "13",
       "last_updated": "1568712507",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/bOzrpSY"
+        "Vertical Comics": "/proxy/api/catbox/chapter/zrndvd"
       }
     },
     "62": {
@@ -506,7 +506,7 @@
       "volume": "13",
       "last_updated": "1568712730",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/74VH8k0"
+        "Vertical Comics": "/proxy/api/catbox/chapter/jvenp8"
       }
     },
     "63": {
@@ -514,7 +514,7 @@
       "volume": "14",
       "last_updated": "1584438139",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/FEUy8KM"
+        "Vertical Comics": "/proxy/api/catbox/chapter/q1cbqp"
       }
     },
     "64": {
@@ -522,7 +522,7 @@
       "volume": "14",
       "last_updated": "1584438593",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/wnqVVP9"
+        "Vertical Comics": "/proxy/api/catbox/chapter/ucj2co"
       }
     },
     "65": {
@@ -530,7 +530,7 @@
       "volume": "14",
       "last_updated": "1584438940",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/ORpjS9l"
+        "Vertical Comics": "/proxy/api/catbox/chapter/lz38qv"
       }
     },
     "66": {
@@ -538,7 +538,7 @@
       "volume": "14",
       "last_updated": "1584439167",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/hnCGSvl"
+        "Vertical Comics": "/proxy/api/catbox/chapter/2vilk6"
       }
     },
     "67": {
@@ -546,7 +546,7 @@
       "volume": "14",
       "last_updated": "1584439550",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/JANNuTg"
+        "Vertical Comics": "/proxy/api/catbox/chapter/07ose1"
       }
     },
     "68": {
@@ -554,7 +554,7 @@
       "volume": "15",
       "last_updated": "1597140871",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/r7QgLNd"
+        "Vertical Comics": "/proxy/api/catbox/chapter/5i44rd"
       }
     },
     "69": {
@@ -562,7 +562,7 @@
       "volume": "15",
       "last_updated": "1597141211",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/SEvWpY6"
+        "Vertical Comics": "/proxy/api/catbox/chapter/4pa93d"
       }
     },
     "70": {
@@ -570,7 +570,7 @@
       "volume": "15",
       "last_updated": "1597141441",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/BAp4x5S"
+        "Vertical Comics": "/proxy/api/catbox/chapter/72ff8q"
       }
     },
     "71": {
@@ -578,7 +578,7 @@
       "volume": "15",
       "last_updated": "1597141687",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/TlryyGw"
+        "Vertical Comics": "/proxy/api/catbox/chapter/qlapdy"
       }
     },
     "72": {
@@ -586,7 +586,7 @@
       "volume": "15",
       "last_updated": "1597146411",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/hYbJyhI"
+        "Vertical Comics": "/proxy/api/catbox/chapter/15r3pe"
       }
     },
     "73": {
@@ -594,7 +594,7 @@
       "volume": "15",
       "last_updated": "1597146677",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/kCMujV7"
+        "Vertical Comics": "/proxy/api/catbox/chapter/dp3pq1"
       }
     },
     "74": {
@@ -602,7 +602,7 @@
       "volume": "16",
       "last_updated": "1614081469",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/Mzq9O8l"
+        "Vertical Comics": "/proxy/api/catbox/chapter/6y88m9"
       }
     },
     "75": {
@@ -610,7 +610,7 @@
       "volume": "16",
       "last_updated": "1614082282",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/K6wzrGw"
+        "Vertical Comics": "/proxy/api/catbox/chapter/fx5nm8"
       }
     },
     "76": {
@@ -618,7 +618,7 @@
       "volume": "16",
       "last_updated": "1614085936",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/wUvVQKe"
+        "Vertical Comics": "/proxy/api/catbox/chapter/p33wmy"
       }
     },
     "77": {
@@ -626,7 +626,7 @@
       "volume": "16",
       "last_updated": "1614086126",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/oPbTtKn"
+        "Vertical Comics": "/proxy/api/catbox/chapter/hc0aym"
       }
     },
     "78": {
@@ -634,7 +634,7 @@
       "volume": "16",
       "last_updated": "1614087015",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/YA9vW2L"
+        "Vertical Comics": "/proxy/api/catbox/chapter/a8mitm"
       }
     },
     "79": {
@@ -642,7 +642,7 @@
       "volume": "17",
       "last_updated": "1632231637",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/A0jf3pt"
+        "Vertical Comics": "/proxy/api/catbox/chapter/18nybv"
       }
     },
     "80": {
@@ -650,7 +650,7 @@
       "volume": "17",
       "last_updated": "1632231827",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/2hajMx1"
+        "Vertical Comics": "/proxy/api/catbox/chapter/i1re0z"
       }
     },
     "81": {
@@ -658,7 +658,7 @@
       "volume": "17",
       "last_updated": "1632232038",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/8oAAF56"
+        "Vertical Comics": "/proxy/api/catbox/chapter/bm9lkr"
       }
     },
     "82": {
@@ -666,7 +666,7 @@
       "volume": "17",
       "last_updated": "1632232360",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/9We39AM"
+        "Vertical Comics": "/proxy/api/catbox/chapter/rxtyci"
       }
     },
     "83": {
@@ -674,7 +674,7 @@
       "volume": "17",
       "last_updated": "1632232627",
       "groups": {
-        "Vertical Comics": "/proxy/api/imgur/chapter/uNb75Xx"
+        "Vertical Comics": "/proxy/api/catbox/chapter/m53t8e"
       }
     }
   }
