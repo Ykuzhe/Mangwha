@@ -3,10 +3,11 @@
 ## Notice
 
 <div align="justify">
-Due to an occuring issue with Imgur, all manga chapters are unaccessible. I am not very sure what's causing this, the images are still there being hosted on Imgur (only when on imgur.com, not imgur.io which is only accesible via mobile if I'm not wrong. So that might be the case.) but cubari cannot load them, this issue only seems to effect old uploads so the only solution I could think of is to just reupload the chapters individually and change the url (which is a pain :>). I'll try to see if I can fix it but due to my lack of free time, it won't be fast. Apologies. If you'd like, you can contribute. I would very much appreciate that!
+Both Hell's Paradise and Her Summon chapters are currently unavailable due to Imgur removing(?) the chapters and thus making it unavailable to read on cubari (even though it's still available to view on Imgur itself). Sorry for the inconveniences, will surely fix it soon!
 
 [X] = Not fixed
 If none = Fixed
+
 </div>
 
 <div align="center">
