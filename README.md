@@ -62,7 +62,7 @@ Both Hell's Paradise and Her Summon chapters are currently unavailable due to Im
   
 ## Credits
 
-- [Alexis Vielma](https://github.com/aelxxs) for helping me with the README. Check out his [website](https://alexis.kr/) and [discord bot](https://top.gg/bot/713362546920259645) that he's currently working on!
+- [Alexis Vielma](https://github.com/aelxxs) for helping me with the README. Check out his [website](https://alexis.lol/) and [discord bot](https://top.gg/bot/713362546920259645) that he's currently working on!
 - [Algoinde](https://github.com/Algoinde) for creating [cubari.moe](https://cubari.moe) and if you're interested in showing off your Genshin builds, check out [enka.network.](https://enka.network/) They also have a [discord server](https://discord.gg/wwD2xTbQxe) so if you have any questions about Cubari, Enka or simply just wanna chat then go ahead and join it!
 - [Piotr Brzozowski](https://github.com/stirante) for creating [Facaccimo](https://stirante.com/facaccimo/) and making it easier for people like me, who's not very knowledgeable on coding, to manage their cubari gist.
 
