@@ -5,9 +5,6 @@
 <div align="justify">
 Both Hell's Paradise and Her Summon chapters are currently unavailable due to Imgur removing(?) the chapters and thus making it unavailable to read on cubari (even though it's still available to view on Imgur itself). Sorry for the inconveniences, will surely fix it soon!
 
-[X] = Not fixed
-If none = Fixed
-
 </div>
 
 <div align="center">
