@@ -1,0 +1,2625 @@
+{
+  "title": "Vagabond",
+  "description": "Growing up in the late 16th century Sengoku era Japan, Shinmen Takezou is shunned by the local villagers as a devil child due to his wild and violent nature. Running away from home with a fellow boy at age 17, Takezo joins the Toyotomi army to fight the Tokugawa clan at the Battle of Sekigahara. However, the Tokugawa win a crushing victory, leading to nearly three hundred years of Shogunate rule. Takezo and his friend manage to survive the battle and afterwards swear to do great things with their lives. However, after their paths separate, Takezo becomes a wanted criminal and must change his name and his nature in order to escape an ignoble death.\n\n↓ NOTES ↓\nHuge thanks to these people for:\n\n- Pajeet for uploading the Viz Media release of Vol 1-27 to Nyaa.si!\n  Nyaa.si link: https://nyaa.si/view/1248155\n- Strays for uploading Vol.25-28 + Ch.252!\n  Strays website: http://straysscans.net/\n- Jamurai for uploading Ch.253!\n- DMXX for uploading Ch.254-260!\n- Hyena-Scans for uploading Ch.261!\n  Hyena-Scans website: http://hyenascans.wordpress.com/\n- NSN and Vagaproject for uploading Ch.262-300!\n  NSN website: http://nihilsinenefas.wordpress.com/\n- Mangastream for uploading Ch.301-303!\n  MangaStream website: http://mangastream.com/\n- Imperial Scans for uploading Ch.304, 323, 324, 325, 326, and 327!\n- Guren no Heya Kara and HappyScans! for uploading Ch.305-322!\n  Guren no Heya Kara website: http://gurennoheyakara.blogspot.it/\n  HappyScans! website/group link: https://mangadex.org/group/485/happyscans\n\nNotice anything missing or incorrect? If so, please contact me on Discord: Rioki#3797",
+  "artist": "Inoue Takehiko",
+  "author": "Inoue Takehiko, Yoshikawa Eiji",
+  "cover": "https://i.imgur.com/OyZ6FmJ.png",
+  "chapters": {
+    "1": {
+      "title": "Shinmen Takezo",
+      "volume": "1",
+      "last_updated": "1017989008",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/0oGLj5I"
+      }
+    },
+    "2": {
+      "title": "Akemi",
+      "volume": "1",
+      "last_updated": "1017990433",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/v8RtQEj"
+      }
+    },
+    "3": {
+      "title": "Oko",
+      "volume": "1",
+      "last_updated": "1017990525",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/wZtlp28"
+      }
+    },
+    "4": {
+      "title": "The Brigand Tsujikaze",
+      "volume": "1",
+      "last_updated": "1017990624",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/s7cRBh8"
+      }
+    },
+    "5": {
+      "title": "Blood Game",
+      "volume": "1",
+      "last_updated": "1017990794",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/29vj27S"
+      }
+    },
+    "6": {
+      "title": "The Troubles of Hon'iden Matahachi at Seventeen",
+      "volume": "1",
+      "last_updated": "1017990992",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/tX9PYl1"
+      }
+    },
+    "7": {
+      "title": "Farewell Takezo",
+      "volume": "1",
+      "last_updated": "1017991059",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/1ExLbED"
+      }
+    },
+    "8": {
+      "title": "Miyamoto Village",
+      "volume": "1",
+      "last_updated": "1017991192",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/aLJ8rAI"
+      }
+    },
+    "9": {
+      "title": "Fiancee",
+      "volume": "1",
+      "last_updated": "1017991380",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/6qsSDMg"
+      }
+    },
+    "10": {
+      "title": "Left Behind",
+      "volume": "1",
+      "last_updated": "1017991459",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zbXuqIV"
+      }
+    },
+    "11": {
+      "title": "Demon",
+      "volume": "2",
+      "last_updated": "1025914749",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/96vSyMR"
+      }
+    },
+    "12": {
+      "title": "Takuan",
+      "volume": "2",
+      "last_updated": "1025914883",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Tji9hTS"
+      }
+    },
+    "13": {
+      "title": "Life",
+      "volume": "2",
+      "last_updated": "1025915235",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/GuWPKte"
+      }
+    },
+    "14": {
+      "title": "Cut Down",
+      "volume": "2",
+      "last_updated": "1025916911",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/TlGDzX8"
+      }
+    },
+    "15": {
+      "title": "No Fear",
+      "volume": "2",
+      "last_updated": "1025916953",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/SrN0UFN"
+      }
+    },
+    "16": {
+      "title": "Captured",
+      "volume": "2",
+      "last_updated": "1025917034",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/nQTAMei"
+      }
+    },
+    "17": {
+      "title": "Invincible Under the Sun",
+      "volume": "2",
+      "last_updated": "1025917072",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/tvBGTDR"
+      }
+    },
+    "18": {
+      "title": "Tree of Shame",
+      "volume": "2",
+      "last_updated": "1025917157",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/hU8wy4R"
+      }
+    },
+    "19": {
+      "title": "The Demon's Child",
+      "volume": "2",
+      "last_updated": "1025917200",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Sn7WLI3"
+      }
+    },
+    "20": {
+      "title": "Death",
+      "volume": "2",
+      "last_updated": "1025917232",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/CPhhqEE"
+      }
+    },
+    "21": {
+      "title": "A Place in the Sun",
+      "volume": "2",
+      "last_updated": "1025917260",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/9ahzj8Y"
+      }
+    },
+    "22": {
+      "title": "Miyamoto Musashi",
+      "volume": "3",
+      "last_updated": "1033866213",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/S8fqUwr"
+      }
+    },
+    "23": {
+      "title": "The FIrst Step",
+      "volume": "3",
+      "last_updated": "1033867080",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zPKHKsN"
+      }
+    },
+    "24": {
+      "title": "The Challenge",
+      "volume": "3",
+      "last_updated": "1033867169",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/wf5wsuU"
+      }
+    },
+    "25": {
+      "title": "Chaos at the Yoshioka School",
+      "volume": "3",
+      "last_updated": "1033867722",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Gd6PsfW"
+      }
+    },
+    "26": {
+      "title": "Patriarch",
+      "volume": "3",
+      "last_updated": "1033867776",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/MvHF4en"
+      }
+    },
+    "27": {
+      "title": "Instinct",
+      "volume": "3",
+      "last_updated": "1033867807",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/a0yZQk6"
+      }
+    },
+    "28": {
+      "title": "Demon II",
+      "volume": "3",
+      "last_updated": "1033867847",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ta05n4X"
+      }
+    },
+    "29": {
+      "title": "Ignorance",
+      "volume": "3",
+      "last_updated": "1033867892",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/pC1xYRm"
+      }
+    },
+    "30": {
+      "title": "A Single Stroke",
+      "volume": "3",
+      "last_updated": "1033867921",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/CoVKwTd"
+      }
+    },
+    "31": {
+      "title": "Inferno",
+      "volume": "3",
+      "last_updated": "1033867956",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/cZfM7fr"
+      }
+    },
+    "32": {
+      "title": "Wanderers",
+      "volume": "4",
+      "last_updated": "1043199185",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/5VWumG4"
+      }
+    },
+    "33": {
+      "title": "Departures",
+      "volume": "4",
+      "last_updated": "1043199271",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/oCPkBg7"
+      }
+    },
+    "34": {
+      "title": "Departures II",
+      "volume": "4",
+      "last_updated": "1043199410",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/rVppZoE"
+      }
+    },
+    "35": {
+      "title": "Distraction",
+      "volume": "4",
+      "last_updated": "1043199515",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/SoM0HBS"
+      }
+    },
+    "36": {
+      "title": "Hozoin",
+      "volume": "4",
+      "last_updated": "1043199552",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/LHUgspU"
+      }
+    },
+    "37": {
+      "title": "Bloodthirst",
+      "volume": "4",
+      "last_updated": "1043199598",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/DhsQ0uq"
+      }
+    },
+    "38": {
+      "title": "Graceless",
+      "volume": "4",
+      "last_updated": "1043199972",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/fr3lhS5"
+      }
+    },
+    "39": {
+      "title": "Inshun",
+      "volume": "4",
+      "last_updated": "1043200045",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/nXYtFTU"
+      }
+    },
+    "40": {
+      "title": "Agon",
+      "volume": "4",
+      "last_updated": "1043200078",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Q6QJJTt"
+      }
+    },
+    "41": {
+      "title": "The Assassin",
+      "volume": "5",
+      "last_updated": "1048212806",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/bGqnXSw"
+      }
+    },
+    "42": {
+      "title": "Howl",
+      "volume": "5",
+      "last_updated": "1048212944",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ncJDw2W"
+      }
+    },
+    "43": {
+      "title": "Inshun's Spear",
+      "volume": "5",
+      "last_updated": "1048212992",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/HoS7825"
+      }
+    },
+    "44": {
+      "title": "Life",
+      "volume": "5",
+      "last_updated": "1048213047",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Vcdcipv"
+      }
+    },
+    "45": {
+      "title": "Unease",
+      "volume": "5",
+      "last_updated": "1048213118",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/AmQdLo6"
+      }
+    },
+    "46": {
+      "title": "The Demon Within",
+      "volume": "5",
+      "last_updated": "1048213148",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/rhUWXUo"
+      }
+    },
+    "47": {
+      "title": "Fear",
+      "volume": "5",
+      "last_updated": "1048213188",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/etdGv1m"
+      }
+    },
+    "48": {
+      "title": "Fear II",
+      "volume": "5",
+      "last_updated": "1048213222",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/cymfGRk"
+      }
+    },
+    "49": {
+      "title": "Fear III",
+      "volume": "5",
+      "last_updated": "1048213382",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/rZtJfTU"
+      }
+    },
+    "50": {
+      "title": "Surviving",
+      "volume": "6",
+      "last_updated": "1058788423",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/rTs558P"
+      }
+    },
+    "51": {
+      "title": "Lying Low",
+      "volume": "6",
+      "last_updated": "1058789561",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/NOllzVK"
+      }
+    },
+    "52": {
+      "title": "Lying Low II",
+      "volume": "6",
+      "last_updated": "1058789599",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zgLnE2n"
+      }
+    },
+    "53": {
+      "title": "Journey",
+      "volume": "6",
+      "last_updated": "1058789638",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/udHE8tK"
+      }
+    },
+    "54": {
+      "title": "Vision",
+      "volume": "6",
+      "last_updated": "1058789943",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/xQm6FVs"
+      }
+    },
+    "55": {
+      "title": "The Decision of a Formerly Kept Man",
+      "volume": "6",
+      "last_updated": "1058790042",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Ssjg22f"
+      }
+    },
+    "56": {
+      "title": "Osaka",
+      "volume": "6",
+      "last_updated": "1058790157",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Om7fWEK"
+      }
+    },
+    "57": {
+      "title": "Vermin",
+      "volume": "6",
+      "last_updated": "1058790196",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Rc4D5H0"
+      }
+    },
+    "58": {
+      "title": "Sasaki Kojiro",
+      "volume": "6",
+      "last_updated": "1058790225",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/id1YeOR"
+      }
+    },
+    "59": {
+      "title": "Hozoin Pickles",
+      "volume": "6",
+      "last_updated": "1058790278",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ba7QeWu"
+      }
+    },
+    "60": {
+      "title": "Duel's Eve",
+      "volume": "7",
+      "last_updated": "1066226108",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/AZiJe4R"
+      }
+    },
+    "61": {
+      "title": "Duel's Eve II",
+      "volume": "7",
+      "last_updated": "1066226164",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/GuDCLda"
+      }
+    },
+    "62": {
+      "title": "Dawn",
+      "volume": "7",
+      "last_updated": "1066226209",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/QRMRBJG"
+      }
+    },
+    "63": {
+      "title": "Spider's Thread",
+      "volume": "7",
+      "last_updated": "1066226262",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/89mpMJx"
+      }
+    },
+    "64": {
+      "title": "Heaven and Earth",
+      "volume": "7",
+      "last_updated": "1066226282",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/2lGJ8Ph"
+      }
+    },
+    "65": {
+      "title": "Legacy",
+      "volume": "7",
+      "last_updated": "1066226325",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/SXT3qRl"
+      }
+    },
+    "66": {
+      "title": "The Master",
+      "volume": "7",
+      "last_updated": "1066226629",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/OlXybVp"
+      }
+    },
+    "67": {
+      "title": "Kami'izumi Ise no Kami Hidetsuna",
+      "volume": "7",
+      "last_updated": "1066226750",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/gkQO2NS"
+      }
+    },
+    "68": {
+      "title": "No Sword",
+      "volume": "7",
+      "last_updated": "1066226813",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/lE8V72R"
+      }
+    },
+    "69": {
+      "title": "Life II",
+      "volume": "8",
+      "last_updated": "1072879795",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/HsE4SHh"
+      }
+    },
+    "70": {
+      "title": "Life III",
+      "volume": "8",
+      "last_updated": "1072879899",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/qZICnbT"
+      }
+    },
+    "71": {
+      "title": "Inshun",
+      "volume": "8",
+      "last_updated": "1072879973",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/NaP0m5p"
+      }
+    },
+    "72": {
+      "title": "Shinnosuke",
+      "volume": "8",
+      "last_updated": "1072880007",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/IbOxhMc"
+      }
+    },
+    "73": {
+      "title": "Playing in the Sand",
+      "volume": "8",
+      "last_updated": "1072880065",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/M0uudWo"
+      }
+    },
+    "74": {
+      "title": "Sudden Storm",
+      "volume": "8",
+      "last_updated": "1072880109",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/K1CbJki"
+      }
+    },
+    "75": {
+      "title": "Survivors",
+      "volume": "8",
+      "last_updated": "1072880158",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/CoYiAk3"
+      }
+    },
+    "76": {
+      "title": "Don't Put Your Life on the Line",
+      "volume": "8",
+      "last_updated": "1072880189",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/wbNo3aJ"
+      }
+    },
+    "77": {
+      "title": "They Call Me Sensei",
+      "volume": "8",
+      "last_updated": "1072880262",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/9SQGtbm"
+      }
+    },
+    "78": {
+      "title": "Ascending Dragon",
+      "volume": "8",
+      "last_updated": "1072880322",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/lQarRet"
+      }
+    },
+    "79": {
+      "title": "The Yagyu",
+      "volume": "9",
+      "last_updated": "1080742766",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/IIcWb8k"
+      }
+    },
+    "80": {
+      "title": "Coming Home",
+      "volume": "9",
+      "last_updated": "1080742840",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Y3NWqTH"
+      }
+    },
+    "81": {
+      "title": "The Peony Message",
+      "volume": "9",
+      "last_updated": "1080742938",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/1ypgZL0"
+      }
+    },
+    "82": {
+      "title": "Successor to the Invincible",
+      "volume": "9",
+      "last_updated": "1080743039",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/XxUtXZm"
+      }
+    },
+    "83": {
+      "title": "Legacy",
+      "volume": "9",
+      "last_updated": "1080743094",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/4tJa7m5"
+      }
+    },
+    "84": {
+      "title": "Promise",
+      "volume": "9",
+      "last_updated": "1080743132",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/4r2Pu1u"
+      }
+    },
+    "85": {
+      "title": "Ship of Stone",
+      "volume": "9",
+      "last_updated": "1080743165",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/x6X1XCf"
+      }
+    },
+    "86": {
+      "title": "A Round of Discussion",
+      "volume": "9",
+      "last_updated": "1080743205",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/utE7pYo"
+      }
+    },
+    "87": {
+      "title": "Provocateur",
+      "volume": "9",
+      "last_updated": "1080743294",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Oqg6NKv"
+      }
+    },
+    "88": {
+      "title": "Disciple",
+      "volume": "10",
+      "last_updated": "1083717764",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/dGC1YXt"
+      }
+    },
+    "89": {
+      "title": "One Man Battle",
+      "volume": "10",
+      "last_updated": "1083717817",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/tYhTmu7"
+      }
+    },
+    "90": {
+      "title": "The Battle",
+      "volume": "10",
+      "last_updated": "1083718142",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Ay8TLOj"
+      }
+    },
+    "91": {
+      "title": "Bamboo Flute",
+      "volume": "10",
+      "last_updated": "1083718178",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/0XepSgL"
+      }
+    },
+    "92": {
+      "title": "The Four Senior Disciples",
+      "volume": "10",
+      "last_updated": "1083718212",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/xk0TSQs"
+      }
+    },
+    "93": {
+      "title": "Valor",
+      "volume": "10",
+      "last_updated": "1083718256",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Prda7qF"
+      }
+    },
+    "94": {
+      "title": "Retribution",
+      "volume": "10",
+      "last_updated": "1083718302",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zLWEJ4n"
+      }
+    },
+    "95": {
+      "title": "Longing",
+      "volume": "10",
+      "last_updated": "1083718345",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/PI5foiO"
+      }
+    },
+    "96": {
+      "title": "Reunion",
+      "volume": "10",
+      "last_updated": "1083718392",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/1orqooQ"
+      }
+    },
+    "97": {
+      "title": "Sliding Door",
+      "volume": "10",
+      "last_updated": "1083718487",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/j6gA4wP"
+      }
+    },
+    "98": {
+      "title": "Unrivaled",
+      "volume": "11",
+      "last_updated": "1087347528",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/I1eT6lq"
+      }
+    },
+    "99": {
+      "title": "Son of the Invincible",
+      "volume": "11",
+      "last_updated": "1087347587",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Uath1j8"
+      }
+    },
+    "100": {
+      "title": "The Real Thing",
+      "volume": "11",
+      "last_updated": "1087347629",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/URZbuSV"
+      }
+    },
+    "101": {
+      "title": "The Blue Sky",
+      "volume": "11",
+      "last_updated": "1087347657",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/795v1OC"
+      }
+    },
+    "102": {
+      "title": "The Infinite Universe",
+      "volume": "11",
+      "last_updated": "1087347752",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/BvLNfvU"
+      }
+    },
+    "103": {
+      "title": "Farewell at Dawn",
+      "volume": "11",
+      "last_updated": "1087347799",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/JHvUBZp"
+      }
+    },
+    "104": {
+      "title": "Autumn Sky",
+      "volume": "11",
+      "last_updated": "1087347951",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/gktw6s2"
+      }
+    },
+    "105": {
+      "title": "Journey",
+      "volume": "11",
+      "last_updated": "1087347979",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/kOXy2E6"
+      }
+    },
+    "106": {
+      "title": "Footprints",
+      "volume": "11",
+      "last_updated": "1087348037",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/gCW6l2z"
+      }
+    },
+    "107": {
+      "title": "The Road to Ise",
+      "volume": "11",
+      "last_updated": "1087348081",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/VXtRiKq"
+      }
+    },
+    "108": {
+      "title": "Summit",
+      "volume": "12",
+      "last_updated": "1089162624",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/JnlZoP9"
+      }
+    },
+    "109": {
+      "title": "Sea of Clouds",
+      "volume": "12",
+      "last_updated": "1086571174",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zYyuTPE"
+      }
+    },
+    "110": {
+      "title": "Uncle Gon",
+      "volume": "12",
+      "last_updated": "1086571311",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/E6nddCt"
+      }
+    },
+    "111": {
+      "title": "Lowlife",
+      "volume": "12",
+      "last_updated": "1089163359",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zKgc3kA"
+      }
+    },
+    "112": {
+      "title": "Mother",
+      "volume": "12",
+      "last_updated": "1089163515",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/KxyF9DA"
+      }
+    },
+    "113": {
+      "title": "Osugi's Ordeal",
+      "volume": "12",
+      "last_updated": "1089163795",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/vdYiuf5"
+      }
+    },
+    "114": {
+      "title": "He and I",
+      "volume": "12",
+      "last_updated": "1089163865",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/QKmKPt1"
+      }
+    },
+    "115": {
+      "title": "Apparition",
+      "volume": "12",
+      "last_updated": "1089163905",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/2kVvq0U"
+      }
+    },
+    "116": {
+      "title": "Baiken",
+      "volume": "12",
+      "last_updated": "1089164216",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/EytNzX7"
+      }
+    },
+    "117": {
+      "title": "Chain and Sickle",
+      "volume": "12",
+      "last_updated": "1089164671",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/toFidG9"
+      }
+    },
+    "118": {
+      "title": "Rindo",
+      "volume": "13",
+      "last_updated": "1092102307",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/HI2GZDb"
+      }
+    },
+    "119": {
+      "title": "The Girl and the God of Death",
+      "volume": "13",
+      "last_updated": "1092102419",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/jbRIple"
+      }
+    },
+    "120": {
+      "title": "The Resurrection of the God of Death",
+      "volume": "13",
+      "last_updated": "1092102478",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Ku4E8UK"
+      }
+    },
+    "121": {
+      "title": "Two Swords",
+      "volume": "13",
+      "last_updated": "1092102816",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/YnKzMk9"
+      }
+    },
+    "122": {
+      "title": "Moths",
+      "volume": "13",
+      "last_updated": "1092103050",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/wB9x8kB"
+      }
+    },
+    "123": {
+      "title": "Akebi Fruit",
+      "volume": "13",
+      "last_updated": "1092103086",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/uhxmgc4"
+      }
+    },
+    "124": {
+      "title": "Connections",
+      "volume": "13",
+      "last_updated": "1092103158",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/PlYf0zK"
+      }
+    },
+    "125": {
+      "title": "Spiral",
+      "volume": "13",
+      "last_updated": "1092103208",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/yj36dPV"
+      }
+    },
+    "126": {
+      "title": "Special Chapter: \"Tsujikaze Kohei\" (Part One)",
+      "volume": "13",
+      "last_updated": "1092103311",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/j6uZ2AA"
+      }
+    },
+    "127": {
+      "title": "Special Chapter: \"Tsujikaze Kohei\" (Part Two)",
+      "volume": "13",
+      "last_updated": "1092103352",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/H1Qiyq3"
+      }
+    },
+    "128": {
+      "title": "The Letter",
+      "volume": "14",
+      "last_updated": "1094486400",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/6kyRyNN"
+      }
+    },
+    "129": {
+      "title": "Hands",
+      "volume": "14",
+      "last_updated": "1094522944",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/tTUlWTP"
+      }
+    },
+    "130": {
+      "title": "Glimmering Waves",
+      "volume": "14",
+      "last_updated": "1094522979",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/d4z9Hi8"
+      }
+    },
+    "131": {
+      "title": "Seaweed",
+      "volume": "14",
+      "last_updated": "1094523027",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/o3c6WlD"
+      }
+    },
+    "132": {
+      "title": "Fate",
+      "volume": "14",
+      "last_updated": "1094523084",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/nYgsS9c"
+      }
+    },
+    "133": {
+      "title": "To Live by the Sword",
+      "volume": "14",
+      "last_updated": "1094523107",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/kTYKsfT"
+      }
+    },
+    "134": {
+      "title": "Driftwood",
+      "volume": "14",
+      "last_updated": "1094523151",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/8aSt11N"
+      }
+    },
+    "135": {
+      "title": "The Plan",
+      "volume": "14",
+      "last_updated": "1094523184",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/5yC0Z3s"
+      }
+    },
+    "136": {
+      "title": "Kojiro and Tenki",
+      "volume": "14",
+      "last_updated": "1094523217",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/dEY3PnO"
+      }
+    },
+    "137": {
+      "title": "A Gift From the Sea",
+      "volume": "15",
+      "last_updated": "1097547293",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/xWZa2AF"
+      }
+    },
+    "138": {
+      "title": "Farewell, Kojiro",
+      "volume": "15",
+      "last_updated": "1097547364",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/50wSxs7"
+      }
+    },
+    "139": {
+      "title": "Butterfly",
+      "volume": "15",
+      "last_updated": "1097547399",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/OkrGMZ1"
+      }
+    },
+    "140": {
+      "title": "Flames",
+      "volume": "15",
+      "last_updated": "1097547450",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/achrc0H"
+      }
+    },
+    "141": {
+      "title": "Sword Against Sword",
+      "volume": "15",
+      "last_updated": "1097547548",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/GykoU2i"
+      }
+    },
+    "142": {
+      "title": "Savior",
+      "volume": "15",
+      "last_updated": "1097547648",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/AaaCp3X"
+      }
+    },
+    "143": {
+      "title": "The Kanemaki Dojo",
+      "volume": "15",
+      "last_updated": "1097547722",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/RRNlady"
+      }
+    },
+    "144": {
+      "title": "Master and Pupil",
+      "volume": "16",
+      "last_updated": "1100054244",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/GW4cHTF"
+      }
+    },
+    "145": {
+      "title": "The Fifth Year of Keicho (1600 C.E.)",
+      "volume": "16",
+      "last_updated": "1100054850",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/JXku26l"
+      }
+    },
+    "146": {
+      "title": "Senior Disciple",
+      "volume": "16",
+      "last_updated": "1100054954",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/G2DWkwl"
+      }
+    },
+    "147": {
+      "title": "Jisai's Cocoon",
+      "volume": "16",
+      "last_updated": "1100054998",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/FHicwuD"
+      }
+    },
+    "148": {
+      "title": "Tiger",
+      "volume": "16",
+      "last_updated": "1100055107",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/8HEdDsc"
+      }
+    },
+    "149": {
+      "title": "Blood Bath",
+      "volume": "16",
+      "last_updated": "1100055213",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/HmHoTYl"
+      }
+    },
+    "150": {
+      "title": "Mad Tiger",
+      "volume": "16",
+      "last_updated": "1100055302",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ysgWAA3"
+      }
+    },
+    "151": {
+      "title": "Numb",
+      "volume": "17",
+      "last_updated": "1103027250",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/NZEORVR"
+      }
+    },
+    "152": {
+      "title": "Brothers",
+      "volume": "17",
+      "last_updated": "1103028169",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/MX7AsSp"
+      }
+    },
+    "153": {
+      "title": "Blood Battle",
+      "volume": "17",
+      "last_updated": "1103028219",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ygiuoiF"
+      }
+    },
+    "154": {
+      "title": "Shore of Blood",
+      "volume": "17",
+      "last_updated": "1103028283",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/7Zq209K"
+      }
+    },
+    "155": {
+      "title": "The Departure",
+      "volume": "17",
+      "last_updated": "1103028332",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/dBeHTUf"
+      }
+    },
+    "156": {
+      "title": "A Complete Life",
+      "volume": "17",
+      "last_updated": "1103028422",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/RXa980Z"
+      }
+    },
+    "157": {
+      "title": "Ganryu",
+      "volume": "17",
+      "last_updated": "1103028548",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Ute8ppA"
+      }
+    },
+    "158": {
+      "title": "Muso Gonnosuke",
+      "volume": "18",
+      "last_updated": "1105447804",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/hEQJyjI"
+      }
+    },
+    "159": {
+      "title": "The Stage",
+      "volume": "18",
+      "last_updated": "1105447861",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/SDwm7Jf"
+      }
+    },
+    "160": {
+      "title": "Battlefield",
+      "volume": "18",
+      "last_updated": "1073825529",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/267iub1"
+      }
+    },
+    "161": {
+      "title": "Those Who Defy Death",
+      "volume": "18",
+      "last_updated": "1105447985",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/mb51Noc"
+      }
+    },
+    "162": {
+      "title": "Rampage of the Beast",
+      "volume": "18",
+      "last_updated": "1073825617",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/XT4Enz3"
+      }
+    },
+    "163": {
+      "title": "Six O'Clock at Sekigahara",
+      "volume": "18",
+      "last_updated": "1105448066",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ydPXb03"
+      }
+    },
+    "164": {
+      "title": "Refugee Hunters",
+      "volume": "18",
+      "last_updated": "1105448166",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/LIxOXfP"
+      }
+    },
+    "165": {
+      "title": "Death Torches",
+      "volume": "19",
+      "last_updated": "1108472214",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/1SS9V3f"
+      }
+    },
+    "166": {
+      "title": "First Friend",
+      "volume": "19",
+      "last_updated": "1108472383",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/tIPhHab"
+      }
+    },
+    "167": {
+      "title": "Mountain of Shattered Dreams",
+      "volume": "19",
+      "last_updated": "1108472451",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/0HdF9oM"
+      }
+    },
+    "168": {
+      "title": "Over the Mountain",
+      "volume": "19",
+      "last_updated": "1108472485",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Zf9cMvN"
+      }
+    },
+    "169": {
+      "title": "The Distant Ocean",
+      "volume": "19",
+      "last_updated": "1108472530",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/lRr1gE1"
+      }
+    },
+    "170": {
+      "title": "Strands of the Departed",
+      "volume": "19",
+      "last_updated": "1108472617",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/AsJI6sY"
+      }
+    },
+    "171": {
+      "title": "The Sword",
+      "volume": "19",
+      "last_updated": "1108472764",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/g3SsPEm"
+      }
+    },
+    "172": {
+      "title": "Sons",
+      "volume": "20",
+      "last_updated": "1110892130",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/1jaWsyW"
+      }
+    },
+    "173": {
+      "title": "The Desire to Fight",
+      "volume": "20",
+      "last_updated": "1110892781",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/S748DEI"
+      }
+    },
+    "174": {
+      "title": "Ichizo",
+      "volume": "20",
+      "last_updated": "1110892828",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/NPyTDnc"
+      }
+    },
+    "175": {
+      "title": "Younger Brother",
+      "volume": "20",
+      "last_updated": "1110867586",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ntabtGe"
+      }
+    },
+    "176": {
+      "title": "Open Mind",
+      "volume": "20",
+      "last_updated": "1110867674",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/jE50c16"
+      }
+    },
+    "177": {
+      "title": "Koun and Kojiro",
+      "volume": "20",
+      "last_updated": "1110867704",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/1AzcCx3"
+      }
+    },
+    "178": {
+      "title": "Koun and Kojiro Part II",
+      "volume": "20",
+      "last_updated": "1110867755",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/fLqeyUT"
+      }
+    },
+    "179": {
+      "title": "Koun and Kojiro Part III",
+      "volume": "20",
+      "last_updated": "1110867785",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/i2HQhjk"
+      }
+    },
+    "180": {
+      "title": "180",
+      "volume": "21",
+      "last_updated": "1150784654",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/8RaBwgr"
+      }
+    },
+    "181": {
+      "title": "Carving Demons",
+      "volume": "21",
+      "last_updated": "1150784720",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/1131FA0"
+      }
+    },
+    "182": {
+      "title": "First Snow",
+      "volume": "21",
+      "last_updated": "1111299945",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/e9i6iGU"
+      }
+    },
+    "183": {
+      "title": "The Same Moon",
+      "volume": "21",
+      "last_updated": "1111300242",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/TS3tVkn"
+      }
+    },
+    "184": {
+      "title": "Eagle and Ant",
+      "volume": "21",
+      "last_updated": "1111300344",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/vBKCcth"
+      }
+    },
+    "185": {
+      "title": "Rendaiji",
+      "volume": "21",
+      "last_updated": "1111300445",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/sBn72D1"
+      }
+    },
+    "186": {
+      "title": "Altercation After Dark",
+      "volume": "21",
+      "last_updated": "1111300490",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zT13BDe"
+      }
+    },
+    "187": {
+      "title": "Before Dawn",
+      "volume": "21",
+      "last_updated": "1111300550",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/gduP3cn"
+      }
+    },
+    "188": {
+      "title": "A Place to Exist",
+      "volume": "21",
+      "last_updated": "1111300593",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/XZY9cz6"
+      }
+    },
+    "189": {
+      "title": "Burdened",
+      "volume": "22",
+      "last_updated": "1155614655",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ejLVefB"
+      }
+    },
+    "190": {
+      "title": "The Death of Seijuro",
+      "volume": "22",
+      "last_updated": "1155614734",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/EVbfFms"
+      }
+    },
+    "191": {
+      "title": "Painting with Water",
+      "volume": "22",
+      "last_updated": "1155614825",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/blnaPLz"
+      }
+    },
+    "192": {
+      "title": "Koetsu and Myoshu",
+      "volume": "22",
+      "last_updated": "1155614964",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ghcGUip"
+      }
+    },
+    "193": {
+      "title": "Bedlam in Kyoto",
+      "volume": "22",
+      "last_updated": "1155615002",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zIQpqXG"
+      }
+    },
+    "194": {
+      "title": "Talk of the Town",
+      "volume": "22",
+      "last_updated": "1155615040",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/XZC5GEL"
+      }
+    },
+    "195": {
+      "title": "Confrontation of Rivals",
+      "volume": "22",
+      "last_updated": "1155615079",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/9PD46A3"
+      }
+    },
+    "196": {
+      "title": "Return of the Vainglorious",
+      "volume": "22",
+      "last_updated": "1155615114",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/QgQPFqV"
+      }
+    },
+    "197": {
+      "title": "The Real Kojiro",
+      "volume": "22",
+      "last_updated": "1155615147",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/eA9P4Ib"
+      }
+    },
+    "198": {
+      "title": "Grass, Snow, and Blood",
+      "volume": "23",
+      "last_updated": "1161058456",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/AuFaets"
+      }
+    },
+    "199": {
+      "title": "Kojiro and Matahachi",
+      "volume": "23",
+      "last_updated": "1161058571",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/PvTrkvf"
+      }
+    },
+    "200": {
+      "title": "Two Kojiros",
+      "volume": "23",
+      "last_updated": "1161058610",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/xhETBTW"
+      }
+    },
+    "201": {
+      "title": "Ladder to Success",
+      "volume": "23",
+      "last_updated": "1161058646",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/yOm1zeA"
+      }
+    },
+    "202": {
+      "title": "Presumptuous",
+      "volume": "23",
+      "last_updated": "1161058772",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/PU93jqM"
+      }
+    },
+    "203": {
+      "title": "The Day After Tomorrow",
+      "volume": "23",
+      "last_updated": "1161058880",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/cjgMgo0"
+      }
+    },
+    "204": {
+      "title": "Sword Sharpening",
+      "volume": "23",
+      "last_updated": "1161058949",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/MXkq9r1"
+      }
+    },
+    "205": {
+      "title": "Sottaku",
+      "volume": "23",
+      "last_updated": "1161059009",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/5ceinUH"
+      }
+    },
+    "206": {
+      "title": "Straightforward",
+      "volume": "23",
+      "last_updated": "1161059151",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/0pVYAmm"
+      }
+    },
+    "207": {
+      "title": "Afternoon Nap",
+      "volume": "24",
+      "last_updated": "1171946262",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/LN219Kb"
+      }
+    },
+    "208": {
+      "title": "Chance Encounter",
+      "volume": "24",
+      "last_updated": "1171946350",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/mz3V45x"
+      }
+    },
+    "209": {
+      "title": "A Long Detour",
+      "volume": "24",
+      "last_updated": "1171946385",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/y0zTi7T"
+      }
+    },
+    "210": {
+      "title": "Rivals at Play",
+      "volume": "24",
+      "last_updated": "1171946447",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Vsl4nI2"
+      }
+    },
+    "211": {
+      "title": "On the Eve of Battle",
+      "volume": "24",
+      "last_updated": "1171946521",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/uqJLxiW"
+      }
+    },
+    "212": {
+      "title": "Bright New Morning",
+      "volume": "24",
+      "last_updated": "1171946958",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/IUloEhN"
+      }
+    },
+    "213": {
+      "title": "Worthless Junk",
+      "volume": "24",
+      "last_updated": "1171949091",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/79JbAvN"
+      }
+    },
+    "214": {
+      "title": "Rengeoin",
+      "volume": "24",
+      "last_updated": "1171949148",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/8ClCC7s"
+      }
+    },
+    "215": {
+      "title": "It's Already Begun",
+      "volume": "24",
+      "last_updated": "1171949202",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zLI6yoF"
+      }
+    },
+    "216": {
+      "title": "A Year After",
+      "volume": "25",
+      "last_updated": "1179216575",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/pydgTGB"
+      }
+    },
+    "217": {
+      "title": "Denshichiro Advances",
+      "volume": "25",
+      "last_updated": "1179216750",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/IlKMwfv"
+      }
+    },
+    "218": {
+      "title": "Demise",
+      "volume": "25",
+      "last_updated": "1179216881",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/04KpLKr"
+      }
+    },
+    "219": {
+      "title": "Unbreakable Bonds",
+      "volume": "25",
+      "last_updated": "1179218440",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/ZeeKUaP"
+      }
+    },
+    "220": {
+      "title": "Admiration and Hate",
+      "volume": "25",
+      "last_updated": "1179218775",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/uZ3VYOC"
+      }
+    },
+    "221": {
+      "title": "Old Friends",
+      "volume": "25",
+      "last_updated": "1179218996",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Xip11x0"
+      }
+    },
+    "222": {
+      "title": "Friends",
+      "volume": "25",
+      "last_updated": "1179219032",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/GTjMZ5l"
+      }
+    },
+    "223": {
+      "title": "From the Treetop",
+      "volume": "25",
+      "last_updated": "1179219076",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/18mnKqd"
+      }
+    },
+    "224": {
+      "title": "Ichijoji Sagarimatsu",
+      "volume": "25",
+      "last_updated": "1179219148",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/8qi6nbw"
+      }
+    },
+    "225": {
+      "title": "Musashi Against Seventy Samurai",
+      "volume": "26",
+      "last_updated": "1193132077",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/W9fSgVE"
+      }
+    },
+    "226": {
+      "title": "Debt to the Yoshioka",
+      "volume": "26",
+      "last_updated": "1193132453",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/KfMhASX"
+      }
+    },
+    "227": {
+      "title": "Army of One",
+      "volume": "26",
+      "last_updated": "1193132497",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/tVYSaUC"
+      }
+    },
+    "228": {
+      "title": "Swarm",
+      "volume": "26",
+      "last_updated": "1193132532",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/2rsO71w"
+      }
+    },
+    "229": {
+      "title": "The Rapids",
+      "volume": "26",
+      "last_updated": "1193132655",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/nusKrNa"
+      }
+    },
+    "230": {
+      "title": "Sallowed Sky",
+      "volume": "26",
+      "last_updated": "1193132738",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/bSXOTno"
+      }
+    },
+    "231": {
+      "title": "Exhaustion",
+      "volume": "26",
+      "last_updated": "1193132772",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/TXkiyac"
+      }
+    },
+    "232": {
+      "title": "Life",
+      "volume": "26",
+      "last_updated": "1193132876",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/xkOdDYh"
+      }
+    },
+    "233": {
+      "title": "It Finds a Way",
+      "volume": "26",
+      "last_updated": "1193132934",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/R6R3yHi"
+      }
+    },
+    "234": {
+      "title": "The Onslaught",
+      "volume": "27",
+      "last_updated": "1205834157",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/wwOfLbr"
+      }
+    },
+    "235": {
+      "title": "Depth",
+      "volume": "27",
+      "last_updated": "1205834207",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/8FB5SUo"
+      }
+    },
+    "236": {
+      "title": "Battle Threshold",
+      "volume": "27",
+      "last_updated": "1205834311",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/lhi7upn"
+      }
+    },
+    "237": {
+      "title": "Somewhere Along the Way",
+      "volume": "27",
+      "last_updated": "1205834381",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/E44RX9E"
+      }
+    },
+    "238": {
+      "title": "Changing Times",
+      "volume": "27",
+      "last_updated": "1205834534",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/QiygB4x"
+      }
+    },
+    "239": {
+      "title": "Blood-Stained Mud",
+      "volume": "27",
+      "last_updated": "1205834577",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/Ro3z78K"
+      }
+    },
+    "240": {
+      "title": "An Auspicious Encounter",
+      "volume": "27",
+      "last_updated": "1205834614",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/4DSGmQl"
+      }
+    },
+    "241": {
+      "title": "One Sword",
+      "volume": "27",
+      "last_updated": "1205834658",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/zU6WNck"
+      }
+    },
+    "242": {
+      "title": "Battle's End",
+      "volume": "27",
+      "last_updated": "1205834697",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/THxP4CM"
+      }
+    },
+    "243": {
+      "title": "Frogs",
+      "volume": "28",
+      "last_updated": "1198663669",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/0feb6bd4-f374-453c-ac52-2f6fea4e7dec"
+      }
+    },
+    "244": {
+      "title": "The Solitary Ways",
+      "volume": "28",
+      "last_updated": "1202552023",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/4aa7c9d7-c4fa-43f8-a459-d1e41a218c2c"
+      }
+    },
+    "245": {
+      "title": "Reunion",
+      "volume": "28",
+      "last_updated": "1202897766",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/e4215fdc-68de-471f-900f-6f4a70fd1982"
+      }
+    },
+    "246": {
+      "title": "Nothing's Changed",
+      "volume": "28",
+      "last_updated": "1203416296",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/2082baca-85db-47bb-8cfe-69f1196fd4a3"
+      }
+    },
+    "247": {
+      "title": "While You Sleep",
+      "volume": "28",
+      "last_updated": "1204107565",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/b2d65e0b-5d55-4430-8273-0b019dd5ebed"
+      }
+    },
+    "248": {
+      "title": "Pulse",
+      "volume": "28",
+      "last_updated": "1206526800",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/09ad937a-f627-43a9-8f7e-4bc96bbe71ec"
+      }
+    },
+    "249": {
+      "title": "The Man in the Rumors",
+      "volume": "28",
+      "last_updated": "1212056485",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/125574c6-afab-42f7-bb7d-aaf8f6eb1dfd"
+      }
+    },
+    "250": {
+      "title": "An End to Fighting",
+      "volume": "28",
+      "last_updated": "1218277330",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/a95dfb3c-e7e7-4a9b-8119-a6a08ebb6680"
+      }
+    },
+    "251": {
+      "title": "Prayer",
+      "volume": "28",
+      "last_updated": "1218277381",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/c50f6398-8986-4263-b4c3-d0326b4c44ae"
+      }
+    },
+    "252": {
+      "title": "An Imprisoned Musashi",
+      "volume": "29",
+      "last_updated": "1221647100",
+      "groups": {
+        "Strays": "/proxy/api/mangadex/chapter/a47eee59-bd3f-45e5-b6aa-df7d5e131b72"
+      }
+    },
+    "253": {
+      "title": "To Live by the Sword",
+      "volume": "29",
+      "last_updated": "1521455224",
+      "groups": {
+        "Jamurai": "/proxy/api/mangadex/chapter/c993d5ca-4c1f-486d-90f9-0860b43f868d"
+      }
+    },
+    "254": {
+      "title": "Home",
+      "volume": "29",
+      "last_updated": "1228472925",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/ba693539-0711-41d0-b914-45eb3ca6c834"
+      }
+    },
+    "255": {
+      "title": "Questions",
+      "volume": "29",
+      "last_updated": "1228473104",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/ba693539-0711-41d0-b914-45eb3ca6c834"
+      }
+    },
+    "256": {
+      "title": "Voices",
+      "volume": "29",
+      "last_updated": "1228559537",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/009b3240-c7cf-468b-bb46-eb570083900a"
+      }
+    },
+    "257": {
+      "title": "Contradictions",
+      "volume": "29",
+      "last_updated": "1228559561",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/844d6295-7bf2-41b1-99a4-81d19a899676"
+      }
+    },
+    "258": {
+      "title": "The Glowing Light in the Depths",
+      "volume": "29",
+      "last_updated": "1228559582",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/84d4af6d-352c-4553-857e-4a11d92e4deb"
+      }
+    },
+    "259": {
+      "title": "Still the Stick",
+      "volume": "29",
+      "last_updated": "1228559625",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/d623d8b7-2383-4a27-bfdd-264bb54e9bb0"
+      }
+    },
+    "260": {
+      "title": "The Flames of Hatred",
+      "volume": "29",
+      "last_updated": "1228559677",
+      "groups": {
+        "DMXX": "/proxy/api/mangadex/chapter/16bca11b-02a5-4aaa-b26d-cddcd643795b"
+      }
+    },
+    "261": {
+      "title": "Moonlight",
+      "volume": "30",
+      "last_updated": "1235471844",
+      "groups": {
+        "Hyena-Scans": "/proxy/api/imgur/chapter/LvgvVHb"
+      }
+    },
+    "262": {
+      "title": "Seperation",
+      "volume": "30",
+      "last_updated": "1235903909",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/8a94270e-4664-47f0-a515-5acccac4ae2a"
+      }
+    },
+    "263": {
+      "title": "The Facts of a Dream",
+      "volume": "30",
+      "last_updated": "1236249617",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/0c2489f7-0058-4be6-abe2-c533b49402f3"
+      }
+    },
+    "264": {
+      "title": "Heat Haze",
+      "volume": "30",
+      "last_updated": "1236508943",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/15dcce62-5f79-43eb-952e-fb8651707020"
+      }
+    },
+    "265": {
+      "title": "Just that Much",
+      "volume": "30",
+      "last_updated": "1236854589",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/6f258575-d892-4671-85c9-65491cb0a8fc"
+      }
+    },
+    "266": {
+      "title": "Fragments",
+      "volume": "30",
+      "last_updated": "1237545824",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/a80125f3-ced7-4a7b-b4c9-2fbc5ae7e097"
+      }
+    },
+    "267": {
+      "title": "Crossroads",
+      "volume": "30",
+      "last_updated": "1237718654",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/0d95dcf9-f7f7-4b5d-b952-02b2bb5259b9"
+      }
+    },
+    "268": {
+      "title": "On the Edge of the Sword",
+      "volume": "30",
+      "last_updated": "1238496274",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/a2fd2a6f-eaa8-4137-a25a-78030f457c5c"
+      }
+    },
+    "269": {
+      "title": "Light",
+      "volume": "30",
+      "last_updated": "1238928307",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/c6f20aaa-817d-492c-82fd-db7d6a7a0d5d"
+      }
+    },
+    "270": {
+      "title": "Vagabond",
+      "volume": "31",
+      "last_updated": "1243429673",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/a364b6d1-3edd-4d6f-b7fa-b0031cde839f"
+      }
+    },
+    "271": {
+      "title": "The Shadows of the Spiral",
+      "volume": "31",
+      "last_updated": "1244121027",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/0c552864-7b0c-4e64-9d5d-23e72c58ef40"
+      }
+    },
+    "272": {
+      "title": "Dreams Worn out and Returning Home",
+      "volume": "31",
+      "last_updated": "1244639483",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/0407d39c-23f8-4f92-9e9b-b56ebba488a9"
+      }
+    },
+    "273": {
+      "title": "Mother and Child",
+      "volume": "31",
+      "last_updated": "1245676418",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/793b7b5b-5fff-4a2a-91bc-387e152e8d5b"
+      }
+    },
+    "274": {
+      "title": "Mother",
+      "volume": "31",
+      "last_updated": "1245849265",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/9fdf863f-5b0a-485d-8de9-338e28638a47"
+      }
+    },
+    "275": {
+      "title": "Liar",
+      "volume": "31",
+      "last_updated": "1246540490",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/3ac6c824-7ece-404e-89ce-575cd98d3218"
+      }
+    },
+    "276": {
+      "title": "A Chance Meeting",
+      "volume": "31",
+      "last_updated": "1247145394",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/8b44bd7b-7089-4b5c-8f32-3bd089b45a3b"
+      }
+    },
+    "277": {
+      "title": "A Friend",
+      "volume": "31",
+      "last_updated": "1247836676",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/99e44d8d-46cf-49e0-b7e7-4f09e68b4363"
+      }
+    },
+    "278": {
+      "title": "Treasure",
+      "volume": "31",
+      "last_updated": "1249391934",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/318413b9-8fda-424f-964a-e5bf47d584fa"
+      }
+    },
+    "279": {
+      "title": "Aspiration",
+      "volume": "32",
+      "last_updated": "1251983992",
+      "groups": {
+        "NSN": "/proxy/api/imgur/chapter/gKIHnDp"
+      }
+    },
+    "280": {
+      "title": "Ittousai. the Demon Swordsman",
+      "volume": "32",
+      "last_updated": "1221052843",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/24a6b9c1-c16c-4e49-93fc-ab778a9d0ce9"
+      }
+    },
+    "281": {
+      "title": "A Great Man Falls",
+      "volume": "32",
+      "last_updated": "1253280099",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/464acf63-cc27-45af-8e98-d51d573f8d34"
+      }
+    },
+    "282": {
+      "title": "This Form",
+      "volume": "32",
+      "last_updated": "1255958540",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/dd02ea43-f65e-4a17-9a89-4c85e241ad45"
+      }
+    },
+    "283": {
+      "title": "Thirteen Years Old",
+      "volume": "32",
+      "last_updated": "1255440234",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/b470bf31-bb8c-4bc5-9448-560a3b48ab4e"
+      }
+    },
+    "284": {
+      "title": "The Spiral",
+      "volume": "32",
+      "last_updated": "1259587494",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/ebb10949-2a03-4347-aa80-b0ea4d8fbbd9"
+      }
+    },
+    "285": {
+      "title": "Learning to Smile",
+      "volume": "32",
+      "last_updated": "1257427626",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/948a6b99-c251-49b2-bf6e-b18ab571fd4a"
+      }
+    },
+    "286": {
+      "title": "Tiger and Tiger",
+      "volume": "32",
+      "last_updated": "1259414927",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/2ea5fc0f-7421-4d13-bc4b-3e0bccf14b1a"
+      }
+    },
+    "287": {
+      "title": "The Way of \"Without a Blade\"",
+      "volume": "32",
+      "last_updated": "1259846962",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/5b144ce1-9629-4cdf-8e6c-b0ac4c70ba89"
+      }
+    },
+    "288": {
+      "title": "Kokura",
+      "volume": "33",
+      "last_updated": "1264426295",
+      "groups": {
+        "NSN": "/proxy/api/imgur/chapter/rQFclJ9"
+      }
+    },
+    "289": {
+      "title": "The Music Inside",
+      "volume": "33",
+      "last_updated": "1265117547",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/dc51e372-27b5-4f35-b45e-862847d56f46"
+      }
+    },
+    "290": {
+      "title": "The World of People",
+      "volume": "33",
+      "last_updated": "1265808833",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/c11f946b-d6b4-4f27-b2bf-cf81e027a8ba"
+      }
+    },
+    "291": {
+      "title": "7 Years",
+      "volume": "33",
+      "last_updated": "1267536877",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/2f818391-1eef-4e8c-a848-a226ec8ea010"
+      }
+    },
+    "292": {
+      "title": "Profile",
+      "volume": "33",
+      "last_updated": "1273412105",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/0805daad-fdec-4e71-8250-410cc3d08525"
+      }
+    },
+    "293": {
+      "title": "Haze",
+      "volume": "33",
+      "last_updated": "1270906562",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/1200fc9b-bb28-419f-8a5f-fe32d1ff2183"
+      }
+    },
+    "294": {
+      "title": "Give it Up",
+      "volume": "33",
+      "last_updated": "1273844216",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/be3c1807-98a0-47a4-995f-3956700a8d59"
+      }
+    },
+    "295": {
+      "title": "Paper Balloon",
+      "volume": "33",
+      "last_updated": "1275053930",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/2eced732-8f39-4bc3-9075-5e462a96ede6"
+      }
+    },
+    "296": {
+      "title": "Kojirou's City",
+      "volume": "33",
+      "last_updated": "1273930803",
+      "groups": {
+        "NSN": "/proxy/api/mangadex/chapter/02696f3a-da65-4050-afbb-c8674357faf4"
+      }
+    },
+    "297": {
+      "title": "Too Flashy",
+      "volume": "34",
+      "last_updated": "1285595087",
+      "groups": {
+        "NSN & VagaProject": "/proxy/api/imgur/chapter/4voQrMx"
+      }
+    },
+    "298": {
+      "title": "Instructor",
+      "volume": "34",
+      "last_updated": "1285940823",
+      "groups": {
+        "NSN & VagaProject": "/proxy/api/mangadex/chapter/7af2ca7d-3e9c-4139-8ec0-42ca8431ad84"
+      }
+    },
+    "299": {
+      "title": "Mogura",
+      "volume": "34",
+      "last_updated": "1286632062",
+      "groups": {
+        "NSN & VagaProject": "/proxy/api/mangadex/chapter/fb3a08e4-f7cc-43d3-93f8-ec1574db845c"
+      }
+    },
+    "300": {
+      "title": "The Future of our Freedom",
+      "volume": "34",
+      "last_updated": "1289224237",
+      "groups": {
+        "NSN & VagaProject": "/proxy/api/mangadex/chapter/5f1ec5fd-97ca-4d16-a140-13aff40e6a10"
+      }
+    },
+    "301": {
+      "title": "At the End of the Rainbow",
+      "volume": "34",
+      "last_updated": "1331819790",
+      "groups": {
+        "MangaStream": "/proxy/api/mangadex/chapter/30d84d66-3fa5-4368-ab88-75bef0e57238"
+      }
+    },
+    "302": {
+      "title": "Children of the Earth",
+      "volume": "34",
+      "last_updated": "1335103058",
+      "groups": {
+        "MangaStream": "/proxy/api/mangadex/chapter/a8a3451e-c995-4683-9f25-a937c60d09ce"
+      }
+    },
+    "303": {
+      "title": "Rainy Soil",
+      "volume": "34",
+      "last_updated": "1338213657",
+      "groups": {
+        "MangaStream": "/proxy/api/mangadex/chapter/dde72257-bcc9-44f5-915a-a94aa3b7b1e2"
+      }
+    },
+    "304": {
+      "title": "Overflowing Water",
+      "volume": "35",
+      "last_updated": "1364047675",
+      "groups": {
+        "Imperial Scans": "/proxy/api/imgur/chapter/NMK82ZE"
+      }
+    },
+    "305": {
+      "title": "The Water Path",
+      "volume": "35",
+      "last_updated": "1362406481",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/f6af3934-9dec-44e1-83c7-c0199d380bfe"
+      }
+    },
+    "306": {
+      "title": "Infinite Smiles",
+      "volume": "35",
+      "last_updated": "1362752161",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/2c580bdd-0b72-4734-8c11-8a47d7525c7f"
+      }
+    },
+    "307": {
+      "title": "The Tip",
+      "volume": "35",
+      "last_updated": "1363529820",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/76477ba6-6e9b-4f95-b502-e77999d56a35"
+      }
+    },
+    "308": {
+      "title": "Locusts",
+      "volume": "35",
+      "last_updated": "1364307500",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/86e77df4-b287-4d17-ab24-5b37cc9c6aa9"
+      }
+    },
+    "309": {
+      "title": "Earth",
+      "volume": "35",
+      "last_updated": "1365344343",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/d757d104-1b75-49df-ba5f-b71c318f565a"
+      }
+    },
+    "310": {
+      "title": "Late Autumn",
+      "volume": "36",
+      "last_updated": "1365345274",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/imgur/chapter/11KCXDM"
+      }
+    },
+    "311": {
+      "title": "A Lively Life",
+      "volume": "36",
+      "last_updated": "1366641314",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/5b95374f-f28b-4a27-b8ee-b6505e4c1894"
+      }
+    },
+    "312": {
+      "title": "The Fool's Paddy Field",
+      "volume": "36",
+      "last_updated": "1366987021",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/7cfa7d29-3b94-4db1-bbc8-2d934bf56dbb"
+      }
+    },
+    "313": {
+      "title": "A Corpse and Lives",
+      "volume": "36",
+      "last_updated": "1367332674",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/0bd4b821-a930-4a01-b772-244955b4cad7"
+      }
+    },
+    "314": {
+      "title": "Breath",
+      "volume": "36",
+      "last_updated": "1367678327",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/e42fd4e3-5487-4a1b-a1d6-f00f9637ef0d"
+      }
+    },
+    "315": {
+      "title": "When the Water Warms",
+      "volume": "36",
+      "last_updated": "1369406353",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/a65efb9c-242c-4415-806c-cbf1e6b71133"
+      }
+    },
+    "316": {
+      "title": "Spring Thunder",
+      "volume": "37",
+      "last_updated": "1371912130",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/imgur/chapter/GCyeohw"
+      }
+    },
+    "317": {
+      "title": "Pure and Clear",
+      "volume": "37",
+      "last_updated": "1374763437",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/323d6ea1-df08-448f-85aa-505e7af53f28"
+      }
+    },
+    "318": {
+      "title": "Rice Saplings",
+      "volume": "37",
+      "last_updated": "1379602208",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/e36b3b0b-87de-4d57-851d-148ceea8523f"
+      }
+    },
+    "319": {
+      "title": "Something Frail",
+      "volume": "37",
+      "last_updated": "1382453448",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/d145098b-5ef2-4ba9-aa8c-fa399dd25438"
+      }
+    },
+    "320": {
+      "title": "Footpath",
+      "volume": "37",
+      "last_updated": "1385391549",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/593e733a-9b5a-461a-a73b-ffef691240c2"
+      }
+    },
+    "321": {
+      "title": "Shusaku Collapses",
+      "volume": "37",
+      "last_updated": "1389193201",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/b024743f-fdad-4f21-88af-b26a1c32ec77"
+      }
+    },
+    "322": {
+      "title": "Dragonflies",
+      "volume": "37",
+      "last_updated": "1390143699",
+      "groups": {
+        " Guren no Heya Kara & HappyScans!": "/proxy/api/mangadex/chapter/62698608-0c6a-452e-adab-e7489a1183a4"
+      }
+    },
+    "323": {
+      "title": "Traveling Clothes",
+      "volume": "38",
+      "last_updated": "1423062140",
+      "groups": {
+        "Imperial Scans": "/proxy/api/imgur/chapter/8PDV0DB"
+      }
+    },
+    "324": {
+      "title": "Kokura's Treasure",
+      "volume": "38",
+      "last_updated": "1425135803",
+      "groups": {
+        "Imperial Scans": "/proxy/api/mangadex/chapter/ee157af7-1272-4692-af7c-9e1c2d73e7fc"
+      }
+    },
+    "325": {
+      "title": "Noted Treasure",
+      "volume": "38",
+      "last_updated": "1440515048",
+      "groups": {
+        "Imperial Scans": "/proxy/api/mangadex/chapter/bdfeee7a-9a50-4285-a158-e1d42f25ce49"
+      }
+    },
+    "326": {
+      "title": "To be a Samurai",
+      "volume": "38",
+      "last_updated": "1440515099",
+      "groups": {
+        "Imperial Scans": "/proxy/api/mangadex/chapter/d10d4340-47f3-4002-9762-e148885243db"
+      }
+    },
+    "327": {
+      "title": "The Man Named Tadoki",
+      "volume": "38",
+      "last_updated": "1440515157",
+      "groups": {
+        "Imperial Scans": "/proxy/api/mangadex/chapter/0754c218-0240-4752-a688-5e7d9bc74b55"
+      }
+    }
+  }
+}
