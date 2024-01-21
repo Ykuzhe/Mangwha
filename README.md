@@ -3,48 +3,49 @@
 ## Manga
 
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvQWppbi5qc29u/" title="Ajin">
-    <img src="https://user-images.githubusercontent.com/118425258/224340327-72231c37-37d6-457c-97b6-a03de97c9ea9.png" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/4145d589-6050-4e8c-9777-bbe2b908a496" width="160" height="240">
 </a> 
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvQXlhc2hpbW9uLmpzb24/" title="Ayashimon">
-    <img src="https://user-images.githubusercontent.com/118425258/226837664-435784f3-57bb-473e-bc5b-3cbcb0209442.png" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/ae31da7c-8889-4730-910b-ba7cd4ab8397" width="160" height="240">
 </a>
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvR29vZGJ5ZSwlMjBFcmkuanNvbg/" title="Goodbye, Eri">
-    <img src="https://user-images.githubusercontent.com/118425258/209031384-6d64ca87-f0f4-4ad7-8101-afaa1f192b04.png" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/6f478670-709e-47dd-bc89-15faa6948c4a" width="160" height="240">
 </a>  
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvR3lvLmpzb24/" title= "Gyo">
-    <img src="https://user-images.githubusercontent.com/118425258/213948062-76dbab6d-859c-47ee-ade0-38192c223012.png" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/72e93fa3-6dba-41d5-b1c9-21a0725f9468" width="160" height="240">
 </a>
-<a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvSGVsbCdzJTIwUGFyYWRpc2UuanNvbg/" title="Hell's Paradise [X]">
-    <img src="https://user-images.githubusercontent.com/118425258/232502924-49e4a6c8-da6f-4ac2-9d2e-11b3f92d3215.png" width="160" height="240">
+<a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvSGVsbCdzJTIwUGFyYWRpc2UuanNvbg/" title="Hell's Paradise">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/4b7afa46-b783-431c-bd00-2ff9598ff366" width="160" height="240">
 </a> 
 
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvSnVzdCUyMExpc3RlbiUyMHRvJTIwdGhlJTIwU29uZy5qc29u/" title="Just Listen to the Song">
-    <img src="https://user-images.githubusercontent.com/118425258/208885054-374be5ba-ef03-42ff-abf2-ff5114c0b49f.png" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/101ba298-8147-42f1-8a58-27881d86e668" width="160" height="240">
 </a> 
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvTG9vayUyMEJhY2suanNvbg/" title="Look Back">
-    <img src="https://user-images.githubusercontent.com/118425258/208885982-12c56458-e93c-439c-b1a2-78c3ca324685.png" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/53454907-1547-4e4e-8437-e945cd881d79" width="160" height="240">
 </a>
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvTm8lMjBMb25nZXIlMjBIdW1hbi5qc29u/" title="No Longer Human">
-    <img src="https://user-images.githubusercontent.com/118425258/213689556-86586b6e-a46a-45e3-8c54-5d5ce4d331cd.png" width="160" height="240"> 
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/074b1e94-bff0-46b1-a334-06ab057b118d" width="160" height="240"> 
 </a>
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvUmVkJTIwSG9vZC5qc29u/" title="Red Hood">
-    <img src="https://user-images.githubusercontent.com/118425258/209067630-ed7d5d04-85b1-4786-a5b2-fff46090620b.png" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/2bbfc272-9fcc-40bc-ac72-aee8c7250553" width="160" height="240">
 </a> 
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVGFrb3BpJ3MlMjBPcmlnaW5hbCUyMFNpbi5qc29u/" title="Takopi's Orignal Sin">
-    <img src="https://user-images.githubusercontent.com/118425258/217786024-6f8ac92b-8bfd-4ff4-96c4-51de2479111a.png" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/c91e53f1-3d3a-4a73-8e93-a5143bd64b1b" width="160" height="240">
 </a> 
 
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVXp1bWFraS5qc29u/" title="Uzumaki">
-    <img src="https://user-images.githubusercontent.com/118425258/213689724-3d62874f-c1a5-426d-976a-41e8700b196b.png" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/cfcdffe9-2d77-4ede-89bb-b37abe2c0d07" width="160" height="240">
 </a> 
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVmVudXMlMjBpbiUyMHRoZSUyMEJsaW5kJTIwU3BvdC5qc29u/" title="Venus in the Blind Spot">
-    <img src="https://user-images.githubusercontent.com/118425258/208892442-51e5109a-0bfb-4e24-9fa7-8895c11396dc.png" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/2b85396a-24e7-44ee-a18b-4710f771cdd9"
+ width="160" height="240">
 </a>
 
 ## Manwha
 
-<a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvSGVyJTIwU3VtbW9uLmpzb24/" title="Her Summon [X]">
-    <img src="https://user-images.githubusercontent.com/118425258/216855152-abbf7942-77c4-42d2-8e36-0b65424c6f4a.png" width="160" height="240">
+<a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvSGVyJTIwU3VtbW9uLmpzb24/" title="Her Summon">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/03d615b2-e380-4a5f-b85e-4f7544bc6af6" width="160" height="240">
 </a>
 
 </div>
