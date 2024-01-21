@@ -38,8 +38,7 @@
     <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/cfcdffe9-2d77-4ede-89bb-b37abe2c0d07" width="160" height="240">
 </a> 
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVmVudXMlMjBpbiUyMHRoZSUyMEJsaW5kJTIwU3BvdC5qc29u/" title="Venus in the Blind Spot">
-    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/2b85396a-24e7-44ee-a18b-4710f771cdd9"
- width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/2b85396a-24e7-44ee-a18b-4710f771cdd9" width="160" height="240">
 </a>
 
 ## Manwha
