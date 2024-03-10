@@ -74,4 +74,17 @@ If there's any issues, contact me at Discord (Rioki#3797) or create an issue in 
 
 ## Contributing
 
-If you like'd to contribute then do so! Just make sure you put proper credits and to put your manga alphabetically when adding them to the README file. For examples, you can check out the json files I have created, thank you!
+if you'd like to contribute then feel free to do so, there are some requirements though. Here's all of them:
+
+# For editing information for existing series
+
+- Information must be accurate
+- Recite the source(s) of the information you have changed in the PR description (i.e Wikipedia, Mangadex, etc.)
+
+# For adding a new series to the list
+
+- Information must be accurate
+- Recite the source(s) of the information in the PR description (i.e Wikipedia, Mangadex, etc)
+- When adding the series to the README, make sure it's alphabetically ordered alongside existing series
+
+That's all, might change but yeah, thank you!
