@@ -4,5 +4,5589 @@
   "artist": "Kubo Tite",
   "author": "Kubo Tite",
   "cover": "https://mangadex.org/covers/a460ab18-22c1-47eb-a08a-9ee85fe37ec8/5d0842f4-5d21-4f78-96f5-98bfdc843eb5.jpg",
-  "chapters": {}
-}
+  "chapters": {
+    "1": {
+      "title": "Death & Strawberry",
+      "volume": "1",
+      "last_updated": "1089046800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/bkcqrm"
+      }
+    },
+    "2": {
+      "title": "Starter",
+      "volume": "1",
+      "last_updated": "1089046800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/fdp47f"
+      }
+    },
+    "3": {
+      "title": "Head-Hittin",
+      "volume": "1",
+      "last_updated": "1089046800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/vlcva8"
+      }
+    },
+    "4": {
+      "title": "Why Do You Eat It?",
+      "volume": "1",
+      "last_updated": "1089046800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/64e773"
+      }
+    },
+    "5": {
+      "title": "Blinda Blinda",
+      "volume": "1",
+      "last_updated": "1089046800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/1g1cde"
+      }
+    },
+    "6": {
+      "title": "Microcrack.",
+      "volume": "1",
+      "last_updated": "1089046800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mkt6n8"
+      }
+    },
+    "7": {
+      "title": "The Pink Cheeked Parakeet",
+      "volume": "1",
+      "last_updated": "1089046800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mjj8if"
+      }
+    },
+    "8": {
+      "title": "Chase Chad Around",
+      "volume": "2",
+      "last_updated": "1614790800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jfojbx"
+      }
+    },
+    "9": {
+      "title": "Monster and a Transfer (Struck Down)",
+      "volume": "2",
+      "last_updated": "1614790800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/fzx5ty"
+      }
+    },
+    "10": {
+      "title": "Monster and a Transfer, Part 2 (The Deathberry)",
+      "volume": "2",
+      "last_updated": "1614790800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/obfm67"
+      }
+    },
+    "11": {
+      "title": "Back. (Leachbomb or Mom)",
+      "volume": "2",
+      "last_updated": "1614790800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/faxsuf"
+      }
+    },
+    "12 {
+      "title": "The Gate of the End",
+      "volume": "2",
+      "last_updated": "1614790800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/xlpatn"
+      }
+    },
+    "13 {
+      "title": "BAD STANDARD",
+      "volume": "2",
+      "last_updated": "1614790800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/w2y901"
+      }
+    },
+    "14": {
+      "title": "School Daze!!!",
+      "volume": "2",
+      "last_updated": "1614790800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ituw0u"
+      }
+    },
+    "15": {
+      "title": "Jumpin' Jack, Jolted",
+      "volume": "2",
+      "last_updated": "1614790800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tki2q4"
+      }
+    },
+    "16": {
+      "title": "Wasted but Wanted",
+      "volume": "2",
+      "last_updated": "1614790800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zwjlxz"
+      }
+    },
+    "17": {
+      "title": "6/17",
+      "volume": "3",
+      "last_updated": "1614963600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/gl2iab"
+      }
+    },
+    "18": {
+      "title": "6/17 op. 2 Doesn't Smile Much Anymore",
+      "volume": "3",
+      "last_updated": "1614963600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/o8vf5i"
+      }
+    },
+    "19": {
+      "title": "6/17 op. 3 Memories in the Rain",
+      "volume": "3",
+      "last_updated": "1614963600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/sw042b"
+      }
+    },
+    "20": {
+      "title": "6/17 op. 4 A Face From the Past",
+      "volume": "3",
+      "last_updated": "1614963600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wxdcwn"
+      }
+    },
+    "21": {
+      "title": "6/17 op. 5 A Fighting Boy",
+      "volume": "3",
+      "last_updated": "1614963600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/vzgr34"
+      }
+    },
+    "22": {
+      "title": "6/17 op. 6 A Battle in the Graveyard",
+      "volume": "3",
+      "last_updated": "1614963600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/quv5g8"
+      }
+    },
+    "23": {
+      "title": "6/17 op. 7 Sharp Will, Dull Blade",
+      "volume": "3",
+      "last_updated": "1614963600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/w900tn"
+      }
+    },
+    "24": {
+      "title": "6/17 op. 8 One-Sided Sympathy",
+      "volume": "3",
+      "last_updated": "1614963600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/q37zgs"
+      }
+    },
+    "25": {
+      "title": "6/17 op. 9 A Fighting Boy 2",
+      "volume": "3",
+      "last_updated": "1614963600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zpuvbf"
+      }
+    },
+    "26": {
+      "title": "Paradise is Nowhere",
+      "volume": "4",
+      "last_updated": "1615309200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/e52178"
+      }
+    },
+    "27": {
+      "title": "Spirits Aren't Always With Us",
+      "volume": "4",
+      "last_updated": "1615309200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wncvcw"
+      }
+    },
+    "28": {
+      "title": "Symptom of Synesthesia",
+      "volume": "4",
+      "last_updated": "1615309200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/v498tp"
+      }
+    },
+    "29": {
+      "title": "Stop That, Stupid!!",
+      "volume": "4",
+      "last_updated": "1615309200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mk2xwf"
+      }
+    },
+    "30": {
+      "title": "Second Contact (it was beyond the scope of our understanding)",
+      "volume": "4",
+      "last_updated": "1615309200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/k2jp5s"
+      }
+    },
+    "31": {
+      "title": "Heroes Can Save You",
+      "volume": "4",
+      "last_updated": "1615309200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/vwfrlr"
+      }
+    },
+    "32": {
+      "title": "A Hero is Always With Me?",
+      "volume": "4",
+      "last_updated": "1615309200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/c3k75p"
+      }
+    },
+    "33": {
+      "title": "Rockin' Future 7",
+      "volume": "4",
+      "last_updated": "1615309200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/gxg2yn"
+      }
+    },
+    "34": {
+      "title": "Quincy Archer Hates You",
+      "volume": "4",
+      "last_updated": "1615309200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8h9s29"
+      }
+    },
+    "35": {
+      "title": "Will You Be My Enemy?",
+      "volume": "5",
+      "last_updated": "1636650000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/edwl1m"
+      }
+    },
+    "36": {
+      "title": "They Died for Vengeance",
+      "volume": "5",
+      "last_updated": "1636650000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8ztzj5"
+      }
+    },
+    "37": {
+      "title": "Crossing the Rubicon",
+      "volume": "5",
+      "last_updated": "1636650000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wep93m"
+      }
+    },
+    "38": {
+      "title": "Bent",
+      "volume": "5",
+      "last_updated": "1636650000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/rmromx"
+      }
+    },
+    "39": {
+      "title": "Rightarm of the Giant",
+      "volume": "5",
+      "last_updated": "1636650000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/sv55po"
+      }
+    },
+    "40": {
+      "title": "Grow?",
+      "volume": "5",
+      "last_updated": "1636650000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0c63gg"
+      }
+    },
+    "41": {
+      "title": "Princess & Dragon",
+      "volume": "5",
+      "last_updated": "1636650000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/aie9q9"
+      }
+    },
+    "42": {
+      "title": "Princess & Dragon Part 2: The Majestic",
+      "volume": "5",
+      "last_updated": "1636650000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/a4u8xx"
+      }
+    },
+    "43": {
+      "title": "Princess & Dragon Part 3: Six Flowers",
+      "volume": "5",
+      "last_updated": "1636650000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/yv9oo3"
+      }
+    },
+    "44": {
+      "title": "Awaken to the Threat",
+      "volume": "6",
+      "last_updated": "1616173200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ziwhgq"
+      }
+    },
+    "45": {
+      "title": "Point of Purpose",
+      "volume": "6",
+      "last_updated": "1616173200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mt423y"
+      }
+    },
+    "46": {
+      "title": "Karneades ~ Back-to-Back",
+      "volume": "6",
+      "last_updated": "1616173200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zylvan"
+      }
+    },
+    "47": {
+      "title": "Back-to-Back ~ Tearing Sky",
+      "volume": "6",
+      "last_updated": "1616173200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/djk6o4"
+      }
+    },
+    "48": {
+      "title": "Menos Grande",
+      "volume": "6",
+      "last_updated": "1616173200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kfwhhv"
+      }
+    },
+    "49": {
+      "title": "Unchained.",
+      "volume": "6",
+      "last_updated": "1616173200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/828ihh"
+      }
+    },
+    "50": {
+      "title": "Quincy Archer Hates You Part 2",
+      "volume": "6",
+      "last_updated": "1616173200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/6h4j6z"
+      }
+    },
+    "51": {
+      "title": "Death 3",
+      "volume": "6",
+      "last_updated": "1616173200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/s8w7ql"
+      }
+    },
+    "52": {
+      "title": "Needless Emotions",
+      "volume": "6",
+      "last_updated": "1616173200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jxishw"
+      }
+    },
+    "53": {
+      "title": "Nice to meet you. (I will beat you.)",
+      "volume": "7",
+      "last_updated": "1616259600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/55bnyv"
+      }
+    },
+    "54": {
+      "title": "The Nameless Boy",
+      "volume": "7",
+      "last_updated": "1616259600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/3opulq"
+      }
+    },
+    "55": {
+      "title": "Shut",
+      "volume": "7",
+      "last_updated": "1616259600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ajlowd"
+      }
+    },
+    "56": {
+      "title": "Broken Coda",
+      "volume": "7",
+      "last_updated": "1616259600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/cx9l7d"
+      }
+    },
+    "57": {
+      "title": "July Rain, Interrupted",
+      "volume": "7",
+      "last_updated": "1616259600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/k3xpla"
+      }
+    },
+    "58": {
+      "title": "Blank",
+      "volume": "7",
+      "last_updated": "1616259600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ofg42i"
+      }
+    },
+    "59": {
+      "title": "Lesson 1: One Strike! + Jailed at Home",
+      "volume": "7",
+      "last_updated": "1616259600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/bmzgbd"
+      }
+    },
+    "60": {
+      "title": "Lesson 1-2: Down!!",
+      "volume": "7",
+      "last_updated": "1616259600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/j1wg6v"
+      }
+    },
+    "61": {
+      "title": "Lesson 2: Shattered Shaft",
+      "volume": "7",
+      "last_updated": "1616259600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/63ibcv"
+      }
+    },
+    "62": {
+      "title": "Lesson 2-2: Bad Ending in The Shaft",
+      "volume": "8",
+      "last_updated": "1122915600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hukdof"
+      }
+    },
+    "63": {
+      "title": "Lesson 2-3: Inner Circle Breakdown",
+      "volume": "8",
+      "last_updated": "1122915600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/gce04g"
+      }
+    },
+    "64": {
+      "title": "Back in Black",
+      "volume": "8",
+      "last_updated": "1122915600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zit86s"
+      }
+    },
+    "65": {
+      "title": "Collisions",
+      "volume": "8",
+      "last_updated": "1122915600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/l0rx6e"
+      }
+    },
+    "66": {
+      "title": "The Blade and Me",
+      "volume": "8",
+      "last_updated": "1122915600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/x0s8ih"
+      }
+    },
+    "67": {
+      "title": "End of Lessons",
+      "volume": "8",
+      "last_updated": "1122915600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/taibfc"
+      }
+    },
+    "68": {
+      "title": "The Last Summer Vacation",
+      "volume": "8",
+      "last_updated": "1122915600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/51tthb"
+      }
+    },
+    "69": {
+      "title": "25:00 Gathering",
+      "volume": "8",
+      "last_updated": "1122915600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/c6egyr"
+      }
+    },
+    "70": {
+      "title": "Where Hollows Fear To Tread",
+      "volume": "8",
+      "last_updated": "1122915600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/9zwpyd"
+      }
+    },
+    "71": {
+      "title": "Intruderz",
+      "volume": "9",
+      "last_updated": "1128877200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/l96pj4"
+      }
+    },
+    "72": {
+      "title": "The Superchunk",
+      "volume": "9",
+      "last_updated": "1128877200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/qib8th"
+      }
+    },
+    "73": {
+      "title": "Ax Storm",
+      "volume": "9",
+      "last_updated": "1128877200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/l7pqty"
+      }
+    },
+    "74": {
+      "title": "Amputation",
+      "volume": "9",
+      "last_updated": "1128877200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hbfa9n"
+      }
+    },
+    "75": {
+      "title": "Crimson Rain",
+      "volume": "9",
+      "last_updated": "1128877200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mjfhjm"
+      }
+    },
+    "76": {
+      "title": "Boarrider Comin",
+      "volume": "9",
+      "last_updated": "1128877200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8ifyv3"
+      }
+    },
+    "77": {
+      "title": "My Name is Ganju",
+      "volume": "9",
+      "last_updated": "1128877200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/acz8it"
+      }
+    },
+    "78": {
+      "title": "Meet 'em in the Basement",
+      "volume": "9",
+      "last_updated": "1128877200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/lc7u7f"
+      }
+    },
+    "79": {
+      "title": "Fourteen Days for Conspiracy",
+      "volume": "9",
+      "last_updated": "1128877200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/6x1vep"
+      }
+    },
+    "80": {
+      "title": "The Shooting Star Project",
+      "volume": "10",
+      "last_updated": "1133802000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/sn5tie"
+      }
+    },
+    "81": {
+      "title": "Twelve-Tone Rendezvous",
+      "volume": "10",
+      "last_updated": "1133802000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hpgrcf"
+      }
+    },
+    "82": {
+      "title": "Conflictable Composition",
+      "volume": "10",
+      "last_updated": "1133802000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/pfpo5i"
+      }
+    },
+    "83": {
+      "title": "Come with Me",
+      "volume": "10",
+      "last_updated": "1133802000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hlvpdl"
+      }
+    },
+    "84": {
+      "title": "The Shooting Star Project 2 (Tattoo On The Sky)",
+      "volume": "10",
+      "last_updated": "1133802000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/41kpl5"
+      }
+    },
+    "85": {
+      "title": "Intruderz 2 (Breakthrough the Roof Mix)",
+      "volume": "10",
+      "last_updated": "1133802000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hib1hz"
+      }
+    },
+    "86": {
+      "title": "Making Good Relations, Ok?",
+      "volume": "10",
+      "last_updated": "1133802000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/7y44hm"
+      }
+    },
+    "87": {
+      "title": "Dancing With Spears",
+      "volume": "10",
+      "last_updated": "1133802000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jqp5pc"
+      }
+    },
+    "88": {
+      "title": "So Unlucky We Are",
+      "volume": "10",
+      "last_updated": "1133802000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jq122x"
+      }
+    },
+    "89": {
+      "title": "Masterly! And Farewell!",
+      "volume": "11",
+      "last_updated": "1139245200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/7wgsxl"
+      }
+    },
+     "90": {
+      "title": "See You Under the Fireworks",
+      "volume": "11",
+      "last_updated": "1139245200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/fdqmt1"
+      }
+    },
+    "91": {
+      "title": "Der Freischütz King",
+      "volume": "11",
+      "last_updated": "1139245200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mv97zs"
+      }
+    },
+    "92": {
+      "title": "Masterly! And Farewell! (Reprise)",
+      "volume": "11",
+      "last_updated": "1139245200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ts9ufn"
+      }
+    },
+    "93": {
+      "title": "Steer For the Star",
+      "volume": "11",
+      "last_updated": "1139245200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jr2mna"
+      }
+    },
+    "94": {
+      "title": "A Jail Called Remorse",
+      "volume": "11",
+      "last_updated": "1139245200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/etcvu3"
+      }
+    },
+    "95": {
+      "title": "Crush",
+      "volume": "11",
+      "last_updated": "1139245200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/bruad7"
+      }
+    },
+    "96": {
+      "title": "Bloodred Conflict",
+      "volume": "11",
+      "last_updated": "1139245200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tn1krd"
+      }
+    },
+    "97": {
+      "title": "Talk About Your Fear",
+      "volume": "11",
+      "last_updated": "1139245200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/l4t9uf"
+      }
+    },
+    "98": {
+      "title": "A Star And A Stray Dog",
+      "volume": "11",
+      "last_updated": "1139245200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/w8i7xr"
+      }
+    },
+    "99": {
+      "title": "Dead Black War Cloud",
+      "volume": "12",
+      "last_updated": "1144083600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/4ap8cf"
+      }
+    },
+    "100": {
+      "title": "Flower on the Precipice",
+      "volume": "12",
+      "last_updated": "1144083600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/k2yncu"
+      }
+    },
+    "101": {
+      "title": "Split Under the Red Stalk",
+      "volume": "12",
+      "last_updated": "1144083600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/98tcbm"
+      }
+    },
+    "102": {
+      "title": "Nobody Beats",
+      "volume": "12",
+      "last_updated": "1144083600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/o5lnhn"
+      }
+    },
+    "103": {
+      "title": "Dominion",
+      "volume": "12",
+      "last_updated": "1144083600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/khkreq"
+      }
+    },
+    "104": {
+      "title": "The Undead",
+      "volume": "12",
+      "last_updated": "1144083600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/st28dx"
+      }
+    },
+    "105": {
+      "title": "Spring, Spring, Meets the Tiger",
+      "volume": "12",
+      "last_updated": "1144083600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/t7q5da"
+      }
+    },
+    "106": {
+      "title": "Cause to Confront",
+      "volume": "12",
+      "last_updated": "1144083600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hx11a4"
+      }
+    },
+    "107": {
+      "title": "Heat in Trust",
+      "volume": "12",
+      "last_updated": "1144083600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tvauly"
+      }
+    },
+    "108": {
+      "title": "A Time to Scare",
+      "volume": "13",
+      "last_updated": "1149526800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/bpmqgo"
+      }
+    },
+    "109": {
+      "title": "Like A Tiger Trying Not to Crush the Flowers",
+      "volume": "13",
+      "last_updated": "1149526800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/uon5al"
+      }
+    },
+    "110": {
+      "title": "The Dark Side of the Universe",
+      "volume": "13",
+      "last_updated": "1149526800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/a55212"
+      }
+    },
+    "111": {
+      "title": "Black & White",
+      "volume": "13",
+      "last_updated": "1149526800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/e6xa7u"
+      }
+    },
+    "112": {
+      "title": "The Undead 2 (Rise & Rage)",
+      "volume": "13",
+      "last_updated": "1149526800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/l1oic8"
+      }
+    },
+    "113": {
+      "title": "The Undead 3 (Closing Frantica)",
+      "volume": "13",
+      "last_updated": "1149526800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/f4kp7d"
+      }
+    },
+    "114": {
+      "title": "Everything Relating to the Crumbling World",
+      "volume": "13",
+      "last_updated": "1149526800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/agt1vh"
+      }
+    },
+    "115": {
+      "title": "Remnant",
+      "volume": "13",
+      "last_updated": "1149526800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/svt9yl"
+      }
+    },
+    "116": {
+      "title": "White Tower Rocks",
+      "volume": "14",
+      "last_updated": "1154365200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kaadgw"
+      }
+    },
+    "117": {
+      "title": "Remnant 2 (Deny the Shadow)",
+      "volume": "14",
+      "last_updated": "1154365200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/24ie1c"
+      }
+    },
+    "118": {
+      "title": "Supernal Tag",
+      "volume": "14",
+      "last_updated": "1154365200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wst1gt"
+      }
+    },
+    "119": {
+      "title": "Secret of the Moon",
+      "volume": "14",
+      "last_updated": "1154365200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0kovmh"
+      }
+    },
+    "120": {
+      "title": "Shake Hands with Grenades",
+      "volume": "14",
+      "last_updated": "1154365200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/spz4hm"
+      }
+    },
+    "121": {
+      "title": "In Sane We Trust",
+      "volume": "14",
+      "last_updated": "1154365200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/c6f5fp"
+      }
+    },
+    "122": {
+      "title": "Don't Lose Your Grip",
+      "volume": "14",
+      "last_updated": "1154365200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/vmql7d"
+      }
+    },
+    "123": {
+      "title": "Pledge My Pride",
+      "volume": "14",
+      "last_updated": "1154365200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/fsyb3m"
+      }
+    },
+    "124": {
+      "title": "Crying Little People",
+      "volume": "15",
+      "last_updated": "1159808400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8ozf3s"
+      }
+    },
+    "125": {
+      "title": "Insanity & Genius",
+      "volume": "15",
+      "last_updated": "1159808400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ml5w91"
+      }
+    },
+    "126": {
+      "title": "The Last of a Void War",
+      "volume": "15",
+      "last_updated": "1159808400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wi6w8s"
+      }
+    },
+    "127": {
+      "title": "Beginning of the Death of Tomorrow",
+      "volume": "15",
+      "last_updated": "1159808400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zq18kb"
+      }
+    },
+    "128": {
+      "title": "The Great Joint-Struggle Union",
+      "volume": "15",
+      "last_updated": "1159808400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/i326g8"
+      }
+    },
+    "129": {
+      "title": "Suspicion (of Assassination)",
+      "volume": "15",
+      "last_updated": "1159808400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hucc0d"
+      }
+    },
+    "130": {
+      "title": "Suspicion 2 (of Tears)",
+      "volume": "15",
+      "last_updated": "1159808400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tamcmy"
+      }
+    },
+    "131": {
+      "title": "The True Will",
+      "volume": "16",
+      "last_updated": "1165251600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/rj1tbm"
+      }
+    },
+    "132": {
+      "title": "Creeping Limit",
+      "volume": "16",
+      "last_updated": "1165251600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/y3ouz1"
+      }
+    },
+    "133": {
+      "title": "Memories in the Rain 2: Nocturne",
+      "volume": "16",
+      "last_updated": "1165251600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/lnj5dt"
+      }
+    },
+    "134": {
+      "title": "Memories in the Rain 2, op.2: Longing for Sanctuary",
+      "volume": "16",
+      "last_updated": "1165251600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/g9qu8e"
+      }
+    },
+    "135": {
+      "title": "Memories in the Rain 2, op.3: Affected by the Night",
+      "volume": "16",
+      "last_updated": "1165251600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/s42qh4"
+      }
+    },
+    "136": {
+      "title": "Memories in the Rain 2, op.4: Night of Wijnruit",
+      "volume": "16",
+      "last_updated": "1165251600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ezrrew"
+      }
+    },
+    "137": {
+      "title": "Surrounding Clutch",
+      "volume": "16",
+      "last_updated": "1165251600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2uyq08"
+      }
+    },
+    "138": {
+      "title": "Private Thoughts",
+      "volume": "16",
+      "last_updated": "1165251600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/l5ydjx"
+      }
+    },
+    "139": {
+      "title": "Drowsy, Bloody, Crazy",
+      "volume": "16",
+      "last_updated": "1165251600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/5r7vy8"
+      }
+    },
+    "140": {
+      "title": "Bite at the Moon",
+      "volume": "17",
+      "last_updated": "1170694800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/m8vnuo"
+      }
+    },
+    "141": {
+      "title": "Kneel to the Baboon King",
+      "volume": "17",
+      "last_updated": "1170694800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/3mt01u"
+      }
+    },
+    "142": {
+      "title": "To Those Capturing the Moon",
+      "volume": "17",
+      "last_updated": "1170694800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/lna9zx"
+      }
+    },
+    "143": {
+      "title": "Blazing Souls",
+      "volume": "17",
+      "last_updated": "1170694800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kc6mqk"
+      }
+    },
+    "144": {
+      "title": "Rosa Rubicundior, Lilio Candidior",
+      "volume": "17",
+      "last_updated": "1170694800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/w40e67"
+      }
+    },
+    "145": {
+      "title": "Shaken",
+      "volume": "17",
+      "last_updated": "1170694800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/7bt4f6"
+      }
+    },
+    "146": {
+      "title": "Demon Loves the Dark",
+      "volume": "17",
+      "last_updated": "1170694800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/nuexlr"
+      }
+    },
+    "147": {
+      "title": "Countdown to the End: 3 (Blind Light, Deaf Beat)",
+      "volume": "17",
+      "last_updated": "1170694800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/syhjj2"
+      }
+    },
+    "148": {
+      "title": "Countdown to the End: 2 (Lady Lennon~Frankenstein)",
+      "volume": "17",
+      "last_updated": "1170694800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/oqfbaj"
+      }
+    },
+    "149": {
+      "title": "Countdown to the End: 1 (Only Mercifully)",
+      "volume": "17",
+      "last_updated": "1170694800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ga35sj"
+      }
+    },
+    "150": {
+      "title": "Countdown to the End: 0",
+      "volume": "18",
+      "last_updated": "1175533200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/cql49e"
+      }
+    },
+    "151": {
+      "title": "The Deathberry Returns",
+      "volume": "18",
+      "last_updated": "1175533200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/358ta6"
+      }
+    },
+    "152": {
+      "title": "The Speed Phantom",
+      "volume": "18",
+      "last_updated": "1175533200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ho0gg8"
+      }
+    },
+    "153": {
+      "title": "Empty Dialogue",
+      "volume": "18",
+      "last_updated": "1175533200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/9mwzqf"
+      }
+    },
+    "154": {
+      "title": "Flash Master",
+      "volume": "18",
+      "last_updated": "1175533200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/w938qe"
+      }
+    },
+    "155": {
+      "title": "Redoundable Deeds/Redoubtable Babies",
+      "volume": "18",
+      "last_updated": "1175533200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/k4hj9x"
+      }
+    },
+    "156": {
+      "title": "Welcome to Purgatory",
+      "volume": "18",
+      "last_updated": "1175533200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/epax6g"
+      }
+    },
+    "157": {
+      "title": "Cat and Hornet",
+      "volume": "18",
+      "last_updated": "1175533200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/v03wwx"
+      }
+    },
+    "158": {
+      "title": "Sky Leopardess",
+      "volume": "18",
+      "last_updated": "1175533200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/aakj6q"
+      }
+    },
+    "159": {
+      "title": "Long Way to Say Goodbye",
+      "volume": "19",
+      "last_updated": "1180976400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/uwbej2"
+      }
+    },
+    "160": {
+      "title": "Battle on Guillotine Hill",
+      "volume": "19",
+      "last_updated": "1180976400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/y0os3s"
+      }
+    },
+    "161": {
+      "title": "Scratch the Sky",
+      "volume": "19",
+      "last_updated": "1180976400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/n10r2r"
+      }
+    },
+    "162": {
+      "title": "Black Moon Rising",
+      "volume": "19",
+      "last_updated": "1180976400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/feqhoh"
+      }
+    },
+    "163": {
+      "title": "The Speed Phantom 2 (Denial by Pride, Contradiction by Power)",
+      "volume": "19",
+      "last_updated": "1180976400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/el6amw"
+      }
+    },
+    "164": {
+      "title": "The One Who Changed the World",
+      "volume": "19",
+      "last_updated": "1180976400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mdy4fc"
+      }
+    },
+    "165": {
+      "title": "The Dark Side of the Universe 2",
+      "volume": "19",
+      "last_updated": "1180976400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/eu0kxk"
+      }
+    },
+    "166": {
+      "title": "Black & White 2",
+      "volume": "19",
+      "last_updated": "1180976400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/p08oti"
+      }
+    },
+    "167": {
+      "title": "The Burial Chamber",
+      "volume": "19",
+      "last_updated": "1180976400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/um7n4f"
+      }
+    },
+    "168": {
+      "title": "Behind Me, Behind You",
+      "volume": "19",
+      "last_updated": "1180976400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/83ozm4"
+      }
+    },
+    "169": {
+      "title": "End of Hypnosis",
+      "volume": "20",
+      "last_updated": "1186419600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/7vq3ox"
+      }
+    },
+    "170": {
+      "title": "End of Hypnosis 2 (The Galvanizer)",
+      "volume": "20",
+      "last_updated": "1186419600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/5hmauw"
+      }
+    },
+    "171": {
+      "title": "End of Hypnosis 3 (The Blue Fog)",
+      "volume": "20",
+      "last_updated": "1186419600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/s42hh8"
+      }
+    },
+    "172": {
+      "title": "End of Hypnosis 4 (Prisoners in Paradise)",
+      "volume": "20",
+      "last_updated": "1186419600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/1orbta"
+      }
+    },
+    "173": {
+      "title": "End of Hypnosis 5 (Standing to Defend You)",
+      "volume": "20",
+      "last_updated": "1186419600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wgcztp"
+      }
+    },
+    "174": {
+      "title": "End of Hypnosis 6 (The United Front)",
+      "volume": "20",
+      "last_updated": "1186419600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jrzg7j"
+      }
+    },
+    "175": {
+      "title": "End of Hypnosis 7 (Truth Under My Strings)",
+      "volume": "20",
+      "last_updated": "1186419600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/sozyzv"
+      }
+    },
+    "176": {
+      "title": "End of Hypnosis 8 (the Transfixion)",
+      "volume": "20",
+      "last_updated": "1186419600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kox5f1"
+      }
+    },
+    "177": {
+      "title": "End of Hypnosis 9 (Encompassed)",
+      "volume": "20",
+      "last_updated": "1186419600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/t0b9cf"
+      }
+    },
+    "178": {
+      "title": "No One Stands On the Sky",
+      "volume": "20",
+      "last_updated": "1186419600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/c84riw"
+      }
+    },
+    "179": {
+      "title": "Confession in the Twilight",
+      "volume": "21",
+      "last_updated": "1191258000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jvpnzo"
+      }
+    },
+    "180": {
+      "title": "Something in the Aftermath",
+      "volume": "21",
+      "last_updated": "1191258000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/71zg2g"
+      }
+    },
+    "181": {
+      "title": "And the Rain Left Off",
+      "volume": "21",
+      "last_updated": "1191258000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/p78u3c"
+      }
+    },
+    "182": {
+      "title": "Get Back from the Storm (Trigger for a New Concerto)",
+      "volume": "21",
+      "last_updated": "1191258000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/v0w2qm"
+      }
+    },
+    "183": {
+      "title": "Eyes of the Unknown",
+      "volume": "21",
+      "last_updated": "1191258000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/7dmq89"
+      }
+    },
+    "184": {
+      "title": "Hush",
+      "volume": "21",
+      "last_updated": "1191258000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/02ih96"
+      }
+    },
+    "185": {
+      "title": "Be My Family or Not",
+      "volume": "21",
+      "last_updated": "1191258000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/16vtrt"
+      }
+    },
+    "186": {
+      "title": "Tell Your Children the Truth",
+      "volume": "21",
+      "last_updated": "1191258000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/guzefo"
+      }
+    },
+    "187": {
+      "title": "The Cigar Blues, Part Two",
+      "volume": "21",
+      "last_updated": "1191258000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/l13xou"
+      }
+    },
+    "188": {
+      "title": "Crush the World Down",
+      "volume": "22",
+      "last_updated": "1202144400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zun60c"
+      }
+    },
+    "189": {
+      "title": "Resolve",
+      "volume": "22",
+      "last_updated": "1202144400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0srgzp"
+      }
+    },
+    "190": {
+      "title": "Conquistadores",
+      "volume": "22",
+      "last_updated": "1202144400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/yknc2j"
+      }
+    },
+    "191": {
+      "title": "Conquistadores 2 (Screaming Symphony)",
+      "volume": "22",
+      "last_updated": "1202144400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8ceknu"
+      }
+    },
+    "192": {
+      "title": "Conquistadores 3 (Hounded Priestess)",
+      "volume": "22",
+      "last_updated": "1202144400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mgrxfj"
+      }
+    },
+    "193": {
+      "title": "Conquistadores 4 (Ebony & Ivory)",
+      "volume": "22",
+      "last_updated": "1202144400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/5df2yg"
+      }
+    },
+    "194": {
+      "title": "Conquistadores 5 (La Basura)",
+      "volume": "22",
+      "last_updated": "1202144400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jhq1vb"
+      }
+    },
+    "195": {
+      "title": "Death & Strawberry (Reprise)",
+      "volume": "22",
+      "last_updated": "1202144400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/fp1u14"
+      }
+    },
+    "196": {
+      "title": "Punch Down the Stone Circle",
+      "volume": "22",
+      "last_updated": "1202144400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/v3vio9"
+      }
+    },
+    "197": {
+      "title": "The Approaching Danger",
+      "volume": "22",
+      "last_updated": "1202144400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/bw7vzc"
+      }
+    },
+    "198": {
+      "title": "The Icecold Discord",
+      "volume": "23",
+      "last_updated": "1212426000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ldy07w"
+      }
+    },
+    "199": {
+      "title": "Ugly",
+      "volume": "23",
+      "last_updated": "1212426000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/yzick7"
+      }
+    },
+    "200": {
+      "title": "Night of Sledgehammer",
+      "volume": "23",
+      "last_updated": "1212426000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jxlcvy"
+      }
+    },
+    "201": {
+      "title": "Wind & Snowbound",
+      "volume": "23",
+      "last_updated": "1212426000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/1tu6y8"
+      }
+    },
+    "202": {
+      "title": "Â¡Mala Suerte!",
+      "volume": "23",
+      "last_updated": "1212426000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zk88p3"
+      }
+    },
+    "203": {
+      "title": "Â¡Mala Suerte! 2 (El Monstruo)",
+      "volume": "23",
+      "last_updated": "1212426000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/6vpu85"
+      }
+    },
+    "204": {
+      "title": "Â¡Mala Suerte! 3 (Monstruo Sangrienta)",
+      "volume": "23",
+      "last_updated": "1212426000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2miocv"
+      }
+    },
+    "205": {
+      "title": "Â¡Mala Suerte! 4 (Tempestad de La Lucha)",
+      "volume": "23",
+      "last_updated": "1212426000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hnvgcw"
+      }
+    },
+    "206": {
+      "title": "Â¡Mala Suerte! 5 [Lucky]",
+      "volume": "24",
+      "last_updated": "1220288400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/nhgztq"
+      }
+    },
+    "207": {
+      "title": "Mode: Genocide",
+      "volume": "24",
+      "last_updated": "1220288400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/v1s0j3"
+      }
+    },
+    "208": {
+      "title": "The Scissors",
+      "volume": "24",
+      "last_updated": "1220288400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tfrdln"
+      }
+    },
+    "209": {
+      "title": "Lift the Limit",
+      "volume": "24",
+      "last_updated": "1220288400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/5o7oix"
+      }
+    },
+    "210": {
+      "title": "Turn the True Power On",
+      "volume": "24",
+      "last_updated": "1220288400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wnzzsw"
+      }
+    },
+    "211": {
+      "title": "Stroke of Sanity",
+      "volume": "24",
+      "last_updated": "1220288400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/9j7htw"
+      }
+    },
+    "212": {
+      "title": "You Don't Hear My Name Anymore",
+      "volume": "24",
+      "last_updated": "1220288400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/83lh3t"
+      }
+    },
+    "213": {
+      "title": "Trifle",
+      "volume": "24",
+      "last_updated": "1220288400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/acp80j"
+      }
+    },
+    "214": {
+      "title": "Immanent God Blues",
+      "volume": "24",
+      "last_updated": "1220288400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/22xz58"
+      }
+    },
+    "215": {
+      "title": "Tug Your God Out",
+      "volume": "25",
+      "last_updated": "1228150800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/19hwec"
+      }
+    },
+    "216": {
+      "title": "The Suppression of Darkness",
+      "volume": "25",
+      "last_updated": "1228150800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hpwctq"
+      }
+    },
+    "217": {
+      "title": "Hole in My Heart",
+      "volume": "25",
+      "last_updated": "1228150800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/s709ks"
+      }
+    },
+    "218": {
+      "title": "Dark Side of Universe 3",
+      "volume": "25",
+      "last_updated": "1228150800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/h8s6gd"
+      }
+    },
+    "219": {
+      "title": "Black & White 3",
+      "volume": "25",
+      "last_updated": "1228150800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/r8d56g"
+      }
+    },
+    "220": {
+      "title": "King & His Horse",
+      "volume": "25",
+      "last_updated": "1228150800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/byore7"
+      }
+    },
+    "221": {
+      "title": "Let's Eat the World's End",
+      "volume": "25",
+      "last_updated": "1228150800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0j7sc8"
+      }
+    },
+    "222": {
+      "title": "No Shaking Throne",
+      "volume": "25",
+      "last_updated": "1228150800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/gc1yfi"
+      }
+    },
+    "223": {
+      "title": "The Scarlet Creation",
+      "volume": "25",
+      "last_updated": "1228150800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/yoo00k"
+      }
+    },
+    "224": {
+      "title": "Imitated Gaiety",
+      "volume": "26",
+      "last_updated": "1236013200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/yh63rt"
+      }
+    },
+    "225": {
+      "title": "Slip Into My Barrier",
+      "volume": "26",
+      "last_updated": "1236013200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tpmtk8"
+      }
+    },
+    "226": {
+      "title": "Right of My Heart",
+      "volume": "26",
+      "last_updated": "1236013200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/7victz"
+      }
+    },
+    "227": {
+      "title": "The Swordless Soldier",
+      "volume": "26",
+      "last_updated": "1236013200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/j53mz3"
+      }
+    },
+    "228": {
+      "title": "Don't Look Back",
+      "volume": "26",
+      "last_updated": "1236013200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ce99pd"
+      }
+    },
+    "229": {
+      "title": "The Howling Tempest",
+      "volume": "26",
+      "last_updated": "1236013200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/eq78es"
+      }
+    },
+    "230": {
+      "title": "Dead White Invasion",
+      "volume": "26",
+      "last_updated": "1236013200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/odebpm"
+      }
+    },
+    "231": {
+      "title": "The Mascaron Drive",
+      "volume": "26",
+      "last_updated": "1236013200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/xvun6l"
+      }
+    },
+    "232": {
+      "title": "The Mascaron Drive 2",
+      "volume": "26",
+      "last_updated": "1236013200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/nx3vb7"
+      }
+    },
+    "233": {
+      "title": "El Violador",
+      "volume": "26",
+      "last_updated": "1236013200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/fwva9f"
+      }
+    },
+    "234": {
+      "title": "Not Negotiation",
+      "volume": "27",
+      "last_updated": "1243875600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/fgo3s0"
+      }
+    },
+    "235": {
+      "title": "The Frozen Clutch",
+      "volume": "27",
+      "last_updated": "1243875600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/11rrh3"
+      }
+    },
+    "236": {
+      "title": "The Sun Already Gone Down",
+      "volume": "27",
+      "last_updated": "1243875600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/6wrb96"
+      }
+    },
+    "237": {
+      "title": "Goodbye, Halcyon Days",
+      "volume": "27",
+      "last_updated": "1243875600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/1gsw77"
+      }
+    },
+    "238": {
+      "title": "Eagle Without Wings",
+      "volume": "27",
+      "last_updated": "1243875600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/w3obnu"
+      }
+    },
+    "239": {
+      "title": "Winged Eagles",
+      "volume": "27",
+      "last_updated": "1243875600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/sjmbje"
+      }
+    },
+    "240": {
+      "title": "Regeneration.",
+      "volume": "27",
+      "last_updated": "1243875600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/f6jc2y"
+      }
+    },
+    "241": {
+      "title": "Silverflame.",
+      "volume": "27",
+      "last_updated": "1243875600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/f91a58"
+      }
+    },
+    "242": {
+      "title": "Two Men are Burning",
+      "volume": "27",
+      "last_updated": "1243875600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kfi2m0"
+      }
+    },
+    "243": {
+      "title": "The Knuckle & The Arrow",
+      "volume": "28",
+      "last_updated": "1251738000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tsvquz"
+      }
+    },
+    "244": {
+      "title": "Born From The Fear",
+      "volume": "28",
+      "last_updated": "1251738000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/qrf3ue"
+      }
+    },
+    "245": {
+      "title": "The Way Without Enemies",
+      "volume": "28",
+      "last_updated": "1251738000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/civxch"
+      }
+    },
+    "246": {
+      "title": "The Great Desert Bros",
+      "volume": "28",
+      "last_updated": "1251738000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/nf84rm"
+      }
+    },
+    "247": {
+      "title": "United On The Desert",
+      "volume": "28",
+      "last_updated": "1251738000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0a3yj2"
+      }
+    },
+    "248": {
+      "title": "Alive and Back Here Once Again",
+      "volume": "28",
+      "last_updated": "1251738000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/eavrv0"
+      }
+    },
+    "249": {
+      "title": "Back to The Innocence",
+      "volume": "28",
+      "last_updated": "1251738000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/3tbx9c"
+      }
+    },
+    "250": {
+      "title": "Five Ways To Three Figures",
+      "volume": "28",
+      "last_updated": "1251738000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tscann"
+      }
+    },
+    "251": {
+      "title": "Baron's Lecture 1st Period",
+      "volume": "28",
+      "last_updated": "1251738000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/seyfi6"
+      }
+    },
+    "252": {
+      "title": "Rebut to the Baron's Lecture",
+      "volume": "29",
+      "last_updated": "1259600400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/cnviwi"
+      }
+    },
+    "253": {
+      "title": "Don't Call Me NiÃ±o",
+      "volume": "29",
+      "last_updated": "1259600400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/9lcfi4"
+      }
+    },
+    "254": {
+      "title": "Leave the Chocolate Here",
+      "volume": "29",
+      "last_updated": "1259600400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2ck20h"
+      }
+    },
+    "255": {
+      "title": "Don't Breathe in the Bush",
+      "volume": "29",
+      "last_updated": "1259600400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/yw2gyu"
+      }
+    },
+    "256": {
+      "title": "Infinite Slick",
+      "volume": "29",
+      "last_updated": "1259600400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0ysjxx"
+      }
+    },
+    "257": {
+      "title": "The Slashing Opera",
+      "volume": "29",
+      "last_updated": "1259600400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/icwnkm"
+      }
+    },
+    "258": {
+      "title": "Seele Schneider",
+      "volume": "29",
+      "last_updated": "1259600400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kztfdn"
+      }
+    },
+    "259": {
+      "title": "Flicker Flames",
+      "volume": "29",
+      "last_updated": "1259600400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zhoob1"
+      }
+    },
+    "260": {
+      "title": "Right Arm of The Giant 2"",
+      "volume": "29",
+      "last_updated": "1259600400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/a2473e"
+      }
+    },
+    "261": {
+      "title": "Left Arm of The Demon",
+      "volume": "30",
+      "last_updated": "1267462800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/o0dfcn"
+      }
+    },
+    "262": {
+      "title": "Unblendable",
+      "volume": "30",
+      "last_updated": "1267462800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/penk3u"
+      }
+    },
+    "263": {
+      "title": "Unexpected",
+      "volume": "30",
+      "last_updated": "1267462800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/uda3el"
+      }
+    },
+    "264": {
+      "title": "Don't Say That Name Again",
+      "volume": "30",
+      "last_updated": "1267462800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/e6e61m"
+      }
+    },
+    "265": {
+      "title": "Bang The Bore",
+      "volume": "30",
+      "last_updated": "1267462800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/aqoh1n"
+      }
+    },
+    "266": {
+      "title": "Hide Away From The Sun",
+      "volume": "30",
+      "last_updated": "1267462800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/misvkw"
+      }
+    },
+    "267": {
+      "title": "Legions of The Regrets",
+      "volume": "30",
+      "last_updated": "1267462800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/02pdo9"
+      }
+    },
+    "268": {
+      "title": "You must not die",
+      "volume": "30",
+      "last_updated": "1267462800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/98s9tw"
+      }
+    },
+    "269": {
+      "title": "The End is Near",
+      "volume": "30",
+      "last_updated": "1267462800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/f9oy5v"
+      }
+    },
+    "270": {
+      "title": "Warning",
+      "volume": "31",
+      "last_updated": "1275325200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/bm42j4"
+      }
+    },
+    "271": {
+      "title": "If You Rise From The Ashes",
+      "volume": "31",
+      "last_updated": "1275325200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/1s6fmb"
+      }
+    },
+    "272": {
+      "title": "Don't Kill My Volupture",
+      "volume": "31",
+      "last_updated": "1275325200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/4utslh"
+      }
+    },
+    "273": {
+      "title": "Dog Eat Dog",
+      "volume": "31",
+      "last_updated": "1275325200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/65ni4d"
+      }
+    },
+    "274": {
+      "title": "The Monster",
+      "volume": "31",
+      "last_updated": "1275325200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/6rl70a"
+      }
+    },
+    "275": {
+      "title": "The United Front 2 [Red & White]",
+      "volume": "31",
+      "last_updated": "1275325200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/s5sw89"
+      }
+    },
+    "276": {
+      "title": "Blockin' Beast",
+      "volume": "31",
+      "last_updated": "1275325200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/a0fukj"
+      }
+    },
+    "277": {
+      "title": "Corrosion of Conformity",
+      "volume": "31",
+      "last_updated": "1275325200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/3ejgav"
+      }
+    },
+    "278": {
+      "title": "Heal for The Crash",
+      "volume": "31",
+      "last_updated": "1275325200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/q7y42t"
+      }
+    },
+    "279": {
+      "title": "Jugulators",
+      "volume": "32",
+      "last_updated": "1283792400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/n093t1"
+      }
+    },
+    "280": {
+      "title": "Jugulators 2",
+      "volume": "32",
+      "last_updated": "1283792400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tlvg9j"
+      }
+    },
+    "281": {
+      "title": "The Vulgarian Noise",
+      "volume": "32",
+      "last_updated": "1283792400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/6t4q7c"
+      }
+    },
+    "282": {
+      "title": "The Primal Fear",
+      "volume": "32",
+      "last_updated": "1283792400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/n4bv6m"
+      }
+    },
+    "283": {
+      "title": "You Don't Hurt Anymore",
+      "volume": "32",
+      "last_updated": "1283792400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/lpuitn"
+      }
+    },
+    "284": {
+      "title": "Historia de Pantera y su Sombras",
+      "volume": "32",
+      "last_updated": "1283792400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/q2m4zf"
+      }
+    },
+    "285": {
+      "title": "Devour the Flesh, Alone",
+      "volume": "32",
+      "last_updated": "1283792400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/1wm59n"
+      }
+    },
+    "286": {
+      "title": "Guillotine You Standing",
+      "volume": "32",
+      "last_updated": "1283792400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/uiqq7c"
+      }
+    },
+    "287": {
+      "title": "Don't Forget Till You Die",
+      "volume": "33",
+      "last_updated": "1291654800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/coeigm"
+      }
+    },
+    "288": {
+      "title": "The Bad Joke",
+      "volume": "33",
+      "last_updated": "1291654800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/r72ztu"
+      }
+    },
+    "289": {
+      "title": "The Scarmask",
+      "volume": "33",
+      "last_updated": "1291654800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/cul5r5"
+      }
+    },
+    "290": {
+      "title": "Unleash The Beast",
+      "volume": "33",
+      "last_updated": "1291654800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/l4ywba"
+      }
+    },
+    "291": {
+      "title": "Thank You For Defending Me",
+      "volume": "33",
+      "last_updated": "1291654800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/px7hdt"
+      }
+    },
+    "292": {
+      "title": "Rupture My Replica",
+      "volume": "33",
+      "last_updated": "1291654800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/56akl0"
+      }
+    },
+    "293": {
+      "title": "Urge to Unite",
+      "volume": "33",
+      "last_updated": "1291654800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hchpxj"
+      }
+    },
+    "294": {
+      "title": "If You Call Me a Beast, I'll Kill You Like a Tempest",
+      "volume": "33",
+      "last_updated": "1291654800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0jmov5"
+      }
+    },
+    "295": {
+      "title": "The Last Mission",
+      "volume": "33",
+      "last_updated": "1291654800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/d2k3tk"
+      }
+    },
+    "296": {
+      "title": "Changed Again and Again",
+      "volume": "34",
+      "last_updated": "1298912400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/7yix0x"
+      }
+    },
+    "297": {
+      "title": "King of The Kill",
+      "volume": "34",
+      "last_updated": "1298912400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/sejju6"
+      }
+    },
+    "298": {
+      "title": "Intruderz 3",
+      "volume": "34",
+      "last_updated": "1298912400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/3h9xxm"
+      }
+    },
+    "299": {
+      "title": "The Verbal Warfare",
+      "volume": "34",
+      "last_updated": "1298912400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/b7sky4"
+      }
+    },
+    "300": {
+      "title": "Curse Named Love",
+      "volume": "34",
+      "last_updated": "1298912400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/md0ib7"
+      }
+    },
+    "301": {
+      "title": "Nothing Like Equal",
+      "volume": "34",
+      "last_updated": "1298912400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/oisk8f"
+      }
+    },
+    "302": {
+      "title": "Pride on the Blade",
+      "volume": "34",
+      "last_updated": "1298912400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/p069re"
+      }
+    },
+    "303": {
+      "title": "Dumdum-Dummy-Dumbstruck",
+      "volume": "34",
+      "last_updated": "1298912400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/1ecbzk"
+      }
+    },
+    "304": {
+      "title": "Battle of Barbarians",
+      "volume": "34",
+      "last_updated": "1298912400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/5ccumn"
+      }
+    },
+    "305": {
+      "title": "The Rising Phoenix",
+      "volume": "34",
+      "last_updated": "1298912400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/bv9aou"
+      }
+    },
+    "306": {
+      "title": "Not Perfect is Good",
+      "volume": "35",
+      "last_updated": "1307379600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/cf1m24"
+      }
+    },
+    "307": {
+      "title": "Bite it, Slash it",
+      "volume": "35",
+      "last_updated": "1307379600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2jsx14"
+      }
+    },
+    "308": {
+      "title": "Satan from Orbit",
+      "volume": "35",
+      "last_updated": "1307379600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/seia2s"
+      }
+    },
+    "309": {
+      "title": "Pray For the Mantis",
+      "volume": "35",
+      "last_updated": "1307379600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/vera11"
+      }
+    },
+    "310": {
+      "title": "Four Arms to Killing You",
+      "volume": "35",
+      "last_updated": "1307379600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/yt6goe"
+      }
+    },
+    "311": {
+      "title": "The Undead 4",
+      "volume": "35",
+      "last_updated": "1307379600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/x85tt2"
+      }
+    },
+    "312": {
+      "title": "Higher Than The Moon",
+      "volume": "35",
+      "last_updated": "1307379600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/xnloro"
+      }
+    },
+    "313": {
+      "title": "To Close Your World",
+      "volume": "35",
+      "last_updated": "1307379600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/6ln656"
+      }
+    },
+    "314": {
+      "title": "Night Side of Abduction",
+      "volume": "35",
+      "last_updated": "1307379600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/25cg8t"
+      }
+    },
+    "315": {
+      "title": "March of the Death",
+      "volume": "35",
+      "last_updated": "1307379600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/f0wgyl"
+      }
+    },
+    "315.1": {
+      "title": "Turn Back The Pendulum",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/95xtpw"
+      }
+    },
+    "315.2": {
+      "title": "Turn Back The Pendulum 2",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/619vra"
+      }
+    },
+    "315.3": {
+      "title": "Turn Back The Pendulum 3",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2kkioe"
+      }
+    },
+    "315.4": {
+      "title": "Turn Back The Pendulum 4",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ezvy4o"
+      }
+    },
+    "315.5": {
+      "title": "Turn Back The Pendulum 5",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/y2g9rq"
+      }
+    },
+    "315.6": {
+      "title": "Turn Back The Pendulum 6",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/a2pwik"
+      }
+    },
+    "315.7": {
+      "title": "Turn Back The Pendulum 7",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/pbsv6e"
+      }
+    },
+    "315.8": {
+      "title": "Turn Back The Pendulum 8",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zjpc3e"
+      }
+    },
+    "315.9": {
+      "title": "Turn Back The Pendulum 9",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/71y8cf"
+      }
+    },
+   "316": {
+      "title": "Turn Back The Pendulum 10",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/c8c1ci"
+      }
+    },
+    "316.1": {
+      "title": "Turn Back The Pendulum 11",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8thx78"
+      }
+    },
+    "316.2": {
+      "title": "Let Stop The Pendulum",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/9zjw42"
+      }
+    },
+    "316.3": {
+      "title": "Swang the Edge Down",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2r7wxi"
+      }
+    },
+   "317": {
+      "title": "Six Hearts Will Beat As One",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/dy69jq"
+      }
+    },
+    "318": {
+      "title": "Five Towers/Four Pillars",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/p850hc"
+      }
+    },
+    "319": {
+      "title": "Ants And Dragons",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/4qtfy9"
+      }
+    },
+    "320": {
+      "title": "Beauty is So Solitary",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jzc2rd"
+      }
+    },
+    "321": {
+      "title": "Black Briers and Brambles",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/1gqevh"
+      }
+    },
+    "322": {
+      "title": "Oath Under The Rose",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/gct3vp"
+      }
+    },
+    "323": {
+      "title": "Gloomy, Ghastly and Full of Despair",
+      "volume": "38",
+      "last_updated": "1328547600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mm6fhn"
+      }
+    },
+    "324": {
+      "title": "The Reaper",
+      "volume": "38",
+      "last_updated": "1328547600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/x4yuk4"
+      }
+    },
+    "325": {
+      "title": "Fear For Fight",
+      "volume": "38",
+      "last_updated": "1328547600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ud0tig"
+      }
+    },
+    "326": {
+      "title": "Knockdown Monster",
+      "volume": "38",
+      "last_updated": "1328547600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/rukwlr"
+      }
+    },
+    "327": {
+      "title": "Knockdown Monsters",
+      "volume": "38",
+      "last_updated": "1328547600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hx66ps"
+      }
+    },
+    "328": {
+      "title": "The Knuckle Debate",
+      "volume": "38",
+      "last_updated": "1328547600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/3fbopp"
+      }
+    },
+    "329": {
+      "title": "Raging Rampage",
+      "volume": "38",
+      "last_updated": "1328547600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/suggc6"
+      }
+    },
+    "330": {
+      "title": "Crossing Roads",
+      "volume": "38",
+      "last_updated": "1328547600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/gbcwjw"
+      }
+    },
+    "331": {
+      "title": "Don't Believe The Hide",
+      "volume": "38",
+      "last_updated": "1328547600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jy9zeu"
+      }
+    },
+    "332": {
+      "title": "Stingy Stinger",
+      "volume": "39",
+      "last_updated": "1333386000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/i2bq8k"
+      }
+    },
+    "333": {
+      "title": "Ash & Salamander",
+      "volume": "39",
+      "last_updated": "1333386000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/szfuv8"
+      }
+    },
+    "334": {
+      "title": "Dregs of Hypnosis",
+      "volume": "39",
+      "last_updated": "1333386000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ernpbw"
+      }
+    },
+    "335": {
+      "title": "Chimaera chord",
+      "volume": "39",
+      "last_updated": "1333386000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ly276t"
+      }
+    },
+    "336": {
+      "title": "El Verdugo",
+      "volume": "39",
+      "last_updated": "1333386000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ht8wfz"
+      }
+    },
+    "337": {
+      "title": "Hall In Your Inferno",
+      "volume": "39",
+      "last_updated": "1333386000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/c36o0w"
+      }
+    },
+    "338": {
+      "title": "Fall Into My Inferno",
+      "volume": "39",
+      "last_updated": "1333386000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/7c333a"
+      }
+    },
+    "339": {
+      "title": "The Deathbringer Numbers",
+      "volume": "39",
+      "last_updated": "1333386000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/062skk"
+      }
+    },
+    "340": {
+      "title": "The Antagonizer",
+      "volume": "39",
+      "last_updated": "1333386000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2u5yed"
+      }
+    },
+    "341": {
+      "title": "The Envy",
+      "volume": "40",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kz2ppg"
+      }
+    },
+    "342": {
+      "title": "The Greed",
+      "volume": "40",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/s292gk"
+      }
+    },
+    "343": {
+      "title": "The Gluttony",
+      "volume": "40",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ln66oi"
+      }
+    },
+    "344": {
+      "title": "The Pride",
+      "volume": "40",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/cffwib"
+      }
+    },
+    "345": {
+      "title": "The Sloth",
+      "volume": "40",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ipnklm"
+      }
+    },
+    "346": {
+      "title": "The Wrath",
+      "volume": "40",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/96lrn0"
+      }
+    },
+    "347": {
+      "title": "The Lust",
+      "volume": "40",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2c1gcy"
+      }
+    },
+    "348": {
+      "title": "The Lust 2",
+      "volume": "40",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ztayr0"
+      }
+    },
+    "349": {
+      "title": "The Lust 3",
+      "volume": "40",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zpmqbq"
+      }
+    },
+    "350": {
+      "title": "The Lust 4",
+      "volume": "41",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/4gxv8h"
+      }
+    },
+    "351": {
+      "title": "The Lust 5",
+      "volume": "41",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/airms8"
+      }
+    },
+    "352": {
+      "title": "The Lust 6",
+      "volume": "41",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/g1ye6t"
+      }
+    },
+    "353": {
+      "title": "The Ash",
+      "volume": "41",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/dwpp2a"
+      }
+    },
+    "354": {
+      "title": "Heart",
+      "volume": "41",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8kg3zi"
+      }
+    },
+    "355": {
+      "title": "Azul-Blood Splash",
+      "volume": "41",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tii18q"
+      }
+    },
+    "356": {
+      "title": "Tyrant of Skulls",
+      "volume": "41",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/s89bmt"
+      }
+    },
+    "357": {
+      "title": "The Colossus of Fear",
+      "volume": "41",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/o2eryy"
+      }
+    },
+    "358": {
+      "title": "King of the Clouds",
+      "volume": "41",
+      "last_updated": "1338829200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kzw8uz"
+      }
+    },
+    "359": {
+      "title": "The Frozen Obelisk",
+      "volume": "42",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/usc8n5"
+      }
+    },
+    "360": {
+      "title": "Shock of the Queen",
+      "volume": "42",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ntsxh6"
+      }
+    },
+    "361": {
+      "title": "I Hate Loneliness, But It Loves Me",
+      "volume": "42",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wljrbx"
+      }
+    },
+    "362": {
+      "title": "Howling Wolves",
+      "volume": "42",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/4ej8kt"
+      }
+    },
+    "363": {
+      "title": "Superchunky From Hell",
+      "volume": "42",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/li5q48"
+      }
+    },
+    "364": {
+      "title": "Grinning Revengers",
+      "volume": "42",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/swf852"
+      }
+    },
+    "365": {
+      "title": "Whose Side Are We On",
+      "volume": "42",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/9zd6x6"
+      }
+    },
+    "366": {
+      "title": "The Revenger's High",
+      "volume": "42",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/xcm1n2"
+      }
+    },
+    "367": {
+      "title": "Your Enemy Is My Enemy",
+      "volume": "42",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ununsb"
+      }
+    },
+    "368": {
+      "title": "The Fearless Child",
+      "volume": "43",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/h6u90n"
+      }
+    },
+    "369": {
+      "title": "Spit On Your Own God",
+      "volume": "43",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/fczdi2"
+      }
+    },
+    "370": {
+      "title": "Debating Life From the Throne of God",
+      "volume": "43",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/o686gv"
+      }
+    },
+    "371": {
+      "title": "Kingdom of Hollows",
+      "volume": "43",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/rl87ew"
+      }
+    },
+    "372": {
+      "title": "The Metal Cudgel Flinger",
+      "volume": "43",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/d4b9e6"
+      }
+    },
+    "373": {
+      "title": "Wolves Ain't Howl Alone",
+      "volume": "43",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/p4um0u"
+      }
+    },
+    "374": {
+      "title": "Gray Wolf, Red Blood, Black Clothing, White Bone",
+      "volume": "43",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/94dqpn"
+      }
+    },
+    "375": {
+      "title": "Execution, Extinction",
+      "volume": "43",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zuo862"
+      }
+    },
+    "376": {
+      "title": "Execution, Extinction 2",
+      "volume": "43",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/9br6qy"
+      }
+    },
+    "377": {
+      "title": "Shout at the Dark",
+      "volume": "43",
+      "last_updated": "1341248400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0nfem0"
+      }
+    },
+    "378": {
+      "title": "Eyes of the Victor",
+      "volume": "44",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2wv711"
+      }
+    },
+    "379": {
+      "title": "Falta de ArmonÃ­a",
+      "volume": "44",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ltdhh3"
+      }
+    },
+    "380": {
+      "title": "Devil, Devil, Devil, Devil",
+      "volume": "44",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jut4vm"
+      }
+    },
+    "381": {
+      "title": "Words Just Don't Like You",
+      "volume": "44",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ivvlwl"
+      }
+    },
+    "382": {
+      "title": "The United Front [Discordeque Mix]",
+      "volume": "44",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0tlb3f"
+      }
+    },
+    "383": {
+      "title": "Too Early to Trust",
+      "volume": "44",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/yuu1cj"
+      }
+    },
+    "384": {
+      "title": "Can't Fear Your Own Sword",
+      "volume": "44",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/k2arlb"
+      }
+    },
+    "385": {
+      "title": "Vice It",
+      "volume": "44",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8u1wzd"
+      }
+    },
+    "386": {
+      "title": "Bells Are Blue",
+      "volume": "44",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/523m6s"
+      }
+    },
+    "387": {
+      "title": "Ignited",
+      "volume": "45",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/p5kw26"
+      }
+    },
+    "388": {
+      "title": "Eagle Without Wings 2 [Extreme Battlemasters Mix]",
+      "volume": "45",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/xk52p4"
+      }
+    },
+    "389": {
+      "title": "Winged Eagles 2",
+      "volume": "45",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8rev3c"
+      }
+    },
+    "390": {
+      "title": "Beyond the Death Understanding",
+      "volume": "45",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/o936n6"
+      }
+    },
+    "391": {
+      "title": "The Blazing Glaciers",
+      "volume": "45",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/poenx0"
+      }
+    },
+    "392": {
+      "title": "The Breaking Glaciers",
+      "volume": "45",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/dzw6hs"
+      }
+    },
+    "393": {
+      "title": "The Burnout Inferno",
+      "volume": "45",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/vpu650"
+      }
+    },
+    "394": {
+      "title": "The Burnout Inferno 2",
+      "volume": "45",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kpog5q"
+      }
+    },
+    "395": {
+      "title": "The Burnout Inferno 3",
+      "volume": "45",
+      "last_updated": "1344272400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8v2w77"
+      }
+    },
+    "396": {
+      "title": "The Bite",
+      "volume": "46",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wzwd3e"
+      }
+    },
+    "397": {
+      "title": "Edge of the Silence",
+      "volume": "46",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/cozivz"
+      }
+    },
+    "398": {
+      "title": "Back from Blind",
+      "volume": "46",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ralt0t"
+      }
+    },
+    "399": {
+      "title": "Deicide",
+      "volume": "46",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/1gs8o8"
+      }
+    },
+    "400": {
+      "title": "Deicide 2",
+      "volume": "46",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mfg82j"
+      }
+    },
+    "401": {
+      "title": "Deicide 3",
+      "volume": "46",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zzy52y"
+      }
+    },
+    "402": {
+      "title": "Deicide 4",
+      "volume": "46",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/pj6soh"
+      }
+    },
+    "403": {
+      "title": "Deicide 5",
+      "volume": "46",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/gth2xk"
+      }
+    },
+    "404": {
+      "title": "Deicide 6",
+      "volume": "46",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/1p6oob"
+      }
+    },
+    "405": {
+      "title": "Deicide 7",
+      "volume": "47",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tl3n7i"
+      }
+    },
+    "406": {
+      "title": "Deicide 8 End of the Chrysalis Age",
+      "volume": "47",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wvvie5"
+      }
+    },
+    "407": {
+      "title": "Deicide 9",
+      "volume": "47",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/x01oyg"
+      }
+    },
+    "408": {
+      "title": "Deicide 10",
+      "volume": "47",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/56ejl7"
+      }
+    },
+    "409": {
+      "title": "Deicide 11",
+      "volume": "47",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/bpuinm"
+      }
+    },
+    "410": {
+      "title": "Deicide 12",
+      "volume": "47",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/v77ftz"
+      }
+    },
+    "411": {
+      "title": "Deicide 13",
+      "volume": "47",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ukhp4w"
+      }
+    },
+    "412": {
+      "title": "Deicide 14",
+      "volume": "47",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/1ftqty"
+      }
+    },
+    "413": {
+      "title": "Deicide 15",
+      "volume": "47",
+      "last_updated": "1346691600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kj2vkt"
+      }
+    },
+    "414": {
+      "title": "Deicide 16",
+      "volume": "48",
+      "last_updated": "1349110800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/s04vuf"
+      }
+    },
+    "415": {
+      "title": "Deicide 17",
+      "volume": "48",
+      "last_updated": "1349110800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ao7xk3"
+      }
+    },
+    "416": {
+      "title": "Deicide 18 [The End]",
+      "volume": "48",
+      "last_updated": "1349110800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/g6enjy"
+      }
+    },
+    "417": {
+      "title": "Deicide 19",
+      "volume": "48",
+      "last_updated": "1349110800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/vnrm8s"
+      }
+    },
+    "418": {
+      "title": "Deicide 20",
+      "volume": "48",
+      "last_updated": "1349110800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/vml3m4"
+      }
+    },
+    "419": {
+      "title": "Deicide 21 [Transcendent God Rock]",
+      "volume": "48",
+      "last_updated": "1349110800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wjl5kd"
+      }
+    },
+    "420": {
+      "title": "Deicide 22",
+      "volume": "48",
+      "last_updated": "1349110800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0d4ovb"
+      }
+    },
+    "421": {
+      "title": "Deicide 23",
+      "volume": "48",
+      "last_updated": "1349110800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ant48t"
+      }
+    },
+    "422": {
+      "title": "The Silent Victory",
+      "volume": "48",
+      "last_updated": "1349110800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/bhpgte"
+      }
+    },
+    "423": {
+      "title": "Bleach My Soul",
+      "volume": "48",
+      "last_updated": "1349110800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/wv89g5"
+      }
+    },
+    "424": {
+      "title": "The Lost Agent",
+      "volume": "49",
+      "last_updated": "1350493200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/usnivz"
+      }
+    },
+    "425": {
+      "title": "A Day Without Melodies",
+      "volume": "49",
+      "last_updated": "1350493200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tp1v6l"
+      }
+    },
+    "426": {
+      "title": "The Starter 2",
+      "volume": "49",
+      "last_updated": "1350493200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hawpkg"
+      }
+    },
+    "427": {
+      "title": "A Delicious Dissonance",
+      "volume": "49",
+      "last_updated": "1350493200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/vcrp3m"
+      }
+    },
+    "428": {
+      "title": "The Known",
+      "volume": "49",
+      "last_updated": "1350493200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/155zac"
+      }
+    },
+    "429": {
+      "title": "Welcome to our Execution",
+      "volume": "49",
+      "last_updated": "1350493200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/m1aqqy"
+      }
+    },
+    "430": {
+      "title": "Welcome to our Execution 2",
+      "volume": "49",
+      "last_updated": "1350493200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/58jw3t"
+      }
+    },
+    "431": {
+      "title": "Welcome to our Execution 3",
+      "volume": "49",
+      "last_updated": "1350493200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/qstsap"
+      }
+    },
+    "432": {
+      "title": "The Soul Pantheism",
+      "volume": "49",
+      "last_updated": "1350493200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jc2641"
+      }
+    },
+    "433": {
+      "title": "The Six Fullbringers",
+      "volume": "50",
+      "last_updated": "1352134800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0p5599"
+      }
+    },
+    "434": {
+      "title": "Berry in the Box",
+      "volume": "50",
+      "last_updated": "1352134800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/0remxl"
+      }
+    },
+    "435": {
+      "title": "Panic at the Dollhouse",
+      "volume": "50",
+      "last_updated": "1352134800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/k1aqng"
+      }
+    },
+    "436": {
+      "title": "The Time Discipline",
+      "volume": "50",
+      "last_updated": "1352134800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/tj921m"
+      }
+    },
+    "437": {
+      "title": "Manji Break",
+      "volume": "50",
+      "last_updated": "1352134800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/jn9t7m"
+      }
+    },
+    "438": {
+      "title": "Knuckle Down",
+      "volume": "50",
+      "last_updated": "1352134800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/40sciu"
+      }
+    },
+    "439": {
+      "title": "Keen Marker",
+      "volume": "50",
+      "last_updated": "1352134800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hekecb"
+      }
+    },
+    "440": {
+      "title": "Mute Friendship",
+      "volume": "50",
+      "last_updated": "1352134800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/vgv4ck"
+      }
+    },
+    "441": {
+      "title": "Spotlight Brocken",
+      "volume": "50",
+      "last_updated": "1352134800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/uz077o"
+      }
+    },
+    "442": {
+      "title": "Battlefield Shallows, Otherfield Abyss",
+      "volume": "51",
+      "last_updated": "1353171600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mabicb"
+      }
+    },
+    "443": {
+      "title": "Dirty Boots Dangers",
+      "volume": "51",
+      "last_updated": "1353171600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/l66bl9"
+      }
+    },
+    "444": {
+      "title": "The Rising",
+      "volume": "51",
+      "last_updated": "1353171600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/id4ghs"
+      }
+    },
+    "445": {
+      "title": "The Dark Beat",
+      "volume": "51",
+      "last_updated": "1353171600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/vxfxlp"
+      }
+    },
+    "446": {
+      "title": "The Dark Beat 2",
+      "volume": "51",
+      "last_updated": "1353171600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/nrf5or"
+      }
+    },
+    "447": {
+      "title": "Load",
+      "volume": "51",
+      "last_updated": "1353171600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8tcpm4"
+      }
+    },
+    "448": {
+      "title": "Loading To Lie",
+      "volume": "51",
+      "last_updated": "1353171600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/y4z1id"
+      }
+    },
+    "449": {
+      "title": "Not Be a Drug",
+      "volume": "51",
+      "last_updated": "1353171600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/xmsdya"
+      }
+    },
+    "450": {
+      "title": "Blind Solitude",
+      "volume": "51",
+      "last_updated": "1353171600",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kwecxg"
+      }
+    },
+    "451": {
+      "title": "Welcome to Our Execution 4",
+      "volume": "52",
+      "last_updated": "1354554000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/rid767"
+      }
+    },
+    "452": {
+      "title": "Erosion/Implosion",
+      "volume": "52",
+      "last_updated": "1354554000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/x9kccw"
+      }
+    },
+    "453": {
+      "title": "Mute Your Breathe Friendship",
+      "volume": "52",
+      "last_updated": "1354554000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/porg4s"
+      }
+    },
+    "454": {
+      "title": "Sheathebreaker",
+      "volume": "52",
+      "last_updated": "1354554000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/32d02i"
+      }
+    },
+    "455": {
+      "title": "End of the Bond 1",
+      "volume": "52",
+      "last_updated": "1354554000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/9s8wjq"
+      }
+    },
+    "456": {
+      "title": "End of the Bond 2",
+      "volume": "52",
+      "last_updated": "1354554000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/bul7vi"
+      }
+    },
+    "457": {
+      "title": "End of the Bond 3",
+      "volume": "52",
+      "last_updated": "1354554000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/b4b5xm"
+      }
+    },
+    "458": {
+      "title": "End of All Bonds",
+      "volume": "52",
+      "last_updated": "1354554000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/c6v8yh"
+      }
+    },
+    "459": {
+      "title": "Death & Strawberry 2",
+      "volume": "52",
+      "last_updated": "1354554000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/hzrj63"
+      }
+    },
+    "460": {
+      "title": "Deathberry Returns 2",
+      "volume": "53",
+      "last_updated": "1356454800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/q69w2h"
+      }
+    },
+    "461": {
+      "title": "Come Around Our Turn",
+      "volume": "53",
+      "last_updated": "1356454800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/gl3gv5"
+      }
+    },
+    "462": {
+      "title": "Why Me Sad",
+      "volume": "53",
+      "last_updated": "1356454800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mqxqu6"
+      }
+    },
+    "463": {
+      "title": "Extreme Divider",
+      "volume": "53",
+      "last_updated": "1356454800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/92rnvv"
+      }
+    },
+    "464": {
+      "title": "Quiet Chamber, Noisy Heart",
+      "volume": "53",
+      "last_updated": "1356454800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/svyfc8"
+      }
+    },
+    "465": {
+      "title": "Bad Blood Exhaust",
+      "volume": "53",
+      "last_updated": "1356454800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/bgpo5v"
+      }
+    },
+    "466": {
+      "title": "Screaming Invader",
+      "volume": "53",
+      "last_updated": "1356454800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/sb94xn"
+      }
+    },
+    "467": {
+      "title": "Lucky Men",
+      "volume": "53",
+      "last_updated": "1356454800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/gsq4sq"
+      }
+    },
+    "468": {
+      "title": "Raid as a Blade",
+      "volume": "53",
+      "last_updated": "1356454800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zm8x9k"
+      }
+    },
+    "469": {
+      "title": "Rag Lag Rumble",
+      "volume": "53",
+      "last_updated": "1356454800",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/nhnkhe"
+      }
+    },
+    "470": {
+      "title": "Pray for Predators",
+      "volume": "54",
+      "last_updated": "1356973200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/mf08d2"
+      }
+    },
+    "471": {
+      "title": "Pray for Predators 2",
+      "volume": "54",
+      "last_updated": "1356973200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/h7dppm"
+      }
+    },
+    "472": {
+      "title": "Razoredge Requiem",
+      "volume": "54",
+      "last_updated": "1356973200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/m7wd4d"
+      }
+    },
+    "473": {
+      "title": "Enemies in the Dark",
+      "volume": "54",
+      "last_updated": "1356973200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/v7yu80"
+      }
+    },
+    "474": {
+      "title": "BeLIEve",
+      "volume": "54",
+      "last_updated": "1356973200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2dk10g"
+      }
+    },
+    "475": {
+      "title": "Shades of the Bond",
+      "volume": "54",
+      "last_updated": "1356973200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/qzi14l"
+      }
+    },
+    "476": {
+      "title": "The Lost",
+      "volume": "54",
+      "last_updated": "1356973200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/xxryyi"
+      }
+    },
+    "477": {
+      "title": "The Lost 2",
+      "volume": "54",
+      "last_updated": "1356973200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8tyiwe"
+      }
+    },
+    "478": {
+      "title": "The Lost 3",
+      "volume": "54",
+      "last_updated": "1356973200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/xcavp6"
+      }
+    },
+    "479": {
+      "title": "Goodbye to Our Xcution",
+      "volume": "54",
+      "last_updated": "1356973200",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/kjd26j"
+      }
+    },
+    "480": {
+      "title": "The Blood Warfare",
+      "volume": "55",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/8yxlau"
+      }
+    },
+    "481": {
+      "title": "The Tearing",
+      "volume": "55",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/f854u2"
+      }
+    },
+    "482": {
+      "title": "Bad Recognition",
+      "volume": "55",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/ib7rva"
+      }
+    },
+    "483": {
+      "title": "KriegsErklÃ¤rung",
+      "volume": "55",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/16n955"
+      }
+    },
+    "484": {
+      "title": "The Buckbeard",
+      "volume": "55",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/l4vgda"
+      }
+    },
+    "485": {
+      "title": "Foundation Stones",
+      "volume": "55",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/4nv12i"
+      }
+    },
+    "486": {
+      "title": "The Crimson Cremation",
+      "volume": "55",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/xwonqx"
+      }
+    },
+    "487": {
+      "title": "Breathe But Blind",
+      "volume": "55",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/dk5eke"
+      }
+    },
+    "488": {
+      "title": "Bond Behind Blast",
+      "volume": "55",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/ulyrv9"
+      }
+    },
+    "489": {
+      "title": "March of the StarCross",
+      "volume": "55",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/iyq823"
+      }
+    },
+    "490": {
+      "title": "March of the StarCross 2",
+      "volume": "56",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/glhuwf"
+      }
+    },
+    "491": {
+      "title": "Toden Engel",
+      "volume": "56",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/yc1i0f"
+      }
+    },
+    "492": {
+      "title": "Balancer's Justice",
+      "volume": "56",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/murwfu"
+      }
+    },
+    "493": {
+      "title": "Light of Happiness",
+      "volume": "56",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/i1l92b"
+      }
+    },
+    "494": {
+      "title": "The Closing Chapter Part One",
+      "volume": "56",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/dbw0tq"
+      }
+    },
+    "495": {
+      "title": "Bleeding Guitar Blues",
+      "volume": "56",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/v6yzbr"
+      }
+    },
+    "496": {
+      "title": "Kill The Shadow",
+      "volume": "56",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/zdz3lm"
+      }
+    },
+    "497": {
+      "title": "Kill The Shadow 2",
+      "volume": "56",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/n13cuy"
+      }
+    },
+    "498": {
+      "title": "The Dark Rescuer",
+      "volume": "56",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/q1v9s0"
+      }
+    },
+    "499": {
+      "title": "Rescuer in the Dark",
+      "volume": "56",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/dpz38v"
+      }
+    },
+    "500": {
+      "title": "Rescuer in the Deep Dark",
+      "volume": "57",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/m558wn"
+      }
+    },
+    "501": {
+      "title": "Hear. Fear. Here",
+      "volume": "57",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/p7i2c8"
+      }
+    },
+    "502": {
+      "title": "Falling Sakura",
+      "volume": "57",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/xhsob4"
+      }
+    },
+    "503": {
+      "title": "Wrath as a Lightning",
+      "volume": "57",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/q0knp6"
+      }
+    },
+    "504": {
+      "title": "Beyond the Thunder",
+      "volume": "57",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/8rm91q"
+      }
+    },
+    "505": {
+      "title": "The Fire",
+      "volume": "57",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/ggbfvq"
+      }
+    },
+    "506": {
+      "title": "The Fire 2",
+      "volume": "57",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/yinawb"
+      }
+    },
+    "507": {
+      "title": "The Fire 3",
+      "volume": "57",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/kaa8ea"
+      }
+    },
+    "508": {
+      "title": "Like a Raging Fire",
+      "volume": "57",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/qqadux"
+      }
+    },
+    "509": {
+      "title": "Tenchi Kaijin",
+      "volume": "57",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/p79si9"
+      }
+    },
+    "510": {
+      "title": "The Extinction",
+      "volume": "58",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/vdnnva"
+      }
+    },
+    "511": {
+      "title": "Die Standing",
+      "volume": "58",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/6c3cuk"
+      }
+    },
+    "512": {
+      "title": "The Stand Ablaze",
+      "volume": "58",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/23wuz6"
+      }
+    },
+    "513": {
+      "title": "The Dark Moon Stroke",
+      "volume": "58",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/tho297"
+      }
+    },
+    "514": {
+      "title": "Born in the Dark",
+      "volume": "58",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/om3xgg"
+      }
+    },
+    "515": {
+      "title": "Relics",
+      "volume": "58",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/9zzqrj"
+      }
+    },
+    "516": {
+      "title": "The Squad Zero",
+      "volume": "58",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/arl82b"
+      }
+    },
+    "517": {
+      "title": "The Stairway to Heaven",
+      "volume": "58",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/jdmt4j"
+      }
+    },
+    "518": {
+      "title": "The Shooting Star Project (Zero Mix)",
+      "volume": "58",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/y9wobm"
+      }
+    },
+    "519": {
+      "title": "Hot, Hot, Heat",
+      "volume": "58",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/635yq3"
+      }
+    },
+    "520": {
+      "title": "Killers Not Dead",
+      "volume": "58",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/oh97tf"
+      }
+    },
+    "521": {
+      "title": "A Piggy Party",
+      "volume": "59",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/5mrijm"
+      }
+    },
+    "522": {
+      "title": "Love It",
+      "volume": "59",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/82jtyc"
+      }
+    },
+    "523": {
+      "title": "Swords of Origin",
+      "volume": "59",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/ofkv6i"
+      }
+    },
+    "524": {
+      "title": "The Drop",
+      "volume": "59",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/vu431k"
+      }
+    },
+    "525": {
+      "title": "Edges",
+      "volume": "59",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/3nn7iw"
+      }
+    },
+    "526": {
+      "title": "The Battle",
+      "volume": "59",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/gaxvqd"
+      }
+    },
+    "527": {
+      "title": "Eliminate From Heaven",
+      "volume": "59",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/gmd4c9"
+      }
+    },
+    "528": {
+      "title": "Everything But the Rain",
+      "volume": "59",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/mlsfpw"
+      }
+    },
+    "529": {
+      "title": "Everything But the Rain Op.2. The Rudiments",
+      "volume": "59",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/fclxc1"
+      }
+    },
+    "530": {
+      "title": "Everything But the Rain Op.3. Dark of the Moon",
+      "volume": "59",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/dy4vlf"
+      }
+    },
+    "531": {
+      "title": "Everything But the Rain Op.4. Dark of the Bleeding Moon",
+      "volume": "60",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/fu0x58"
+      }
+    },
+    "532": {
+      "title": "Everything But the Rain Op.5. The White Noise",
+      "volume": "60",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/fudoqo"
+      }
+    },
+    "533": {
+      "title": "Everything But the Rain Op.6. The Gravitation",
+      "volume": "60",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/lygan2"
+      }
+    },
+    "534": {
+      "title": "Everything But the Rain Op.7. Hole of Reproach",
+      "volume": "60",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/y9oigs"
+      }
+    },
+    "535": {
+      "title": "Everything But the Rain Op.8. Defenders",
+      "volume": "60",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/crqcwq"
+      }
+    },
+    "536": {
+      "title": "Everything But the Rain Op.9. June Truth",
+      "volume": "60",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/w0z0pg"
+      }
+    },
+    "537": {
+      "title": "Everything But the Rain Op.10. Prinz von Licht",
+      "volume": "60",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/z81b77"
+      }
+    },
+    "538": {
+      "title": "Standing On the Edge",
+      "volume": "60",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/wx590b"
+      }
+    },
+    "539": {
+      "title": "Prob-less, Progress",
+      "volume": "60",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/d7hir4"
+      }
+    },
+    "540": {
+      "title": "The Sword Five",
+      "volume": "60",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/ynzcqu"
+      }
+    },
+    "541": {
+      "title": "The Blade and Me 2",
+      "volume": "61",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/e6s902"
+      }
+    },
+    "542": {
+      "title": "The Blade is Me",
+      "volume": "61",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/8g2z4g"
+      }
+    },
+    "543": {
+      "title": "Letters",
+      "volume": "61",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/gs906c"
+      }
+    },
+    "544": {
+      "title": "Walking With Watchers",
+      "volume": "61",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/q9o84c"
+      }
+    },
+    "545": {
+      "title": "Blue Stripes",
+      "volume": "61",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/439fwk"
+      }
+    },
+    "546": {
+      "title": "The Last 9 Days",
+      "volume": "61",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/5fr96h"
+      }
+    },
+    "547": {
+      "title": "Peace From Shadows",
+      "volume": "61",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/5p61a2"
+      }
+    },
+    "548": {
+      "title": "The Thin Ice",
+      "volume": "61",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/t86lai"
+      }
+    },
+    "549": {
+      "title": "The StormBringer",
+      "volume": "61",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/u5lkn8"
+      }
+    },
+    "550": {
+      "title": "Blazing Bullets",
+      "volume": "61",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/rrjp61"
+      }
+    },
+    "551": {
+      "title": "The Burnt Offerings",
+      "volume": "62",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/ur6bb9"
+      }
+    },
+    "552": {
+      "title": "The Fundamental Virulence",
+      "volume": "62",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/symc30"
+      }
+    },
+    "553": {
+      "title": "Frozen Cross",
+      "volume": "62",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/3re567"
+      }
+    },
+    "554": {
+      "title": "Desperate Lights",
+      "volume": "62",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/kdmols"
+      }
+    },
+    "555": {
+      "title": "The Hero",
+      "volume": "62",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/trgj1m"
+      }
+    },
+    "556": {
+      "title": "The Wolfsbane",
+      "volume": "62",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/818eop"
+      }
+    },
+    "557": {
+      "title": "I Already Threw Away My Life",
+      "volume": "62",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/s2gyet"
+      }
+    },
+    "558": {
+      "title": "The Heart of the Wolf",
+      "volume": "62",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/yigbjq"
+      }
+    },
+    "559": {
+      "title": "The Night Right",
+      "volume": "62",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/gxp6o5"
+      }
+    },
+    "560": {
+      "title": "Rages at Ringside",
+      "volume": "62",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/jnj79q"
+      }
+    },
+    "561": {
+      "title": "The Villain",
+      "volume": "63",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/et6j0k"
+      }
+    },
+    "562": {
+      "title": "The Villain 2",
+      "volume": "63",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/90lb9p"
+      }
+    },
+    "563": {
+      "title": "Superstar Never Die",
+      "volume": "63",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/kt5zfh"
+      }
+    },
+    "564": {
+      "title": "Red Bristled Kings",
+      "volume": "63",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/60adoq"
+      }
+    },
+    "565": {
+      "title": "God Like You",
+      "volume": "63",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/ehl5gr"
+      }
+    },
+    "566": {
+      "title": "What is Your Fear?",
+      "volume": "63",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/6sj231"
+      }
+    },
+    "567": {
+      "title": "Dance With Snowwhite",
+      "volume": "63",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/x9pki2"
+      }
+    },
+    "568": {
+      "title": "Hear. Fear. Here 2",
+      "volume": "63",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/0hr3nj"
+      }
+    },
+    "569": {
+      "title": "The White Haze",
+      "volume": "63",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/1806zs"
+      }
+    },
+    "570": {
+      "title": "Closer, Closer",
+      "volume": "63",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/5a93zc"
+      }
+    },
+    "571": {
+      "title": "a Devilish Perspective",
+      "volume": "64",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/9xypj3"
+      }
+    },
+    "572": {
+      "title": "The Blaster",
+      "volume": "64",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/8us6bv"
+      }
+    },
+    "573": {
+      "title": "I Am The Edge",
+      "volume": "64",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/jh045s"
+      }
+    },
+    "574": {
+      "title": "Death in Vision",
+      "volume": "64",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/s2f7qj"
+      }
+    },
+    "575": {
+      "title": "The Killers High",
+      "volume": "64",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/akqcpi"
+      }
+    },
+    "576": {
+      "title": "The Killers High 2",
+      "volume": "64",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/9o8mt7"
+      }
+    },
+    "577": {
+      "title": "Blade",
+      "volume": "64",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/gqjb3f"
+      }
+    },
+    "578": {
+      "title": "The Undead 5",
+      "volume": "64",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/brf6uj"
+      }
+    },
+    "579": {
+      "title": "The Undead 6",
+      "volume": "64",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/y4fqsh"
+      }
+    },
+    "580": {
+      "title": "The Light",
+      "volume": "64",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/20jt4g"
+      }
+    },
+    "581": {
+      "title": "The Hero 2",
+      "volume": "65",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/jukbno"
+      }
+    },
+    "582": {
+      "title": "The Headless Star",
+      "volume": "65",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/7zh0px"
+      }
+    },
+    "583": {
+      "title": "The Headless Star 2",
+      "volume": "65",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/jq7cn1"
+      }
+    },
+    "584": {
+      "title": "The Headless Star 3",
+      "volume": "65",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/qntpqb"
+      }
+    },
+    "585": {
+      "title": "The Headless Star 4",
+      "volume": "65",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/cy0zyw"
+      }
+    },
+    "586": {
+      "title": "The Headless Star 5",
+      "volume": "65",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/ucemsn"
+      }
+    },
+    "587": {
+      "title": "The Headless Star 6",
+      "volume": "65",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/8sxx6k"
+      }
+    },
+    "588": {
+      "title": "The Headless Star 7",
+      "volume": "65",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/bdopa6"
+      }
+    },
+    "589": {
+      "title": "The Shooting Star Project (The Old and New Trust)",
+      "volume": "65",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/f17bog"
+      }
+    },
+    "590": {
+      "title": "Marching Out the ZOMBIES",
+      "volume": "65",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/kqzfqi"
+      }
+    },
+    "591": {
+      "title": "Marching Out the ZOMBIES 2",
+      "volume": "65",
+      "last_updated": "1521651600",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/71wu20"
+      }
+    },
+    "592": {
+      "title": "Marching Out the ZOMBIES 3",
+      "volume": "66",
+      "last_updated": "1558285200",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/5k2rog"
+      }
+    },
+    "593": {
+      "title": "Marching Out the ZOMBIES 4",
+      "volume": "66",
+      "last_updated": "1558285200",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/r2t45r"
+      }
+    },
+    "594": {
+      "title": "Rubb-Dolls",
+      "volume": "66",
+      "last_updated": "1558285200",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/jvz06f"
+      }
+    },
+    "595": {
+      "title": "Rubb-Dolls 2",
+      "volume": "66",
+      "last_updated": "1558285200",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/c899ue"
+      }
+    },
+    "596": {
+      "title": "Rubb-Dolls 3",
+      "volume": "66",
+      "last_updated": "1558285200",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/zi134n"
+      }
+    },
+    "597": {
+      "title": "Winded By The Shadow",
+      "volume": "66",
+      "last_updated": "1558285200",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/9wwaeg"
+      }
+    },
+    "598": {
+      "title": "The Shooting Star Project (We Only have to Beat You Mix)",
+      "volume": "66",
+      "last_updated": "1558285200",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/rt752b"
+      }
+    },
+    "599": {
+      "title": "Too Early To Win, Too Late To Know",
+      "volume": "66",
+      "last_updated": "1558285200",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/fd7o6a"
+      }
+    },
+    "600": {
+      "title": "Snipe",
+      "volume": "66",
+      "last_updated": "1558285200",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/dshna8"
+      }
+    },
+    "601": {
+      "title": "Verge On Vermillion",
+      "volume": "66",
+      "last_updated": "1558285200",
+      "groups": {
+        "Colored Manga Translation Squad": "/proxy/api/catbox/chapter/gxqiyn"
+      }
+    },
+    "602": {
+      "title": "Bane Licking Good",
+      "volume": "67",
+      "last_updated": "1591462800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/zxgchf"
+      }
+    },
+    "603": {
+      "title": "What The Hell",
+      "volume": "67",
+      "last_updated": "1591462800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/5ihqx1"
+      }
+    },
+    "604": {
+      "title": "Revitalize",
+      "volume": "67",
+      "last_updated": "1591462800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/r7cgnc"
+      }
+    },
+    "605": {
+      "title": "Don't Call My Name",
+      "volume": "67",
+      "last_updated": "1591462800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/2kzlag"
+      }
+    },
+    "606": {
+      "title": "Divine Division",
+      "volume": "67",
+      "last_updated": "1591462800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/nlnp97"
+      }
+    },
+    "607": {
+      "title": "The Master",
+      "volume": "67",
+      "last_updated": "1591462800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/4tjw6b"
+      }
+    },
+    "608": {
+      "title": "Blacker than Black",
+      "volume": "67",
+      "last_updated": "1591462800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/x0cnrz"
+      }
+    },
+    "609": {
+      "title": "A",
+      "volume": "67",
+      "last_updated": "1591462800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/csiznt"
+      }
+    },
+    "610": {
+      "title": "Mausoleum of Skulls",
+      "volume": "67",
+      "last_updated": "1591462800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/1peleu"
+      }
+    },
+    "611": {
+      "title": "Reio's Death",
+      "volume": "67",
+      "last_updated": "1591462800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/9o8y9y"
+      }
+    },
+    "612": {
+      "title": "Dirty",
+      "volume": "68",
+      "last_updated": "1593536400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/scsfej"
+      }
+    },
+    "613": {
+      "title": "The Ordinary Peace",
+      "volume": "68",
+      "last_updated": "1593536400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/7nap1a"
+      }
+    },
+    "614": {
+      "title": "Kill The King",
+      "volume": "68",
+      "last_updated": "1593536400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/84hi4a"
+      }
+    },
+    "615": {
+      "title": "All is Lost",
+      "volume": "68",
+      "last_updated": "1593536400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/5mqasx"
+      }
+    },
+    "616": {
+      "title": "Mimihagi-sama",
+      "volume": "68",
+      "last_updated": "1593536400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/7hj87k"
+      }
+    },
+    "617": {
+      "title": "Return of the God",
+      "volume": "68",
+      "last_updated": "1593536400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/ypggfr"
+      }
+    },
+    "618": {
+      "title": "The Dark Arm",
+      "volume": "68",
+      "last_updated": "1593536400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/qlkuwm"
+      }
+    },
+    "619": {
+      "title": "The Betrayer",
+      "volume": "68",
+      "last_updated": "1593536400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/nbjqgg"
+      }
+    },
+    "620": {
+      "title": "Where Do You Stand",
+      "volume": "68",
+      "last_updated": "1593536400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/kyrelq"
+      }
+    },
+    "621": {
+      "title": "The Dark Curtain",
+      "volume": "68",
+      "last_updated": "1593536400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/qhfv2o"
+      }
+    },
+    "622": {
+      "title": "The Agony",
+      "volume": "68",
+      "last_updated": "1593536400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/ag5hsc"
+      }
+    },
+    "623": {
+      "title": "Against the Judgement",
+      "volume": "69",
+      "last_updated": "1596128400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/dss98z"
+      }
+    },
+    "624": {
+      "title": "The Fang",
+      "volume": "69",
+      "last_updated": "1596128400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/b68b03"
+      }
+    },
+    "625": {
+      "title": "Living Jaguar",
+      "volume": "69",
+      "last_updated": "1596128400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/vuclqx"
+      }
+    },
+    "626": {
+      "title": "The Holy Newborn",
+      "volume": "69",
+      "last_updated": "1596128400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/l666kp"
+      }
+    },
+    "627": {
+      "title": "The Creation",
+      "volume": "69",
+      "last_updated": "1596128400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/joe51y"
+      }
+    },
+    "628": {
+      "title": "New World Orders",
+      "volume": "69",
+      "last_updated": "1596128400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/9vn03u"
+      }
+    },
+    "629": {
+      "title": "Gate of the Sun",
+      "volume": "69",
+      "last_updated": "1596128400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/q3oxtk"
+      }
+    },
+    "630": {
+      "title": "The Twinned Twilight",
+      "volume": "69",
+      "last_updated": "1596128400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/wf3a34"
+      }
+    },
+    "631": {
+      "title": "Friend",
+      "volume": "69",
+      "last_updated": "1596128400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/i48422"
+      }
+    },
+    "632": {
+      "title": "Friend 2",
+      "volume": "69",
+      "last_updated": "1596128400",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/0a6vbp"
+      }
+    },
+    "633": {
+      "title": "Friend 3",
+      "volume": "70",
+      "last_updated": "1600275600",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/kw9yud"
+      }
+    },
+    "634": {
+      "title": "Friend 4",
+      "volume": "70",
+      "last_updated": "1600275600",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/rt70ae"
+      }
+    },
+    "635": {
+      "title": "Hooded Enigma",
+      "volume": "70",
+      "last_updated": "1600275600",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/eigd30"
+      }
+    },
+    "636": {
+      "title": "Sensitive Monster",
+      "volume": "70",
+      "last_updated": "1600275600",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/6am9hx"
+      }
+    },
+    "637": {
+      "title": "Baby, Hold Your Hand",
+      "volume": "70",
+      "last_updated": "1600275600",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/4qf1kq"
+      }
+    },
+    "638": {
+      "title": "Seething Malice Is The Height of Comedy",
+      "volume": "70",
+      "last_updated": "1600275600",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/6cxm7u"
+      }
+    },
+    "639": {
+      "title": "Baby, Hold Your Hand 2",
+      "volume": "70",
+      "last_updated": "1600275600",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/rejafy"
+      }
+    },
+    "640": {
+      "title": "Baby, Hold Your Hand 3 (Mad Lullaby no.7)",
+      "volume": "70",
+      "last_updated": "1600275600",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/p0ydar"
+      }
+    },
+    "641": {
+      "title": "Baby, Hold Your Hand 4 (When I Am Sleeping)",
+      "volume": "70",
+      "last_updated": "1600275600",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/3t9vq2"
+      }
+    },
+    "642": {
+      "title": "Baby, Hold Your Hand 5 (Eyes Are Open)",
+      "volume": "70",
+      "last_updated": "1600275600",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/5vidjh"
+      }
+    },
+    "643": {
+      "title": "Baby, Hold Your Hand 6 (Waiting For Love)",
+      "volume": "71",
+      "last_updated": "1601830800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/mwx1cg"
+      }
+    },
+    "644": {
+      "title": "Baby, Hold Your Hand 7 (Never Ending My Dream)",
+      "volume": "71",
+      "last_updated": "1601830800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/rm20lw"
+      }
+    },
+    "645": {
+      "title": "Don't Chase a Shadow",
+      "volume": "71",
+      "last_updated": "1601830800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/2ll4e2"
+      }
+    },
+    "646": {
+      "title": "The Second Eye",
+      "volume": "71",
+      "last_updated": "1601830800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/ch84m0"
+      }
+    },
+    "647": {
+      "title": "The Theatre Suicide",
+      "volume": "71",
+      "last_updated": "1601830800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/6wzvoc"
+      }
+    },
+    "648": {
+      "title": "The Theatre Suicide Scene 2",
+      "volume": "71",
+      "last_updated": "1601830800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/idt2m5"
+      }
+    },
+    "649": {
+      "title": "The Theatre Suicide Scene 3",
+      "volume": "71",
+      "last_updated": "1601830800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/o3dwgg"
+      }
+    },
+    "650": {
+      "title": "The Theatre Suicide Scene 4",
+      "volume": "71",
+      "last_updated": "1601830800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/1k3h22"
+      }
+    },
+    "651": {
+      "title": "The Theatre Suicide Scene 5",
+      "volume": "71",
+      "last_updated": "1601830800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/b1mdc0"
+      }
+    },
+    "652": {
+      "title": "The Theatre Suicide Scene 6",
+      "volume": "71",
+      "last_updated": "1601830800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/rdqwxs"
+      }
+    },
+    "653": {
+      "title": "The Theatre Suicide Scene 7",
+      "volume": "72",
+      "last_updated": "1579798800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/ubtfeo"
+      }
+    },
+    "654": {
+      "title": "Deadman Standing",
+      "volume": "72",
+      "last_updated": "1579798800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/fqk7j0"
+      }
+    },
+    "655": {
+      "title": "The Miracle",
+      "volume": "72",
+      "last_updated": "1579798800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/ijvcmb"
+      }
+    },
+    "656": {
+      "title": "God of Thunder",
+      "volume": "72",
+      "last_updated": "1579798800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/pzj5vs"
+      }
+    },
+    "657": {
+      "title": "God of Thunder 2",
+      "volume": "72",
+      "last_updated": "1579798800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/qcdktj"
+      }
+    },
+    "658": {
+      "title": "Fatal Matters Are Cold",
+      "volume": "72",
+      "last_updated": "1579798800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/h2vqc7"
+      }
+    },
+    "659": {
+      "title": "There Will Be Frost",
+      "volume": "72",
+      "last_updated": "1579798800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/cdstvj"
+      }
+    },
+    "660": {
+      "title": "The Visible Answer",
+      "volume": "72",
+      "last_updated": "1579798800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/wuq4o2"
+      }
+    },
+    "661": {
+      "title": "My Last Words",
+      "volume": "72",
+      "last_updated": "1579798800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/hzqae9"
+      }
+    },
+    "662": {
+      "title": "God of Thunder 3",
+      "volume": "72",
+      "last_updated": "1579798800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/btfmh3"
+      }
+    },
+    "663": {
+      "title": "God of Thunder 4",
+      "volume": "72",
+      "last_updated": "1579798800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/vrem3k"
+      }
+    },
+    "664": {
+      "title": "The Gift",
+      "volume": "73",
+      "last_updated": "1613062800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/ub5yqs"
+      }
+    },
+    "665": {
+      "title": "The Princess Dissection",
+      "volume": "73",
+      "last_updated": "1613062800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/mde81w"
+      }
+    },
+    "666": {
+      "title": "Empty, Puppet, Hollow",
+      "volume": "73",
+      "last_updated": "1613062800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/ariqry"
+      }
+    },
+    "667": {
+      "title": "Bigger, Louder, Stronger",
+      "volume": "73",
+      "last_updated": "1613062800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/rkjajb"
+      }
+    },
+    "668": {
+      "title": "Bigger, Faster, Stronger",
+      "volume": "73",
+      "last_updated": "1613062800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/76lj1y"
+      }
+    },
+    "669": {
+      "title": "Blade II",
+      "volume": "73",
+      "last_updated": "1613062800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/lo5380"
+      }
+    },
+    "670": {
+      "title": "The Perfect Crimson",
+      "volume": "73",
+      "last_updated": "1613062800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/flxo5j"
+      }
+    },
+    "671": {
+      "title": "The Perfect Crimson 2",
+      "volume": "73",
+      "last_updated": "1613062800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/tvfwnr"
+      }
+    },
+    "672": {
+      "title": "Son of Darkness",
+      "volume": "73",
+      "last_updated": "1613062800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/m4gtmt"
+      }
+    },
+    "673": {
+      "title": "Father",
+      "volume": "73",
+      "last_updated": "1613062800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/dh2urt"
+      }
+    },
+    "674": {
+      "title": "Father 2",
+      "volume": "73",
+      "last_updated": "1613062800",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/v1zfw7"
+      }
+    },
+    "675": {
+      "title": "Blood for My Bone",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/rtdnnv"
+      }
+    },
+    "676": {
+      "title": "Horn of Salvation",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/ixps4v"
+      }
+    },
+    "677": {
+      "title": "Horn of Salvation 2",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/h2ukna"
+      }
+    },
+    "678": {
+      "title": "The Future Black",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/38daa0"
+      }
+    },
+    "679": {
+      "title": "The End",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/cqdmqp"
+      }
+    },
+    "680": {
+      "title": "The End 2",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/ltws15"
+      }
+    },
+    "681": {
+      "title": "The End Two World",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/r9kczg"
+      }
+    },
+    "682": {
+      "title": "The Two Sided World End",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/w87qxw"
+      }
+    },
+    "683": {
+      "title": "The Dark Side of Two World Ends",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/ytcgm1"
+      }
+    },
+    "684": {
+      "title": "The Blade",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/4yxqjh"
+      }
+    },
+    "685": {
+      "title": "A Perfect End",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/r322cy"
+      }
+    },
+    "686": {
+      "title": "Death & Strawberry",
+      "volume": "74",
+      "last_updated": "1614618000",
+      "groups": {
+        "Phantom Troop": "/proxy/api/catbox/chapter/y5ddkp"
+      }
+    },
+ 
