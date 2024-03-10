@@ -71,3 +71,7 @@
 - [One Punch Man](https://cubari.moe/read/gist/Z2lzdC9mdW5reWhpcHBvLzFkNDBiZDVkYWUxMWUwM2E2YWYyMGU1YTlhMDMwZDgxL3Jhdy9vcG0uanNvbg/) - [Subreddit](https://www.reddit.com/r/OnePunchMan/) / [Discord](https://discord.gg/onepunchman)
 
 If there's any issues, contact me at Discord (Rioki#3797) or create an issue in this repository.
+
+## Contributing
+
+If you like'd to contribute then do so! Just make sure you put proper credits and to put your manga alphabetically when adding them to the README file. For examples, you can check out the json files I have created, thank you!
