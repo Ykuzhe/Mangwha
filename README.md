@@ -85,6 +85,7 @@ if you'd like to contribute then feel free to do so, there are some requirements
 
 - Information must be accurate
 - Recite the source(s) of the information in the PR description (i.e Wikipedia, Mangadex, etc)
+- If you got the content of the series from another person, please credit them by typing their name, where you got it from and the link (e.g Anon Meow.si link: [link here]). You can see other examples by clicking one of the series listed above
 - When adding the series to the README, make sure it's alphabetically ordered alongside existing series
 
 That's all, might change but yeah, thank you!
