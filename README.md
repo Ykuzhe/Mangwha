@@ -9,7 +9,7 @@
     <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/ae31da7c-8889-4730-910b-ba7cd4ab8397" width="160" height="240">
 
 <a href="https://cubari.moe/read/gist/cmF3L1lrdXpoZS9NYW5nd2hhL21hc3Rlci9CbGVhY2glMjAtJTIwRGlnaXRhbCUyMENvbG9yZWQlMjBDb21pY3MuanNvbg/" title="Bleach - Digital Colored Comics">
-    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/03bd151c-db47-4834-b264-42fa3be78623" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/85607310-b38a-42ae-a545-4d7971c3828f" width="160" height="240">
     
 </a>
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvR29vZGJ5ZSwlMjBFcmkuanNvbg/" title="Goodbye, Eri">
