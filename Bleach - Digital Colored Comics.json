@@ -717,7 +717,7 @@
         "Colored Council": "/proxy/api/catbox/chapter/7wgsxl"
       }
     },
-     "90": {
+    "90": {
       "title": "See You Under the Fireworks",
       "volume": "11",
       "last_updated": "1139245200",
@@ -2525,79 +2525,7 @@
         "Colored Council": "/proxy/api/catbox/chapter/f0wgyl"
       }
     },
-    "315.1": {
-      "title": "Turn Back The Pendulum",
-      "volume": "36",
-      "last_updated": "1315242000",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/95xtpw"
-      }
-    },
-    "315.2": {
-      "title": "Turn Back The Pendulum 2",
-      "volume": "36",
-      "last_updated": "1315242000",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/619vra"
-      }
-    },
-    "315.3": {
-      "title": "Turn Back The Pendulum 3",
-      "volume": "36",
-      "last_updated": "1315242000",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/2kkioe"
-      }
-    },
-    "315.4": {
-      "title": "Turn Back The Pendulum 4",
-      "volume": "36",
-      "last_updated": "1315242000",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/ezvy4o"
-      }
-    },
-    "315.5": {
-      "title": "Turn Back The Pendulum 5",
-      "volume": "36",
-      "last_updated": "1315242000",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/y2g9rq"
-      }
-    },
-    "315.6": {
-      "title": "Turn Back The Pendulum 6",
-      "volume": "36",
-      "last_updated": "1315242000",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/a2pwik"
-      }
-    },
-    "315.7": {
-      "title": "Turn Back The Pendulum 7",
-      "volume": "36",
-      "last_updated": "1315242000",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/pbsv6e"
-      }
-    },
-    "315.8": {
-      "title": "Turn Back The Pendulum 8",
-      "volume": "36",
-      "last_updated": "1315242000",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/zjpc3e"
-      }
-    },
-    "315.9": {
-      "title": "Turn Back The Pendulum 9",
-      "volume": "36",
-      "last_updated": "1315242000",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/71y8cf"
-      }
-    },
-   "316": {
+    "316": {
       "title": "Turn Back The Pendulum 10",
       "volume": "37",
       "last_updated": "1323104400",
@@ -2605,31 +2533,7 @@
         "Colored Council": "/proxy/api/catbox/chapter/c8c1ci"
       }
     },
-    "316.1": {
-      "title": "Turn Back The Pendulum 11",
-      "volume": "37",
-      "last_updated": "1323104400",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/8thx78"
-      }
-    },
-    "316.2": {
-      "title": "Let Stop The Pendulum",
-      "volume": "37",
-      "last_updated": "1323104400",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/9zjw42"
-      }
-    },
-    "316.3": {
-      "title": "Swang the Edge Down",
-      "volume": "37",
-      "last_updated": "1323104400",
-      "groups": {
-        "Colored Council": "/proxy/api/catbox/chapter/2r7wxi"
-      }
-    },
-   "317": {
+    "317": {
       "title": "Six Hearts Will Beat As One",
       "volume": "37",
       "last_updated": "1323104400",
@@ -5587,6 +5491,102 @@
       "last_updated": "1614618000",
       "groups": {
         "Phantom Troop": "/proxy/api/catbox/chapter/y5ddkp"
+      }
+    },
+    "315.1": {
+      "title": "Turn Back The Pendulum",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/95xtpw"
+      }
+    },
+    "315.2": {
+      "title": "Turn Back The Pendulum 2",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/619vra"
+      }
+    },
+    "315.3": {
+      "title": "Turn Back The Pendulum 3",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2kkioe"
+      }
+    },
+    "315.4": {
+      "title": "Turn Back The Pendulum 4",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/ezvy4o"
+      }
+    },
+    "315.5": {
+      "title": "Turn Back The Pendulum 5",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/y2g9rq"
+      }
+    },
+    "315.6": {
+      "title": "Turn Back The Pendulum 6",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/a2pwik"
+      }
+    },
+    "315.7": {
+      "title": "Turn Back The Pendulum 7",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/pbsv6e"
+      }
+    },
+    "315.8": {
+      "title": "Turn Back The Pendulum 8",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/zjpc3e"
+      }
+    },
+    "315.9": {
+      "title": "Turn Back The Pendulum 9",
+      "volume": "36",
+      "last_updated": "1315242000",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/71y8cf"
+      }
+    },
+    "316.1": {
+      "title": "Turn Back The Pendulum 11",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/8thx78"
+      }
+    },
+    "316.2": {
+      "title": "Let Stop The Pendulum",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/9zjw42"
+      }
+    },
+    "316.3": {
+      "title": "Swang the Edge Down",
+      "volume": "37",
+      "last_updated": "1323104400",
+      "groups": {
+        "Colored Council": "/proxy/api/catbox/chapter/2r7wxi"
       }
     }
   }
