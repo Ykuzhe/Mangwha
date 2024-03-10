@@ -76,7 +76,7 @@ If there's any issues, contact me at Discord (Rioki#3797) or create an issue in 
 
 if you'd like to contribute then feel free to do so, there are some requirements though. Here's all of them:
 
-### For editing information for existing series
+### For editing information of existing series
 
 - Information must be accurate
 - Recite the source(s) of the information you have changed in the PR description (i.e Wikipedia, Mangadex, etc.)
