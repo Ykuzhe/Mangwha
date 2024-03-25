@@ -30,6 +30,10 @@
     <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/4b7afa46-b783-431c-bd00-2ff9598ff366" width="160" height="240">
 </a> 
 
+<a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVmVudXMlMjBpbiUyMHRoZSUyMEJsaW5kJTIwU3BvdC5qc29u/" title="Junji Ito Short Story Collection: BEST OF BEST">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/640fd6b7-37d7-48bd-a62a-e7a1e818f07c" width="160" height="240">
+</a>
+
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvSnVzdCUyMExpc3RlbiUyMHRvJTIwdGhlJTIwU29uZy5qc29u/" title="Just Listen to the Song">
     <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/101ba298-8147-42f1-8a58-27881d86e668" width="160" height="240">
 </a>
@@ -52,10 +56,6 @@
 
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVXp1bWFraS5qc29u/" title="Uzumaki">
     <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/cfcdffe9-2d77-4ede-89bb-b37abe2c0d07" width="160" height="240">
-</a>
-
-<a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVmVudXMlMjBpbiUyMHRoZSUyMEJsaW5kJTIwU3BvdC5qc29u/" title="Venus in the Blind Spot">
-    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/2b85396a-24e7-44ee-a18b-4710f771cdd9" width="160" height="240">
 </a>
 
 ## Manwha
