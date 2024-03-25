@@ -4,5 +4,1246 @@
   "artist": "Yagi Norihiro",
   "author": "Yagi Norihiro",
   "cover": "https://mangadex.org/covers/be8fe64b-37da-4fba-b14d-603aba19be1f/4e397457-36ef-4122-8219-54ae470e28b0.jpg",
-  "chapters": {}
+  "chapters": {
+   "1": {
+      "title": "Silver-eyed Slayer",
+      "volume": "1",
+      "last_updated": "1144083600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/b097bv"
+      }
+    },
+    "2": {
+      "title": "Claws in the Sky",
+      "volume": "1",
+      "last_updated": "1144083600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/znj8k9"
+      }
+    },
+    "3": {
+      "title": "Memory of a Witch",
+      "volume": "1",
+      "last_updated": "1144083600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/renx16"
+      }
+    },
+    "4": {
+      "title": "The Black Card",
+      "volume": "1",
+      "last_updated": "1144083600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/nscsd0"
+      }
+    },
+    "5": {
+      "title": "Darkness in Paradise, Part 1",
+      "volume": "2",
+      "last_updated": "1149526800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/ezvvrn"
+      }
+    },
+    "6": {
+      "title": "Darkness in Paradise, Part 2",
+      "volume": "2",
+      "last_updated": "1149526800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/08pkx6"
+      }
+    },
+    "7": {
+      "title": "Darkness in Paradise, Part 3",
+      "volume": "2",
+      "last_updated": "1149526800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/eyuzr3"
+      }
+    },
+    "8": {
+      "title": "Darkness in Paradise, Part 4",
+      "volume": "2",
+      "last_updated": "1149526800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/mps3i5"
+      }
+    },
+    "9": {
+      "title": "Darkness in Paradise, Part 5",
+      "volume": "2",
+      "last_updated": "1149526800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/v9sxwt"
+      }
+    },
+    "10": {
+      "title": "Darkness in Paradise, Part 6",
+      "volume": "3",
+      "last_updated": "1154365200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/6b0t4a"
+      }
+    },
+    "11": {
+      "title": "Darkness in Paradise, Part 7",
+      "volume": "3",
+      "last_updated": "1154365200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/16c0zx"
+      }
+    },
+    "12": {
+      "title": "Teresa of the Faint Smile, Part 1",
+      "volume": "3",
+      "last_updated": "1154365200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/6bbqry"
+      }
+    },
+    "13": {
+      "title": "Teresa of the Faint Smile, Part 2",
+      "volume": "3",
+      "last_updated": "1154365200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/870rmy"
+      }
+    },
+    "14": {
+      "title": "Teresa of the Faint Smile, Part 3",
+      "volume": "3",
+      "last_updated": "1154365200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/fbin9s"
+      }
+    },
+    "15": {
+      "title": "Teresa of the Faint Smile, Part 4",
+      "volume": "3",
+      "last_updated": "1154365200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/gimfmo"
+      }
+    },
+    "16": {
+      "title": "Teresa of the Faint Smile, Part 5",
+      "volume": "4",
+      "last_updated": "1159808400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/8d6zey"
+      }
+    },
+    "17": {
+      "title": "Teresa of the Faint Smile, Part 6",
+      "volume": "4",
+      "last_updated": "1159808400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/hn454g"
+      }
+    },
+    "18": {
+      "title": "Marked for Death, Part 1",
+      "volume": "4",
+      "last_updated": "1159808400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/v34ns8"
+      }
+    },
+    "19": {
+      "title": "Marked for Death, Part 2",
+      "volume": "4",
+      "last_updated": "1159808400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/e54pap"
+      }
+    },
+    "20": {
+      "title": "Marked for Death, Part 3",
+      "volume": "4",
+      "last_updated": "1159808400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/crgmks"
+      }
+    },
+    "21": {
+      "title": "Marked for Death, Part 4",
+      "volume": "4",
+      "last_updated": "1159808400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/t4rhrl"
+      }
+    },
+    "22": {
+      "title": "Marked for Death, Part 5",
+      "volume": "5",
+      "last_updated": "1165251600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/d1v76d"
+      }
+    },
+    "23": {
+      "title": "Marked for Death, Part 6",
+      "volume": "5",
+      "last_updated": "1165251600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/sgp334"
+      }
+    },
+    "24": {
+      "title": "Marked for Death, Part 7",
+      "volume": "5",
+      "last_updated": "1165251600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/lm86nl"
+      }
+    },
+    "25": {
+      "title": "The Slashers, Part 1",
+      "volume": "5",
+      "last_updated": "1165251600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/brrtr7"
+      }
+    },
+    "26": {
+      "title": "The Slashers, Part 2",
+      "volume": "5",
+      "last_updated": "1165251600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/n1solp"
+      }
+    },
+    "27": {
+      "title": "The Slashers, Part 3",
+      "volume": "5",
+      "last_updated": "1165251600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/88lxxz"
+      }
+    },
+    "28": {
+      "title": "The Slashers, Part 4",
+      "volume": "6",
+      "last_updated": "1170694800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/po0ceg"
+      }
+    },
+    "29": {
+      "title": "The Slashers, Part 5",
+      "volume": "6",
+      "last_updated": "1170694800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/z7ebbm"
+      }
+    },
+    "30": {
+      "title": "The Slashers, Part 6",
+      "volume": "6",
+      "last_updated": "1170694800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/vbxdro"
+      }
+    },
+    "31": {
+      "title": "The Endless Gravestones, Part 1",
+      "volume": "6",
+      "last_updated": "1170694800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/u1lh0p"
+      }
+    },
+    "32": {
+      "title": "The Endless Gravestones, Part 2",
+      "volume": "6",
+      "last_updated": "1170694800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/fa39gg"
+      }
+    },
+    "33": {
+      "title": "The Endless Gravestones, Part 3",
+      "volume": "6",
+      "last_updated": "1170694800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/dhz05o"
+      }
+    },
+    "34": {
+      "title": "The Endless Gravestones, Part 4",
+      "volume": "7",
+      "last_updated": "1175533200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/mrs0ut"
+      }
+    },
+    "35": {
+      "title": "The Endless Gravestones, Part 5",
+      "volume": "7",
+      "last_updated": "1175533200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/0ujy4n"
+      }
+    },
+    "36": {
+      "title": "The Endless Gravestones, Part 6",
+      "volume": "7",
+      "last_updated": "1175533200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/ypu2gt"
+      }
+    },
+    "37": {
+      "title": "Fit for Battle, Part 1",
+      "volume": "7",
+      "last_updated": "1175533200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/qu1kha"
+      }
+    },
+    "38": {
+      "title": "Fit for Battle, Part 2",
+      "volume": "7",
+      "last_updated": "1175533200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/spopac"
+      }
+    },
+    "39": {
+      "title": "Fit for Battle, Part 3",
+      "volume": "7",
+      "last_updated": "1175533200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/4de055"
+      }
+    },
+    "40": {
+      "title": "Fit for Battle, Part 4",
+      "volume": "8",
+      "last_updated": "1180976400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/el7f1d"
+      }
+    },
+    "41": {
+      "title": "The Witch's Maw, Part 1",
+      "volume": "8",
+      "last_updated": "1180976400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/zjt9qj"
+      }
+    },
+    "42": {
+      "title": "The Witch's Maw, Part 2",
+      "volume": "8",
+      "last_updated": "1180976400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/hq0l1o"
+      }
+    },
+    "43": {
+      "title": "The Witch's Maw, Part 3",
+      "volume": "8",
+      "last_updated": "1180976400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/3yirgd"
+      }
+    },
+    "44": {
+      "title": "The Witch's Maw, Part 4",
+      "volume": "8",
+      "last_updated": "1180976400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/51wwln"
+      }
+    },
+    "45": {
+      "title": "The Witch's Maw, Part 5",
+      "volume": "8",
+      "last_updated": "1180976400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/huvlxx"
+      }
+    },
+    "46": {
+      "title": "The Deep Abyss of Purgatory, Part 1",
+      "volume": "9",
+      "last_updated": "1186419600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/a5aotk"
+      }
+    },
+    "47": {
+      "title": "The Deep Abyss of Purgatory, Part 2",
+      "volume": "9",
+      "last_updated": "1186419600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/edhtgu"
+      }
+    },
+    "48": {
+      "title": "The Deep Abyss of Purgatory, Part 3",
+      "volume": "9",
+      "last_updated": "1186419600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/kxfnv7"
+      }
+    },
+    "49": {
+      "title": "The Deep Abyss of Purgatory, Part 4",
+      "volume": "9",
+      "last_updated": "1186419600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/r9r19s"
+      }
+    },
+    "50": {
+      "title": "The Battle of the North, Part 1",
+      "volume": "9",
+      "last_updated": "1186419600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/0ent31"
+      }
+    },
+    "51": {
+      "title": "The Battle of the North, Part 2",
+      "volume": "9",
+      "last_updated": "1186419600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/v6th6s"
+      }
+    },
+    "52": {
+      "title": "The Battle of the North, Part 3",
+      "volume": "10",
+      "last_updated": "1191258000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/26jkqe"
+      }
+    },
+    "53": {
+      "title": "The Battle of the North, Part 4",
+      "volume": "10",
+      "last_updated": "1191258000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/uxumle"
+      }
+    },
+    "54": {
+      "title": "The Battle of the North, Part 5",
+      "volume": "10",
+      "last_updated": "1191258000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/aqg0qo"
+      }
+    },
+    "55": {
+      "title": "The Battle of the North, Part 6",
+      "volume": "10",
+      "last_updated": "1191258000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/0nfasm"
+      }
+    },
+    "56": {
+      "title": "The Battle of the North, Part 7",
+      "volume": "10",
+      "last_updated": "1191258000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/3zp30d"
+      }
+    },
+    "57": {
+      "title": "The Assault on Pieta, Part 1",
+      "volume": "10",
+      "last_updated": "1191258000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/senyv0"
+      }
+    },
+    "58": {
+      "title": "The Assault on Pieta, Part 2",
+      "volume": "11",
+      "last_updated": "1204563600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/ferd5u"
+      }
+    },
+    "59": {
+      "title": "The Assault on Pieta, Part 3",
+      "volume": "11",
+      "last_updated": "1204563600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/fu38tm"
+      }
+    },
+    "60": {
+      "title": "The Assault on Pieta, Part 4",
+      "volume": "11",
+      "last_updated": "1204563600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/9c4owe"
+      }
+    },
+    "61": {
+      "title": "The Assault on Pieta, Part 5",
+      "volume": "11",
+      "last_updated": "1204563600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/874gw8"
+      }
+    },
+    "62": {
+      "title": "Kindred of Paradise, Part 1",
+      "volume": "11",
+      "last_updated": "1204563600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/4f473b"
+      }
+    },
+    "63": {
+      "title": "Kindred of Paradise, Part 2",
+      "volume": "11",
+      "last_updated": "1204563600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/rvt3bc"
+      }
+    },
+    "64": {
+      "title": "Kindred of Paradise, Part 3",
+      "volume": "12",
+      "last_updated": "1214845200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/qeycfg"
+      }
+    },
+    "65": {
+      "title": "The Souls of the Fallen, Part 1",
+      "volume": "12",
+      "last_updated": "1214845200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/t5r9m4"
+      }
+    },
+    "66": {
+      "title": "The Souls of the Fallen, Part 2",
+      "volume": "12",
+      "last_updated": "1214845200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/bfil22"
+      }
+    },
+    "67": {
+      "title": "The Souls of the Fallen, Part 3",
+      "volume": "12",
+      "last_updated": "1214845200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/eooza3"
+      }
+    },
+    "68": {
+      "title": "The Defiant Ones, Part 1",
+      "volume": "12",
+      "last_updated": "1214845200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/2z5eho"
+      }
+    },
+    "69": {
+      "title": "The Defiant Ones, Part 2",
+      "volume": "12",
+      "last_updated": "1214845200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/igpb57"
+      }
+    },
+    "70": {
+      "title": "The Defiant Ones, Part 3",
+      "volume": "13",
+      "last_updated": "1225731600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/y4ayqg"
+      }
+    },
+    "71": {
+      "title": "The Defiant Ones, Part 4",
+      "volume": "13",
+      "last_updated": "1225731600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/m2rfx2"
+      }
+    },
+    "72": {
+      "title": "The Defiant Ones, Part 5",
+      "volume": "13",
+      "last_updated": "1225731600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/6gf45k"
+      }
+    },
+    "73": {
+      "title": "A Child Weapon, Part 1",
+      "volume": "13",
+      "last_updated": "1225731600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/r7j4nz"
+      }
+    },
+    "74": {
+      "title": "A Child Weapon, Part 2",
+      "volume": "14",
+      "last_updated": "1236013200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/15heek"
+      }
+    },
+    "75": {
+      "title": "A Child Weapon, Part 3",
+      "volume": "14",
+      "last_updated": "1236013200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/ij4cw9"
+      }
+    },
+    "76": {
+      "title": "A Child Weapon, Part 4",
+      "volume": "14",
+      "last_updated": "1236013200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/tju7bx"
+      }
+    },
+    "77": {
+      "title": "A Child Weapon, Part 5",
+      "volume": "14",
+      "last_updated": "1236013200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/zlv9u8"
+      }
+    },
+    "78": {
+      "title": "Genesis of War, Part 1",
+      "volume": "15",
+      "last_updated": "1257181200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/696sk7"
+      }
+    },
+    "79": {
+      "title": "Genesis of War, Part 2",
+      "volume": "15",
+      "last_updated": "1257181200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/sk5bac"
+      }
+    },
+    "80": {
+      "title": "Genesis of War, Part 3",
+      "volume": "15",
+      "last_updated": "1257181200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/7tvm7u"
+      }
+    },
+    "81": {
+      "title": "Genesis of War, Part 4",
+      "volume": "15",
+      "last_updated": "1257181200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/6n4arw"
+      }
+    },
+    "82": {
+      "title": "Genesis of War, Part 5",
+      "volume": "15",
+      "last_updated": "1257181200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/beq9rj"
+      }
+    },
+    "83": {
+      "title": "The Lamentation of the Earth, Part 1",
+      "volume": "15",
+      "last_updated": "1257181200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/3sdyy2"
+      }
+    },
+    "84": {
+      "title": "The Lamentation of the Earth, Part 2",
+      "volume": "16",
+      "last_updated": "1275325200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/yjwtg7"
+      }
+    },
+    "85": {
+      "title": "The Lamentation of the Earth, Part 3",
+      "volume": "16",
+      "last_updated": "1275325200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/kx6uys"
+      }
+    },
+    "86": {
+      "title": "The Lamentation of the Earth, Part 4",
+      "volume": "16",
+      "last_updated": "1275325200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/z8z8a4"
+      }
+    },
+    "87": {
+      "title": "The Lamentation of the Earth, Part 5",
+      "volume": "16",
+      "last_updated": "1275325200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/5njsu1"
+      }
+    },
+    "88": {
+      "title": "The Lamentation of the Earth, Part 6",
+      "volume": "16",
+      "last_updated": "1275325200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/yyegsd"
+      }
+    },
+    "89": {
+      "title": "The Lamentation of the Earth, Part 7",
+      "volume": "16",
+      "last_updated": "1275325200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/hfxw1m"
+      }
+    },
+    "90": {
+      "title": "Claws and Fangs of Memory, Part 1",
+      "volume": "17",
+      "last_updated": "1294074000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/yzs9id"
+      }
+    },
+    "91": {
+      "title": "Claws and Fangs of Memory, Part 2",
+      "volume": "17",
+      "last_updated": "1294074000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/qpgsfo"
+      }
+    },
+    "92": {
+      "title": "Claws and Fangs of Memory, Part 3",
+      "volume": "17",
+      "last_updated": "1294074000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/65tx4v"
+      }
+    },
+    "93": {
+      "title": "Claws and Fangs of Memory, Part 4",
+      "volume": "17",
+      "last_updated": "1294074000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/cnvm86"
+      }
+    },
+    "94": {
+      "title": "Claws and Fangs of Memory, Part 5",
+      "volume": "17",
+      "last_updated": "1294074000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/nt14t0"
+      }
+    },
+    "95": {
+      "title": "Claws and Fangs of Memory, Part 6",
+      "volume": "17",
+      "last_updated": "1294074000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/z1w9gt"
+      }
+    },
+    "96": {
+      "title": "Ashes of Lautrec, Part 1",
+      "volume": "18",
+      "last_updated": "1307379600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/tyou07"
+      }
+    },
+    "97": {
+      "title": "Ashes of Lautrec, Part 2",
+      "volume": "18",
+      "last_updated": "1307379600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/5iek9h"
+      }
+    },
+    "98": {
+      "title": "Ashes of Lautrec, Part 3",
+      "volume": "18",
+      "last_updated": "1307379600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/ri1wor"
+      }
+    },
+    "99": {
+      "title": "Ashes of Lautrec, Part 4",
+      "volume": "18",
+      "last_updated": "1307379600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/6l528g"
+      }
+    },
+    "100": {
+      "title": "Ashes of Lautrec, Part 5",
+      "volume": "18",
+      "last_updated": "1307379600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/t97cz0"
+      }
+    },
+    "101": {
+      "title": "Ashes of Lautrec, Part 6",
+      "volume": "18",
+      "last_updated": "1307379600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/sif6ln"
+      }
+    },
+    "102": {
+      "title": "Ashes of Lautrec, Part 7",
+      "volume": "19",
+      "last_updated": "1320080400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/jdckx3"
+      }
+    },
+    "103": {
+      "title": "Ashes of Lautrec, Part 8",
+      "volume": "19",
+      "last_updated": "1320080400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/d6th93"
+      }
+    },
+    "104": {
+      "title": "Ashes of Lautrec, Part 9",
+      "volume": "19",
+      "last_updated": "1320080400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/eqfjk7"
+      }
+    },
+    "105": {
+      "title": "Ashes of Lautrec, Part 10",
+      "volume": "19",
+      "last_updated": "1320080400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/3m696g"
+      }
+    },
+    "106": {
+      "title": "Phantoms in the Heart, Part 1",
+      "volume": "19",
+      "last_updated": "1320080400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/3r6i51"
+      }
+    },
+    "107": {
+      "title": "Phantoms in the Heart, Part 2",
+      "volume": "19",
+      "last_updated": "1320080400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/muwtje"
+      }
+    },
+    "108": {
+      "title": "Phantoms in the Heart, Part 3",
+      "volume": "20",
+      "last_updated": "1341248400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/48tzzp"
+      }
+    },
+    "109": {
+      "title": "Phantoms in the Heart, Part 4",
+      "volume": "20",
+      "last_updated": "1341248400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/cc0hft"
+      }
+    },
+    "110": {
+      "title": "Remains of the Demon Claw, Part 1",
+      "volume": "20",
+      "last_updated": "1341248400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/frr4mu"
+      }
+    },
+    "111": {
+      "title": "Remains of the Demon Claw, Part 2",
+      "volume": "20",
+      "last_updated": "1341248400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/w1b1a2"
+      }
+    },
+    "112": {
+      "title": "Remains of the Demon Claw, Part 3",
+      "volume": "20",
+      "last_updated": "1341248400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/my8f8n"
+      }
+    },
+    "113": {
+      "title": "Remains of the Demon Claw, Part 4",
+      "volume": "20",
+      "last_updated": "1341248400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/29hymn"
+      }
+    },
+    "114": {
+      "title": "Corpse of the Witch, Part 1",
+      "volume": "21",
+      "last_updated": "1352134800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/3potji"
+      }
+    },
+    "115": {
+      "title": "Corpse of the Witch, Part 2",
+      "volume": "21",
+      "last_updated": "1352134800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/p36zcy"
+      }
+    },
+    "116": {
+      "title": "Corpse of the Witch, Part 3",
+      "volume": "21",
+      "last_updated": "1352134800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/xkh2wz"
+      }
+    },
+    "117": {
+      "title": "Corpse of the Witch, Part 4",
+      "volume": "21",
+      "last_updated": "1352134800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/1r28bt"
+      }
+    },
+    "118": {
+      "title": "Corpse of the Witch, Part 5",
+      "volume": "21",
+      "last_updated": "1352134800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/tlyter"
+      }
+    },
+    "119": {
+      "title": "Corpse of the Witch, Part 6",
+      "volume": "21",
+      "last_updated": "1352134800",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/hoenz1"
+      }
+    },
+    "120": {
+      "title": "Claws and Fangs of the Abyss, Part 1",
+      "volume": "22",
+      "last_updated": "1367859600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/3twoag"
+      }
+    },
+    "121": {
+      "title": "Claws and Fangs of the Abyss, Part 2",
+      "volume": "22",
+      "last_updated": "1367859600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/7ul1vh"
+      }
+    },
+    "122": {
+      "title": "Claws and Fangs of the Abyss, Part 3",
+      "volume": "22",
+      "last_updated": "1367859600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/crgck2"
+      }
+    },
+    "123": {
+      "title": "Claws and Fangs of the Abyss, Part 4",
+      "volume": "22",
+      "last_updated": "1367859600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/aszs2w"
+      }
+    },
+    "124": {
+      "title": "Claws and Fangs of the Abyss, Part 5",
+      "volume": "22",
+      "last_updated": "1367859600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/0j9nyc"
+      }
+    },
+    "125": {
+      "title": "Claws and Fangs of the Abyss, Part 6",
+      "volume": "22",
+      "last_updated": "1367859600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/vvx5dh"
+      }
+    },
+    "126": {
+      "title": "Claws and Fangs of the Abyss, Part 7",
+      "volume": "23",
+      "last_updated": "1382547600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/kycvp1"
+      }
+    },
+    "127": {
+      "title": "Claws and Fangs of the Abyss, Part 8",
+      "volume": "23",
+      "last_updated": "1382547600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/7om6qr"
+      }
+    },
+    "128": {
+      "title": "Mark of the Warrior, Part 1",
+      "volume": "23",
+      "last_updated": "1382547600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/v3x9oh"
+      }
+    },
+    "129": {
+      "title": "Mark of the Warrior, Part 2",
+      "volume": "23",
+      "last_updated": "1382547600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/srayhu"
+      }
+    },
+    "130": {
+      "title": "Mark of the Warrior, Part 3",
+      "volume": "23",
+      "last_updated": "1382547600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/407pjt"
+      }
+    },
+    "131": {
+      "title": "Mark of the Warrior, Part 4",
+      "volume": "23",
+      "last_updated": "1382547600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/h7vvar"
+      }
+    },
+    "132": {
+      "title": "Mark of the Warrior, Part 5",
+      "volume": "24",
+      "last_updated": "1399309200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/wpwvw1"
+      }
+    },
+    "133": {
+      "title": "Army of the Underworld, Part 1",
+      "volume": "24",
+      "last_updated": "1399309200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/fa41ox"
+      }
+    },
+    "134": {
+      "title": "Army of the Underworld, Part 2",
+      "volume": "24",
+      "last_updated": "1399309200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/binesx"
+      }
+    },
+    "135": {
+      "title": "Army of the Underworld, Part 3",
+      "volume": "24",
+      "last_updated": "1399309200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/wl3qs7"
+      }
+    },
+    "136": {
+      "title": "Army of the Underworld, Part 4",
+      "volume": "24",
+      "last_updated": "1399309200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/9gpq13"
+      }
+    },
+    "137": {
+      "title": "Army of the Underworld, Part 5",
+      "volume": "24",
+      "last_updated": "1399309200",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/9kbuvp"
+      }
+    },
+    "138": {
+      "title": "Army of the Underworld, Part 6",
+      "volume": "25",
+      "last_updated": "1415034000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/hokg96"
+      }
+    },
+    "139": {
+      "title": "Sword of the Dark Deep, Part 1",
+      "volume": "25",
+      "last_updated": "1415034000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/3be2c6"
+      }
+    },
+    "140": {
+      "title": "Sword of the Dark Deep, Part 2",
+      "volume": "25",
+      "last_updated": "1415034000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/ay1kce"
+      }
+    },
+    "141": {
+      "title": "Sword of the Dark Deep, Part 3",
+      "volume": "25",
+      "last_updated": "1415034000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/na28ja"
+      }
+    },
+    "142": {
+      "title": "Sword of the Dark Deep, Part 4",
+      "volume": "25",
+      "last_updated": "1415034000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/pk60ct"
+      }
+    },
+    "143": {
+      "title": "Sword of the Dark Deep, Part 5",
+      "volume": "25",
+      "last_updated": "1415034000",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/nj32wj"
+      }
+    },
+    "144": {
+      "title": "A Blade from Far Away, Part 1",
+      "volume": "26",
+      "last_updated": "1425315600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/cgl3ap"
+      }
+    },
+    "145": {
+      "title": "A Blade from Far Away, Part 2",
+      "volume": "26",
+      "last_updated": "1425315600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/8qgz3m"
+      }
+    },
+    "146": {
+      "title": "A Blade from Far Away, Part 3",
+      "volume": "26",
+      "last_updated": "1425315600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/5083mx"
+      }
+    },
+    "147": {
+      "title": "A Blade from Far Away, Part 4",
+      "volume": "26",
+      "last_updated": "1425315600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/et9ok5"
+      }
+    },
+    "148": {
+      "title": "A Blade from Far Away, Part 5",
+      "volume": "26",
+      "last_updated": "1425315600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/k80f5j"
+      }
+    },
+    "149": {
+      "title": "A Blade from Far Away, Part 6",
+      "volume": "26",
+      "last_updated": "1425315600",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/jjrd67"
+      }
+    },
+    "150": {
+      "title": "Silver-Eyed Warriors, Part 1",
+      "volume": "27",
+      "last_updated": "1444064400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/sojshe"
+      }
+    },
+    "151": {
+      "title": "Silver-Eyed Warriors, Part 2",
+      "volume": "27",
+      "last_updated": "1444064400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/gscpab"
+      }
+    },
+    "152": {
+      "title": "Silver-Eyed Warriors, Part 3",
+      "volume": "27",
+      "last_updated": "1444064400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/366cib"
+      }
+    },
+    "153": {
+      "title": "Silver-Eyed Warriors, Part 4",
+      "volume": "27",
+      "last_updated": "1444064400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/9cj0yx"
+      }
+    },
+    "154": {
+      "title": "Silver-Eyed Warriors, Part 5",
+      "volume": "27",
+      "last_updated": "1444064400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/yjozis"
+      }
+    },
+    "155": {
+      "title": "Silver-Eyed Warriors, Part 6",
+      "volume": "27",
+      "last_updated": "1444064400",
+      "groups": {
+        "VIZ Media": "/proxy/api/catbox/chapter/ucns13"
+      }
+    }
+  }
 }
