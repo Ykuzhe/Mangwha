@@ -30,7 +30,7 @@
     <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/4b7afa46-b783-431c-bd00-2ff9598ff366" width="160" height="240">
 </a> 
 
-<a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVmVudXMlMjBpbiUyMHRoZSUyMEJsaW5kJTIwU3BvdC5qc29u/" title="Junji Ito Short Story Collection: BEST OF BEST">
+<a href="https://cubari.moe/read/gist/cmF3L1lrdXpoZS9NYW5nd2hhL21hc3Rlci9KdW5qaSUyMEl0byUyMFNob3J0JTIwU3RvcnklMjBDb2xsZWN0aW9uOiUyMEJFU1QlMjBPRiUyMEJFU1QuanNvbg/" title="Junji Ito Short Story Collection: BEST OF BEST">
     <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/640fd6b7-37d7-48bd-a62a-e7a1e818f07c" width="160" height="240">
 </a>
 
