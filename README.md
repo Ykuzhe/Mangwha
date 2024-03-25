@@ -14,7 +14,7 @@
     <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/85607310-b38a-42ae-a545-4d7971c3828f" width="160" height="240"
 </a>
 
-<a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvR29vZGJ5ZSwlMjBFcmkuanNvbg/](https://cubari.moe/read/gist/cmF3L1lrdXpoZS9NYW5nd2hhL21hc3Rlci9DbGF5bW9yZS5qc29u/" title="Claymore">
+<a href="https://cubari.moe/read/gist/cmF3L1lrdXpoZS9NYW5nd2hhL21hc3Rlci9DbGF5bW9yZS5qc29u/" title="Claymore">
     <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/6df54fa6-e932-42fc-8aa4-2db81f47262c" width="160" height="240">
 </a>
 
