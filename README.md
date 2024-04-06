@@ -96,7 +96,7 @@ if you'd like to contribute then feel free to do so, there are some requirements
 
 ### For adding a new series to the list
 
-- Series must have incomplete English chapters/or dropped by scanlators on Mangadex
+- Series must have incomplete English chapters/dropped by scanlators on Mangadex
 - Information must be accurate
 - Recite the source(s) of the information in the PR description (i.e Wikipedia, Mangadex, etc)
 - Please confirm to me first via Discord when you're working on adding a series, I might be already working on it
