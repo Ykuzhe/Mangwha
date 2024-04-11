@@ -100,7 +100,15 @@ if you'd like to contribute then feel free to do so, there are some requirements
 - Information must be accurate
 - Recite the source(s) of the information in the PR description (i.e Wikipedia, Mangadex, etc)
 - Please confirm to me first via Discord when you're working on adding a series, I might be already working on it
-- If you got the content of the series from another person, please credit them by typing their name, where you got it from and the link (e.g Anon Meow.si link: [link here]) in the series description (at the description part in the JSON file). You can see other examples by clicking one of the series listed above
 - When adding the series to the README, make sure it's alphabetically ordered alongside existing series
+- For credits and/or notes, please use the template below:
+  ```
+  Credits:
+  • XYZ for providing the content and uploading them to (Hyperlinked text of the source here) [Example: • Anon for providing the content and uploading them to [Google Drive](https://drive.google.com)]
+  • ZYX for X - (Hyperlinked text of the X's social media (Mangadex group, blog, Twitter, etc.)) [Example: • Anon for uploading Vol.1-5 to Mangadex - [Mangadex group](https://mangadex.org/group)]
+
+  Notes:
+  • This is an example for the notes, you should add this for whenever you need to put a notice or something like that for the readers.
+  ``` 
 
 That's all, might change but yeah, thank you!
