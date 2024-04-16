@@ -51,7 +51,7 @@
 </a>
 
 <a href="https://cubari.moe/read/gist/cmF3L1lrdXpoZS9NYW5nd2hhL21hc3Rlci9TdW4tS2VuJTIwUm9jay5qc29u/" title="Sun-Ken Rock">
-    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/8487a3c5-bd67-42be-a60a-54ff0fbcd9c6)" width="160" height="240">
+    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/8487a3c5-bd67-42be-a60a-54ff0fbcd9c6" width="160" height="240">
 </a>
 
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVGFrb3BpJ3MlMjBPcmlnaW5hbCUyMFNpbi5qc29u/" title="Takopi's Orignal Sin">
