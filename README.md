@@ -84,7 +84,6 @@
 
 ## Others' Cubari Gist
 
-- [One Piece](https://cubari.moe/read/gist/cmF3L2VOVjI1L2N1YmFyaS9tYXN0ZXIvb25lcGllY2UuanNvbg/) - [Maintainer](https://github.com/eNV25/) / [Repo](https://github.com/eNV25/cubari)
 - [One Punch Man](https://cubari.moe/read/gist/Z2lzdC9mdW5reWhpcHBvLzFkNDBiZDVkYWUxMWUwM2E2YWYyMGU1YTlhMDMwZDgxL3Jhdy9vcG0uanNvbg/) - [Subreddit](https://www.reddit.com/r/OnePunchMan/) / [Discord](https://discord.gg/onepunchman)
 
 If there's any issues, contact me at Discord (Rioki#3797) or create an issue in this repository.
