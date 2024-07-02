@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> This project will be on a hiatus due to my system being broken and thus all the files are currently inaccessible. The listed manga and manwha will still be available to read, expect [Tomb Raider King](https://anilist.co/manga/110462) to be listed soon.
+> This project will be on a hiatus due to my system being broken and thus all the files that let's me work for this project are currently inaccessible. The listed manga and manwha will still be available to read, expect [Tomb Raider King](https://anilist.co/manga/110462) to be listed soon.
 
 <div align="center">
 
