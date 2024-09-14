@@ -61,10 +61,6 @@
     <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/c91e53f1-3d3a-4a73-8e93-a5143bd64b1b" width="160" height="240">
 </a>
 
-<a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvVXp1bWFraS5qc29u/" title="Uzumaki">
-    <img src="https://github.com/Ykuzhe/Mangwha/assets/118425258/cfcdffe9-2d77-4ede-89bb-b37abe2c0d07" width="160" height="240">
-</a>
-
 ## Manwha
 
 <a href="https://cubari.moe/proxy/gist/cmF3L1lrdXpoZS9NYW5nYS9tYXN0ZXIvSGVyJTIwU3VtbW9uLmpzb24/" title="Her Summon">
